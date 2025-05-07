@@ -1,0 +1,2001 @@
+Complaint_ID,Date,State,Hospital_Type,Department,Complaint_Category,Severity,Resolved
+CMP100000,2024-11-23,West Bengal,CHC,Outpatient,Billing issues,Medium,No
+CMP100001,2024-02-27,Karnataka,Medical College Hospital,Surgery,Long wait time,Low,No
+CMP100002,2024-01-13,Karnataka,PHC,Emergency,Unavailability of medicine,High,Yes
+CMP100003,2024-05-20,Tamil Nadu,District Hospital,Emergency,Rude staff,Low,No
+CMP100004,2024-05-05,Uttar Pradesh,District Hospital,Maternity,Long wait time,Medium,Yes
+CMP100005,2024-04-24,Rajasthan,District Hospital,Outpatient,Lack of communication,High,No
+CMP100006,2024-03-12,Maharashtra,Medical College Hospital,Surgery,Unclean wards,High,No
+CMP100007,2024-02-22,Bihar,District Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP100008,2024-12-12,Maharashtra,District Hospital,Outpatient,Unclean wards,High,No
+CMP100009,2024-10-06,Uttar Pradesh,CHC,Outpatient,Rude staff,Medium,Yes
+CMP100010,2024-02-14,Uttar Pradesh,Medical College Hospital,Surgery,Lack of communication,Low,Yes
+CMP100011,2024-10-29,Bihar,Medical College Hospital,Maternity,Unavailability of medicine,Low,No
+CMP100012,2024-08-04,Tamil Nadu,District Hospital,Outpatient,Rude staff,Low,No
+CMP100013,2024-01-17,West Bengal,Medical College Hospital,Surgery,Unavailability of medicine,Low,Yes
+CMP100014,2024-01-16,Rajasthan,CHC,Maternity,Billing issues,High,No
+CMP100015,2024-02-17,Karnataka,CHC,Outpatient,Rude staff,Medium,No
+CMP100016,2024-04-21,Tamil Nadu,PHC,Surgery,Lack of communication,Low,Yes
+CMP100017,2024-04-29,Uttar Pradesh,CHC,Maternity,Lack of communication,Medium,No
+CMP100018,2024-09-15,Uttar Pradesh,PHC,Surgery,Test delays,Medium,No
+CMP100019,2024-11-04,Rajasthan,District Hospital,Diagnostics,Billing issues,Medium,No
+CMP100020,2024-01-14,Tamil Nadu,PHC,Maternity,Rude staff,Low,Yes
+CMP100021,2024-10-14,Karnataka,PHC,Emergency,Billing issues,Low,No
+CMP100022,2024-04-11,Karnataka,District Hospital,Pediatrics,Billing issues,High,Yes
+CMP100023,2024-11-28,Uttar Pradesh,PHC,Maternity,Lack of communication,Low,Yes
+CMP100024,2024-12-25,West Bengal,CHC,Surgery,Rude staff,Low,Yes
+CMP100025,2024-10-06,Karnataka,District Hospital,Pharmacy,Long wait time,Medium,Yes
+CMP100026,2024-08-02,Karnataka,Medical College Hospital,Maternity,Unclean wards,Medium,Yes
+CMP100027,2024-04-22,Bihar,PHC,Diagnostics,Lack of communication,Medium,No
+CMP100028,2024-08-17,West Bengal,CHC,Maternity,Billing issues,High,No
+CMP100029,2024-10-28,Bihar,Medical College Hospital,Maternity,Unclean wards,Low,No
+CMP100030,2024-05-22,Maharashtra,District Hospital,Diagnostics,Lack of communication,Low,Yes
+CMP100031,2024-01-04,Tamil Nadu,District Hospital,Emergency,Rude staff,High,Yes
+CMP100032,2024-03-22,Uttar Pradesh,District Hospital,Outpatient,Billing issues,Low,No
+CMP100033,2024-12-23,Karnataka,CHC,Pediatrics,Unclean wards,Low,No
+CMP100034,2024-08-04,Maharashtra,Medical College Hospital,Outpatient,Lack of communication,Medium,No
+CMP100035,2024-06-23,Bihar,District Hospital,Surgery,Unclean wards,Medium,No
+CMP100036,2024-05-22,Karnataka,CHC,Diagnostics,Unavailability of medicine,Low,No
+CMP100037,2024-03-20,Tamil Nadu,CHC,Surgery,Long wait time,High,No
+CMP100038,2024-04-20,Bihar,Medical College Hospital,Pharmacy,Test delays,Low,No
+CMP100039,2024-06-21,West Bengal,District Hospital,Maternity,Unclean wards,Low,Yes
+CMP100040,2024-02-22,West Bengal,District Hospital,Outpatient,Test delays,High,No
+CMP100041,2024-02-17,Uttar Pradesh,PHC,Surgery,Lack of communication,Low,No
+CMP100042,2024-07-13,Karnataka,District Hospital,Surgery,Rude staff,Medium,Yes
+CMP100043,2024-02-19,Maharashtra,Medical College Hospital,Diagnostics,Rude staff,Medium,No
+CMP100044,2024-07-02,Uttar Pradesh,CHC,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP100045,2024-06-25,Karnataka,Medical College Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP100046,2024-11-05,Karnataka,District Hospital,Surgery,Billing issues,Low,No
+CMP100047,2024-05-15,Karnataka,CHC,Pharmacy,Rude staff,High,Yes
+CMP100048,2024-01-23,Rajasthan,Medical College Hospital,Pediatrics,Billing issues,Medium,No
+CMP100049,2024-08-23,Karnataka,District Hospital,Pharmacy,Rude staff,Low,No
+CMP100050,2024-10-01,Karnataka,District Hospital,Diagnostics,Billing issues,High,Yes
+CMP100051,2024-03-04,Uttar Pradesh,District Hospital,Pediatrics,Long wait time,High,Yes
+CMP100052,2024-07-12,Tamil Nadu,PHC,Maternity,Unclean wards,High,No
+CMP100053,2024-02-10,Rajasthan,PHC,Diagnostics,Long wait time,High,No
+CMP100054,2024-10-09,Tamil Nadu,PHC,Pediatrics,Long wait time,Low,No
+CMP100055,2024-05-30,Uttar Pradesh,CHC,Maternity,Unclean wards,High,Yes
+CMP100056,2024-11-17,West Bengal,Medical College Hospital,Pharmacy,Test delays,Low,Yes
+CMP100057,2024-11-12,Tamil Nadu,CHC,Surgery,Lack of communication,Medium,Yes
+CMP100058,2024-07-04,Maharashtra,CHC,Outpatient,Billing issues,Medium,Yes
+CMP100059,2024-10-22,Maharashtra,District Hospital,Surgery,Long wait time,Low,Yes
+CMP100060,2024-04-08,West Bengal,District Hospital,Surgery,Unclean wards,Low,No
+CMP100061,2024-12-26,Uttar Pradesh,CHC,Outpatient,Billing issues,High,Yes
+CMP100062,2024-02-05,Maharashtra,Medical College Hospital,Diagnostics,Unclean wards,High,Yes
+CMP100063,2024-01-24,Rajasthan,PHC,Pediatrics,Unclean wards,Low,No
+CMP100064,2024-12-04,Uttar Pradesh,CHC,Surgery,Lack of communication,High,No
+CMP100065,2024-04-26,Maharashtra,CHC,Maternity,Lack of communication,Low,Yes
+CMP100066,2024-05-28,Bihar,Medical College Hospital,Pharmacy,Test delays,High,Yes
+CMP100067,2024-02-10,West Bengal,Medical College Hospital,Pharmacy,Lack of communication,Low,Yes
+CMP100068,2024-04-29,West Bengal,CHC,Diagnostics,Long wait time,Low,No
+CMP100069,2024-02-21,West Bengal,District Hospital,Diagnostics,Unclean wards,High,No
+CMP100070,2024-07-13,Uttar Pradesh,District Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP100071,2024-05-22,Rajasthan,CHC,Emergency,Rude staff,Low,Yes
+CMP100072,2024-08-20,Karnataka,District Hospital,Maternity,Long wait time,Medium,Yes
+CMP100073,2024-11-21,West Bengal,Medical College Hospital,Emergency,Billing issues,Low,No
+CMP100074,2024-07-05,Rajasthan,PHC,Pharmacy,Lack of communication,High,No
+CMP100075,2024-03-24,Maharashtra,Medical College Hospital,Surgery,Long wait time,Medium,Yes
+CMP100076,2024-07-08,Bihar,PHC,Emergency,Test delays,High,No
+CMP100077,2024-06-30,Uttar Pradesh,CHC,Surgery,Test delays,Medium,Yes
+CMP100078,2024-04-17,Maharashtra,CHC,Outpatient,Unclean wards,High,Yes
+CMP100079,2024-12-09,Karnataka,PHC,Pharmacy,Rude staff,Medium,Yes
+CMP100080,2024-05-16,Maharashtra,District Hospital,Emergency,Rude staff,High,Yes
+CMP100081,2024-12-25,Rajasthan,CHC,Pharmacy,Unavailability of medicine,Low,No
+CMP100082,2024-12-15,West Bengal,PHC,Outpatient,Unavailability of medicine,Low,No
+CMP100083,2024-11-27,Bihar,District Hospital,Outpatient,Rude staff,High,No
+CMP100084,2024-02-06,Rajasthan,PHC,Pediatrics,Test delays,Medium,Yes
+CMP100085,2024-11-07,Rajasthan,CHC,Pharmacy,Long wait time,Medium,No
+CMP100086,2024-11-21,West Bengal,CHC,Emergency,Long wait time,Low,Yes
+CMP100087,2024-03-28,Tamil Nadu,Medical College Hospital,Pediatrics,Unclean wards,Low,No
+CMP100088,2024-09-30,West Bengal,PHC,Pediatrics,Test delays,Low,No
+CMP100089,2024-05-05,Tamil Nadu,District Hospital,Maternity,Unavailability of medicine,Medium,No
+CMP100090,2024-03-24,West Bengal,CHC,Pediatrics,Rude staff,Medium,No
+CMP100091,2024-08-24,Bihar,Medical College Hospital,Pharmacy,Test delays,Low,No
+CMP100092,2024-07-13,Rajasthan,Medical College Hospital,Surgery,Unclean wards,Low,Yes
+CMP100093,2024-05-18,Bihar,District Hospital,Surgery,Lack of communication,Medium,Yes
+CMP100094,2024-11-23,Uttar Pradesh,CHC,Surgery,Billing issues,Medium,Yes
+CMP100095,2024-12-18,West Bengal,Medical College Hospital,Surgery,Test delays,Medium,Yes
+CMP100096,2024-10-12,Rajasthan,District Hospital,Surgery,Billing issues,High,Yes
+CMP100097,2024-04-22,Tamil Nadu,District Hospital,Outpatient,Long wait time,Low,No
+CMP100098,2024-12-16,Uttar Pradesh,PHC,Emergency,Unclean wards,Low,Yes
+CMP100099,2024-06-15,Maharashtra,PHC,Emergency,Unclean wards,Medium,Yes
+CMP100100,2024-01-29,Bihar,CHC,Diagnostics,Lack of communication,Medium,No
+CMP100101,2024-04-27,Uttar Pradesh,Medical College Hospital,Pharmacy,Rude staff,High,No
+CMP100102,2024-01-17,Rajasthan,Medical College Hospital,Outpatient,Lack of communication,Medium,Yes
+CMP100103,2024-06-10,Bihar,PHC,Outpatient,Test delays,Medium,Yes
+CMP100104,2024-07-24,Uttar Pradesh,CHC,Pharmacy,Unclean wards,High,No
+CMP100105,2024-05-17,Maharashtra,Medical College Hospital,Pharmacy,Rude staff,High,No
+CMP100106,2024-02-03,Maharashtra,District Hospital,Surgery,Lack of communication,Low,No
+CMP100107,2024-04-18,Karnataka,District Hospital,Outpatient,Lack of communication,Low,No
+CMP100108,2024-10-17,Tamil Nadu,District Hospital,Outpatient,Unavailability of medicine,High,Yes
+CMP100109,2024-06-10,Rajasthan,District Hospital,Pharmacy,Test delays,Medium,Yes
+CMP100110,2024-04-18,Karnataka,PHC,Pediatrics,Unclean wards,Low,No
+CMP100111,2024-12-01,Tamil Nadu,CHC,Pharmacy,Test delays,Low,Yes
+CMP100112,2024-09-12,Maharashtra,District Hospital,Emergency,Test delays,Medium,Yes
+CMP100113,2024-07-21,Uttar Pradesh,District Hospital,Surgery,Long wait time,Medium,No
+CMP100114,2024-11-25,Rajasthan,Medical College Hospital,Diagnostics,Lack of communication,Medium,Yes
+CMP100115,2024-08-22,West Bengal,PHC,Surgery,Test delays,Medium,No
+CMP100116,2024-03-14,Bihar,Medical College Hospital,Outpatient,Long wait time,High,No
+CMP100117,2024-05-15,Maharashtra,Medical College Hospital,Maternity,Unclean wards,High,Yes
+CMP100118,2024-03-12,Maharashtra,Medical College Hospital,Emergency,Test delays,Medium,Yes
+CMP100119,2024-05-06,Rajasthan,District Hospital,Maternity,Unavailability of medicine,Low,Yes
+CMP100120,2024-10-14,Rajasthan,CHC,Pharmacy,Billing issues,Medium,Yes
+CMP100121,2024-10-02,Uttar Pradesh,PHC,Pediatrics,Long wait time,Low,Yes
+CMP100122,2024-05-14,Rajasthan,District Hospital,Diagnostics,Unavailability of medicine,Low,Yes
+CMP100123,2024-10-26,West Bengal,PHC,Outpatient,Unclean wards,High,Yes
+CMP100124,2024-08-07,Maharashtra,District Hospital,Diagnostics,Lack of communication,High,No
+CMP100125,2024-10-25,Maharashtra,CHC,Pediatrics,Unavailability of medicine,Low,No
+CMP100126,2024-07-23,Uttar Pradesh,CHC,Maternity,Test delays,Low,Yes
+CMP100127,2024-07-04,Rajasthan,PHC,Maternity,Billing issues,Medium,Yes
+CMP100128,2024-04-22,Maharashtra,Medical College Hospital,Surgery,Billing issues,Medium,Yes
+CMP100129,2024-03-11,Tamil Nadu,District Hospital,Pediatrics,Billing issues,Medium,Yes
+CMP100130,2024-09-17,Tamil Nadu,PHC,Emergency,Lack of communication,Low,Yes
+CMP100131,2024-09-09,West Bengal,Medical College Hospital,Surgery,Rude staff,Medium,Yes
+CMP100132,2024-02-16,Tamil Nadu,CHC,Maternity,Lack of communication,Low,No
+CMP100133,2024-01-25,Tamil Nadu,District Hospital,Pharmacy,Test delays,Medium,Yes
+CMP100134,2024-02-26,Maharashtra,CHC,Emergency,Long wait time,Low,Yes
+CMP100135,2024-03-19,Bihar,District Hospital,Maternity,Billing issues,High,Yes
+CMP100136,2024-11-17,Tamil Nadu,Medical College Hospital,Pediatrics,Unavailability of medicine,High,No
+CMP100137,2024-03-22,West Bengal,District Hospital,Surgery,Test delays,Low,No
+CMP100138,2024-12-14,Tamil Nadu,Medical College Hospital,Diagnostics,Long wait time,High,Yes
+CMP100139,2024-08-04,Maharashtra,District Hospital,Emergency,Billing issues,Low,No
+CMP100140,2024-11-01,Rajasthan,PHC,Pediatrics,Test delays,High,Yes
+CMP100141,2024-02-02,Karnataka,CHC,Emergency,Unavailability of medicine,High,Yes
+CMP100142,2024-07-16,Maharashtra,District Hospital,Pediatrics,Long wait time,High,No
+CMP100143,2024-07-14,Rajasthan,District Hospital,Pharmacy,Long wait time,High,Yes
+CMP100144,2024-11-01,Uttar Pradesh,CHC,Pharmacy,Unclean wards,Medium,No
+CMP100145,2024-08-27,West Bengal,District Hospital,Pediatrics,Unavailability of medicine,Medium,No
+CMP100146,2024-09-27,Tamil Nadu,CHC,Diagnostics,Unclean wards,Medium,Yes
+CMP100147,2024-05-08,Uttar Pradesh,Medical College Hospital,Diagnostics,Billing issues,High,No
+CMP100148,2024-10-10,Tamil Nadu,PHC,Pediatrics,Long wait time,High,No
+CMP100149,2024-01-06,Karnataka,PHC,Emergency,Unavailability of medicine,High,No
+CMP100150,2024-12-14,Rajasthan,CHC,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP100151,2024-02-28,Bihar,PHC,Pediatrics,Rude staff,High,Yes
+CMP100152,2024-12-15,Karnataka,CHC,Outpatient,Test delays,High,Yes
+CMP100153,2024-10-01,Maharashtra,PHC,Maternity,Billing issues,Medium,Yes
+CMP100154,2024-05-16,Maharashtra,District Hospital,Maternity,Test delays,Medium,Yes
+CMP100155,2024-11-24,Uttar Pradesh,District Hospital,Pediatrics,Long wait time,Low,Yes
+CMP100156,2024-06-23,Uttar Pradesh,PHC,Surgery,Billing issues,Medium,Yes
+CMP100157,2024-02-27,Maharashtra,Medical College Hospital,Emergency,Test delays,High,No
+CMP100158,2024-05-30,West Bengal,PHC,Maternity,Lack of communication,High,Yes
+CMP100159,2024-08-10,Maharashtra,District Hospital,Pediatrics,Rude staff,Low,Yes
+CMP100160,2024-03-21,Maharashtra,PHC,Maternity,Rude staff,High,Yes
+CMP100161,2024-08-20,Tamil Nadu,District Hospital,Diagnostics,Unavailability of medicine,Medium,No
+CMP100162,2024-01-02,Karnataka,Medical College Hospital,Emergency,Rude staff,Medium,No
+CMP100163,2024-05-14,West Bengal,Medical College Hospital,Pharmacy,Billing issues,High,Yes
+CMP100164,2024-09-13,Tamil Nadu,PHC,Surgery,Long wait time,Low,No
+CMP100165,2024-04-01,Bihar,District Hospital,Emergency,Test delays,High,Yes
+CMP100166,2024-09-16,West Bengal,Medical College Hospital,Pharmacy,Unclean wards,High,No
+CMP100167,2024-02-24,Tamil Nadu,CHC,Surgery,Test delays,High,No
+CMP100168,2024-11-16,Maharashtra,PHC,Surgery,Lack of communication,High,No
+CMP100169,2024-06-01,Tamil Nadu,CHC,Outpatient,Billing issues,Medium,Yes
+CMP100170,2024-11-23,Uttar Pradesh,PHC,Pharmacy,Lack of communication,High,No
+CMP100171,2024-09-16,West Bengal,District Hospital,Surgery,Test delays,Medium,No
+CMP100172,2024-11-07,Rajasthan,District Hospital,Maternity,Rude staff,High,Yes
+CMP100173,2024-04-11,Maharashtra,CHC,Outpatient,Lack of communication,Medium,No
+CMP100174,2024-03-19,Karnataka,District Hospital,Outpatient,Test delays,Low,No
+CMP100175,2024-07-10,Tamil Nadu,District Hospital,Emergency,Lack of communication,Medium,Yes
+CMP100176,2024-03-23,Maharashtra,District Hospital,Maternity,Rude staff,Low,Yes
+CMP100177,2024-10-03,West Bengal,CHC,Maternity,Unavailability of medicine,Low,Yes
+CMP100178,2024-09-28,Rajasthan,District Hospital,Diagnostics,Unavailability of medicine,High,No
+CMP100179,2024-01-01,Uttar Pradesh,Medical College Hospital,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP100180,2024-11-02,Uttar Pradesh,PHC,Pediatrics,Billing issues,Medium,No
+CMP100181,2024-06-14,West Bengal,Medical College Hospital,Surgery,Test delays,High,Yes
+CMP100182,2024-09-07,West Bengal,CHC,Surgery,Unclean wards,High,No
+CMP100183,2024-01-10,Tamil Nadu,CHC,Surgery,Unavailability of medicine,High,Yes
+CMP100184,2024-02-27,Maharashtra,District Hospital,Emergency,Long wait time,Low,No
+CMP100185,2024-07-04,Karnataka,Medical College Hospital,Outpatient,Long wait time,High,No
+CMP100186,2024-06-06,Rajasthan,CHC,Diagnostics,Unavailability of medicine,High,No
+CMP100187,2024-05-02,West Bengal,PHC,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP100188,2024-01-30,West Bengal,CHC,Pediatrics,Unclean wards,Low,Yes
+CMP100189,2024-05-03,Bihar,Medical College Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP100190,2024-10-17,Uttar Pradesh,PHC,Outpatient,Billing issues,High,No
+CMP100191,2024-02-10,Bihar,PHC,Outpatient,Billing issues,High,Yes
+CMP100192,2024-02-13,Rajasthan,District Hospital,Pharmacy,Lack of communication,Medium,Yes
+CMP100193,2024-09-05,Karnataka,PHC,Emergency,Long wait time,High,No
+CMP100194,2024-02-05,West Bengal,District Hospital,Diagnostics,Unclean wards,Medium,Yes
+CMP100195,2024-09-29,Rajasthan,District Hospital,Surgery,Test delays,High,No
+CMP100196,2024-03-05,Tamil Nadu,CHC,Maternity,Billing issues,Low,Yes
+CMP100197,2024-03-06,Uttar Pradesh,CHC,Emergency,Test delays,Low,No
+CMP100198,2024-12-03,Bihar,District Hospital,Surgery,Lack of communication,Low,No
+CMP100199,2024-08-31,Uttar Pradesh,Medical College Hospital,Diagnostics,Billing issues,High,No
+CMP100200,2024-10-08,Bihar,District Hospital,Pharmacy,Unavailability of medicine,High,Yes
+CMP100201,2024-03-25,Rajasthan,Medical College Hospital,Emergency,Unclean wards,Medium,Yes
+CMP100202,2024-05-15,West Bengal,PHC,Diagnostics,Billing issues,Low,No
+CMP100203,2024-09-27,Maharashtra,PHC,Surgery,Unavailability of medicine,Medium,Yes
+CMP100204,2024-11-06,Maharashtra,PHC,Diagnostics,Lack of communication,High,Yes
+CMP100205,2024-08-04,Tamil Nadu,District Hospital,Pediatrics,Test delays,Medium,No
+CMP100206,2024-04-18,Karnataka,Medical College Hospital,Maternity,Test delays,High,Yes
+CMP100207,2024-10-03,Uttar Pradesh,District Hospital,Outpatient,Lack of communication,Low,No
+CMP100208,2024-12-19,Karnataka,PHC,Pediatrics,Long wait time,High,Yes
+CMP100209,2024-04-12,Bihar,CHC,Outpatient,Rude staff,Low,Yes
+CMP100210,2024-12-31,West Bengal,PHC,Diagnostics,Unclean wards,Medium,Yes
+CMP100211,2024-06-08,Tamil Nadu,PHC,Surgery,Long wait time,Medium,No
+CMP100212,2024-07-23,Maharashtra,CHC,Outpatient,Long wait time,High,No
+CMP100213,2024-12-09,Maharashtra,Medical College Hospital,Diagnostics,Unclean wards,High,Yes
+CMP100214,2024-11-28,Tamil Nadu,PHC,Diagnostics,Rude staff,Medium,No
+CMP100215,2024-07-10,Rajasthan,Medical College Hospital,Maternity,Unavailability of medicine,Low,No
+CMP100216,2024-08-12,Uttar Pradesh,CHC,Surgery,Long wait time,Low,No
+CMP100217,2024-09-21,Karnataka,CHC,Outpatient,Long wait time,High,Yes
+CMP100218,2024-08-19,Bihar,CHC,Surgery,Rude staff,Low,Yes
+CMP100219,2024-03-02,Karnataka,District Hospital,Surgery,Unavailability of medicine,Medium,Yes
+CMP100220,2024-05-06,Maharashtra,Medical College Hospital,Maternity,Long wait time,Medium,No
+CMP100221,2024-04-25,Tamil Nadu,District Hospital,Surgery,Test delays,High,No
+CMP100222,2024-02-02,Maharashtra,CHC,Outpatient,Rude staff,High,Yes
+CMP100223,2024-06-22,West Bengal,PHC,Outpatient,Unclean wards,Low,No
+CMP100224,2024-01-11,Maharashtra,District Hospital,Emergency,Rude staff,Medium,No
+CMP100225,2024-10-28,Bihar,PHC,Pharmacy,Lack of communication,Medium,No
+CMP100226,2024-10-10,Uttar Pradesh,District Hospital,Pediatrics,Rude staff,Low,Yes
+CMP100227,2024-04-27,Uttar Pradesh,Medical College Hospital,Diagnostics,Billing issues,High,No
+CMP100228,2024-10-28,West Bengal,PHC,Pharmacy,Test delays,High,Yes
+CMP100229,2024-04-22,Bihar,District Hospital,Maternity,Long wait time,High,Yes
+CMP100230,2024-01-04,Tamil Nadu,CHC,Surgery,Unavailability of medicine,High,Yes
+CMP100231,2024-02-06,Karnataka,CHC,Emergency,Unclean wards,High,Yes
+CMP100232,2024-12-28,Tamil Nadu,Medical College Hospital,Emergency,Test delays,High,No
+CMP100233,2024-11-19,Karnataka,Medical College Hospital,Maternity,Billing issues,High,No
+CMP100234,2024-01-31,Uttar Pradesh,District Hospital,Diagnostics,Rude staff,High,Yes
+CMP100235,2024-04-27,Maharashtra,CHC,Diagnostics,Unclean wards,Low,No
+CMP100236,2024-02-04,Rajasthan,PHC,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP100237,2024-01-17,Maharashtra,District Hospital,Pharmacy,Unclean wards,Medium,No
+CMP100238,2024-06-18,West Bengal,District Hospital,Outpatient,Unclean wards,Medium,No
+CMP100239,2024-02-06,Tamil Nadu,CHC,Pharmacy,Test delays,High,Yes
+CMP100240,2024-09-20,Bihar,Medical College Hospital,Pharmacy,Test delays,High,No
+CMP100241,2024-05-01,Karnataka,PHC,Surgery,Long wait time,High,No
+CMP100242,2024-05-22,Maharashtra,Medical College Hospital,Maternity,Unavailability of medicine,High,No
+CMP100243,2024-12-08,West Bengal,District Hospital,Emergency,Rude staff,Low,No
+CMP100244,2024-09-05,Tamil Nadu,District Hospital,Pediatrics,Long wait time,High,No
+CMP100245,2024-04-19,Bihar,CHC,Pharmacy,Long wait time,Medium,No
+CMP100246,2024-10-03,Uttar Pradesh,Medical College Hospital,Outpatient,Lack of communication,High,Yes
+CMP100247,2024-03-08,Bihar,District Hospital,Pharmacy,Lack of communication,High,No
+CMP100248,2024-10-19,Rajasthan,District Hospital,Surgery,Rude staff,Low,Yes
+CMP100249,2024-10-22,Uttar Pradesh,Medical College Hospital,Pediatrics,Lack of communication,Low,No
+CMP100250,2024-08-30,Tamil Nadu,CHC,Pediatrics,Billing issues,Medium,No
+CMP100251,2024-05-04,Bihar,CHC,Diagnostics,Test delays,High,No
+CMP100252,2024-08-30,West Bengal,PHC,Surgery,Unavailability of medicine,High,Yes
+CMP100253,2024-07-27,Tamil Nadu,PHC,Outpatient,Unclean wards,Low,Yes
+CMP100254,2024-04-07,Uttar Pradesh,PHC,Diagnostics,Billing issues,Medium,Yes
+CMP100255,2024-02-18,Rajasthan,Medical College Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP100256,2024-02-19,West Bengal,PHC,Pediatrics,Test delays,Low,Yes
+CMP100257,2024-12-03,Rajasthan,PHC,Outpatient,Test delays,Low,Yes
+CMP100258,2024-08-08,Maharashtra,Medical College Hospital,Outpatient,Lack of communication,High,Yes
+CMP100259,2024-06-30,West Bengal,PHC,Maternity,Unavailability of medicine,Medium,Yes
+CMP100260,2024-08-04,Maharashtra,CHC,Pharmacy,Unclean wards,Medium,No
+CMP100261,2024-07-29,West Bengal,District Hospital,Outpatient,Billing issues,Low,No
+CMP100262,2024-08-27,Uttar Pradesh,CHC,Pediatrics,Test delays,Low,Yes
+CMP100263,2024-01-28,Karnataka,CHC,Maternity,Test delays,Low,No
+CMP100264,2024-12-10,Karnataka,District Hospital,Pediatrics,Billing issues,Medium,Yes
+CMP100265,2024-11-30,Maharashtra,CHC,Emergency,Lack of communication,Low,No
+CMP100266,2024-11-26,Maharashtra,District Hospital,Emergency,Billing issues,Medium,No
+CMP100267,2024-02-20,Rajasthan,CHC,Maternity,Unclean wards,Low,Yes
+CMP100268,2024-02-01,Bihar,Medical College Hospital,Emergency,Unclean wards,Medium,No
+CMP100269,2024-07-25,West Bengal,Medical College Hospital,Outpatient,Unavailability of medicine,Low,Yes
+CMP100270,2024-06-22,West Bengal,PHC,Surgery,Billing issues,Medium,Yes
+CMP100271,2024-02-25,West Bengal,Medical College Hospital,Outpatient,Rude staff,High,Yes
+CMP100272,2024-05-07,West Bengal,District Hospital,Pediatrics,Lack of communication,High,No
+CMP100273,2024-04-08,Bihar,PHC,Pediatrics,Unavailability of medicine,Medium,No
+CMP100274,2024-04-07,Rajasthan,CHC,Pediatrics,Rude staff,High,Yes
+CMP100275,2024-10-01,Maharashtra,Medical College Hospital,Pharmacy,Lack of communication,High,Yes
+CMP100276,2024-08-17,Karnataka,PHC,Emergency,Unavailability of medicine,High,No
+CMP100277,2024-03-12,Bihar,Medical College Hospital,Pharmacy,Rude staff,Medium,Yes
+CMP100278,2024-08-04,Uttar Pradesh,PHC,Maternity,Unclean wards,Medium,Yes
+CMP100279,2024-04-03,Bihar,District Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP100280,2024-05-22,Rajasthan,District Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP100281,2024-08-24,Bihar,CHC,Pharmacy,Lack of communication,High,No
+CMP100282,2024-05-07,Bihar,PHC,Diagnostics,Lack of communication,Medium,Yes
+CMP100283,2024-02-08,Rajasthan,District Hospital,Diagnostics,Long wait time,Medium,No
+CMP100284,2024-08-14,Tamil Nadu,CHC,Emergency,Rude staff,High,Yes
+CMP100285,2024-10-08,Uttar Pradesh,PHC,Pharmacy,Unavailability of medicine,Medium,No
+CMP100286,2024-02-20,Maharashtra,CHC,Outpatient,Unavailability of medicine,High,No
+CMP100287,2024-01-26,Karnataka,District Hospital,Maternity,Unclean wards,Medium,No
+CMP100288,2024-11-29,Karnataka,CHC,Surgery,Rude staff,Low,Yes
+CMP100289,2024-10-03,Maharashtra,PHC,Outpatient,Billing issues,Low,No
+CMP100290,2024-01-08,Tamil Nadu,Medical College Hospital,Outpatient,Rude staff,High,Yes
+CMP100291,2024-02-17,Rajasthan,District Hospital,Surgery,Test delays,Low,No
+CMP100292,2024-05-01,Karnataka,PHC,Surgery,Billing issues,Medium,Yes
+CMP100293,2024-03-26,Bihar,PHC,Pediatrics,Unavailability of medicine,High,Yes
+CMP100294,2024-07-27,Karnataka,CHC,Pharmacy,Rude staff,Medium,No
+CMP100295,2024-09-05,Uttar Pradesh,District Hospital,Surgery,Rude staff,Low,No
+CMP100296,2024-09-03,Uttar Pradesh,Medical College Hospital,Diagnostics,Lack of communication,High,No
+CMP100297,2024-04-19,Maharashtra,Medical College Hospital,Surgery,Test delays,High,No
+CMP100298,2024-07-24,Tamil Nadu,CHC,Maternity,Test delays,High,No
+CMP100299,2024-01-31,West Bengal,District Hospital,Outpatient,Test delays,Low,Yes
+CMP100300,2024-03-25,West Bengal,Medical College Hospital,Maternity,Lack of communication,High,Yes
+CMP100301,2024-07-13,Tamil Nadu,District Hospital,Maternity,Rude staff,Low,No
+CMP100302,2024-01-02,Karnataka,CHC,Maternity,Rude staff,Medium,Yes
+CMP100303,2024-07-18,Tamil Nadu,District Hospital,Emergency,Rude staff,Medium,No
+CMP100304,2024-05-15,Rajasthan,District Hospital,Diagnostics,Long wait time,Low,Yes
+CMP100305,2024-08-20,Tamil Nadu,District Hospital,Surgery,Long wait time,High,No
+CMP100306,2024-05-26,Rajasthan,CHC,Maternity,Unavailability of medicine,Low,No
+CMP100307,2024-08-04,Karnataka,CHC,Surgery,Billing issues,High,Yes
+CMP100308,2024-12-22,Uttar Pradesh,CHC,Emergency,Rude staff,Medium,No
+CMP100309,2024-10-11,Bihar,Medical College Hospital,Pharmacy,Unclean wards,Low,Yes
+CMP100310,2024-12-04,Maharashtra,PHC,Outpatient,Unavailability of medicine,High,No
+CMP100311,2024-09-06,West Bengal,District Hospital,Emergency,Unavailability of medicine,Medium,No
+CMP100312,2024-03-20,Uttar Pradesh,PHC,Pharmacy,Rude staff,Low,No
+CMP100313,2024-04-07,Tamil Nadu,District Hospital,Outpatient,Rude staff,Low,No
+CMP100314,2024-05-31,Tamil Nadu,District Hospital,Pediatrics,Billing issues,Medium,Yes
+CMP100315,2024-04-21,West Bengal,District Hospital,Maternity,Test delays,High,Yes
+CMP100316,2024-01-30,Karnataka,CHC,Surgery,Long wait time,Medium,No
+CMP100317,2024-10-23,Maharashtra,Medical College Hospital,Pharmacy,Test delays,Low,Yes
+CMP100318,2024-10-04,Bihar,CHC,Emergency,Unavailability of medicine,High,No
+CMP100319,2024-02-01,Rajasthan,District Hospital,Diagnostics,Unavailability of medicine,Low,No
+CMP100320,2024-06-09,Rajasthan,PHC,Maternity,Rude staff,Low,Yes
+CMP100321,2024-01-30,Karnataka,District Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP100322,2024-01-26,West Bengal,District Hospital,Emergency,Unclean wards,Medium,No
+CMP100323,2024-10-26,Karnataka,Medical College Hospital,Diagnostics,Billing issues,Medium,No
+CMP100324,2024-09-01,Bihar,District Hospital,Maternity,Rude staff,Medium,Yes
+CMP100325,2024-09-14,Rajasthan,CHC,Pharmacy,Billing issues,Medium,Yes
+CMP100326,2024-09-28,Bihar,Medical College Hospital,Maternity,Unavailability of medicine,Medium,Yes
+CMP100327,2024-03-21,Tamil Nadu,Medical College Hospital,Pediatrics,Long wait time,Low,No
+CMP100328,2024-01-30,Karnataka,Medical College Hospital,Maternity,Long wait time,Low,Yes
+CMP100329,2024-09-17,Rajasthan,District Hospital,Pharmacy,Unclean wards,Low,No
+CMP100330,2024-02-11,Uttar Pradesh,Medical College Hospital,Pediatrics,Unclean wards,High,Yes
+CMP100331,2024-04-05,Rajasthan,Medical College Hospital,Emergency,Lack of communication,Medium,Yes
+CMP100332,2024-02-05,Uttar Pradesh,CHC,Emergency,Rude staff,Low,No
+CMP100333,2024-10-31,Karnataka,PHC,Pharmacy,Unclean wards,Medium,Yes
+CMP100334,2024-02-04,Bihar,CHC,Pediatrics,Unavailability of medicine,Medium,No
+CMP100335,2024-12-11,Maharashtra,CHC,Maternity,Rude staff,Low,No
+CMP100336,2024-04-30,Bihar,PHC,Diagnostics,Long wait time,Low,No
+CMP100337,2024-07-25,Bihar,PHC,Outpatient,Test delays,High,No
+CMP100338,2024-03-02,Maharashtra,Medical College Hospital,Diagnostics,Billing issues,Medium,No
+CMP100339,2024-10-18,West Bengal,CHC,Surgery,Billing issues,Low,No
+CMP100340,2024-05-06,Bihar,District Hospital,Maternity,Unavailability of medicine,Low,Yes
+CMP100341,2024-10-23,Maharashtra,CHC,Emergency,Test delays,High,No
+CMP100342,2024-10-31,Karnataka,PHC,Pharmacy,Test delays,Medium,Yes
+CMP100343,2024-01-21,Maharashtra,Medical College Hospital,Diagnostics,Unavailability of medicine,Low,No
+CMP100344,2024-11-13,Rajasthan,Medical College Hospital,Pediatrics,Unclean wards,Low,No
+CMP100345,2024-02-11,Uttar Pradesh,Medical College Hospital,Surgery,Unavailability of medicine,Medium,Yes
+CMP100346,2024-08-02,Maharashtra,District Hospital,Surgery,Lack of communication,Medium,Yes
+CMP100347,2024-12-02,Bihar,District Hospital,Emergency,Billing issues,High,No
+CMP100348,2024-10-25,West Bengal,PHC,Outpatient,Test delays,Medium,No
+CMP100349,2024-10-16,Karnataka,Medical College Hospital,Outpatient,Rude staff,High,Yes
+CMP100350,2024-09-24,Maharashtra,CHC,Surgery,Lack of communication,Medium,No
+CMP100351,2024-06-10,Bihar,Medical College Hospital,Diagnostics,Billing issues,Medium,Yes
+CMP100352,2024-05-13,West Bengal,CHC,Surgery,Test delays,Medium,Yes
+CMP100353,2024-04-14,Maharashtra,CHC,Maternity,Unclean wards,Medium,Yes
+CMP100354,2024-12-08,Karnataka,District Hospital,Emergency,Unavailability of medicine,High,No
+CMP100355,2024-06-09,Karnataka,Medical College Hospital,Emergency,Test delays,High,Yes
+CMP100356,2024-05-02,Uttar Pradesh,PHC,Outpatient,Long wait time,Low,Yes
+CMP100357,2024-05-15,Karnataka,Medical College Hospital,Surgery,Test delays,Low,No
+CMP100358,2024-07-21,West Bengal,Medical College Hospital,Pharmacy,Unclean wards,High,No
+CMP100359,2024-03-08,Bihar,PHC,Pharmacy,Long wait time,High,No
+CMP100360,2024-12-09,Karnataka,PHC,Diagnostics,Rude staff,Medium,Yes
+CMP100361,2024-11-26,Karnataka,Medical College Hospital,Diagnostics,Test delays,Medium,Yes
+CMP100362,2024-06-02,Bihar,PHC,Maternity,Billing issues,High,Yes
+CMP100363,2024-08-22,Bihar,CHC,Outpatient,Long wait time,Medium,No
+CMP100364,2024-06-10,West Bengal,District Hospital,Emergency,Unavailability of medicine,Low,No
+CMP100365,2024-02-07,Karnataka,PHC,Pharmacy,Long wait time,High,Yes
+CMP100366,2024-01-05,West Bengal,CHC,Maternity,Unclean wards,Medium,No
+CMP100367,2024-08-22,Karnataka,District Hospital,Pharmacy,Billing issues,Low,No
+CMP100368,2024-11-14,Maharashtra,PHC,Pharmacy,Lack of communication,High,No
+CMP100369,2024-10-15,Rajasthan,District Hospital,Maternity,Rude staff,High,Yes
+CMP100370,2024-02-21,Karnataka,Medical College Hospital,Pharmacy,Unclean wards,High,No
+CMP100371,2024-02-07,Uttar Pradesh,PHC,Outpatient,Unavailability of medicine,Medium,No
+CMP100372,2024-10-02,Rajasthan,CHC,Surgery,Long wait time,Medium,No
+CMP100373,2024-04-19,Rajasthan,CHC,Pharmacy,Unavailability of medicine,Low,Yes
+CMP100374,2024-09-16,Uttar Pradesh,District Hospital,Pediatrics,Long wait time,Medium,Yes
+CMP100375,2024-05-15,Uttar Pradesh,CHC,Emergency,Billing issues,Medium,Yes
+CMP100376,2024-03-08,Uttar Pradesh,CHC,Maternity,Test delays,High,Yes
+CMP100377,2024-06-27,West Bengal,PHC,Pharmacy,Rude staff,Low,Yes
+CMP100378,2024-02-05,Rajasthan,District Hospital,Diagnostics,Billing issues,High,Yes
+CMP100379,2024-05-05,Karnataka,CHC,Pediatrics,Billing issues,Medium,No
+CMP100380,2024-07-08,Maharashtra,Medical College Hospital,Emergency,Rude staff,High,Yes
+CMP100381,2024-05-25,West Bengal,PHC,Surgery,Lack of communication,Medium,Yes
+CMP100382,2024-03-21,Bihar,CHC,Pharmacy,Lack of communication,High,Yes
+CMP100383,2024-08-12,Rajasthan,CHC,Outpatient,Unavailability of medicine,Low,No
+CMP100384,2024-10-05,Karnataka,CHC,Outpatient,Rude staff,Low,No
+CMP100385,2024-12-26,Tamil Nadu,PHC,Pharmacy,Long wait time,High,Yes
+CMP100386,2024-06-03,Karnataka,PHC,Diagnostics,Long wait time,Low,No
+CMP100387,2024-11-09,West Bengal,District Hospital,Maternity,Billing issues,High,No
+CMP100388,2024-11-30,Uttar Pradesh,PHC,Outpatient,Lack of communication,High,No
+CMP100389,2024-09-27,Tamil Nadu,CHC,Emergency,Unclean wards,High,No
+CMP100390,2024-01-05,West Bengal,CHC,Maternity,Test delays,Medium,No
+CMP100391,2024-12-07,Karnataka,Medical College Hospital,Diagnostics,Test delays,High,Yes
+CMP100392,2024-10-10,Maharashtra,PHC,Surgery,Long wait time,High,No
+CMP100393,2024-06-02,West Bengal,CHC,Maternity,Billing issues,Low,Yes
+CMP100394,2024-12-05,Maharashtra,Medical College Hospital,Surgery,Unclean wards,High,Yes
+CMP100395,2024-02-23,Tamil Nadu,District Hospital,Pediatrics,Rude staff,High,Yes
+CMP100396,2024-03-09,Bihar,District Hospital,Maternity,Unclean wards,Low,Yes
+CMP100397,2024-05-15,Rajasthan,District Hospital,Maternity,Unavailability of medicine,Low,No
+CMP100398,2024-02-29,Rajasthan,CHC,Outpatient,Billing issues,High,Yes
+CMP100399,2024-02-24,West Bengal,CHC,Diagnostics,Billing issues,High,No
+CMP100400,2024-10-10,Tamil Nadu,District Hospital,Outpatient,Billing issues,High,Yes
+CMP100401,2024-03-20,Maharashtra,Medical College Hospital,Surgery,Long wait time,Low,No
+CMP100402,2024-05-19,Tamil Nadu,District Hospital,Outpatient,Test delays,High,Yes
+CMP100403,2024-05-24,Uttar Pradesh,PHC,Diagnostics,Unavailability of medicine,High,No
+CMP100404,2024-11-05,West Bengal,CHC,Pharmacy,Unclean wards,Low,Yes
+CMP100405,2024-04-17,Uttar Pradesh,CHC,Surgery,Rude staff,Medium,Yes
+CMP100406,2024-06-24,Bihar,PHC,Pharmacy,Test delays,High,Yes
+CMP100407,2024-04-14,Tamil Nadu,CHC,Diagnostics,Lack of communication,Low,Yes
+CMP100408,2024-12-17,Tamil Nadu,PHC,Surgery,Unclean wards,Low,Yes
+CMP100409,2024-11-20,Tamil Nadu,District Hospital,Outpatient,Unavailability of medicine,High,Yes
+CMP100410,2024-05-15,Tamil Nadu,District Hospital,Outpatient,Unclean wards,High,Yes
+CMP100411,2024-09-15,Bihar,CHC,Maternity,Unavailability of medicine,Low,No
+CMP100412,2024-09-07,Maharashtra,CHC,Outpatient,Long wait time,Low,Yes
+CMP100413,2024-05-08,Karnataka,District Hospital,Surgery,Unavailability of medicine,Medium,No
+CMP100414,2024-01-27,Bihar,PHC,Surgery,Unavailability of medicine,Low,Yes
+CMP100415,2024-02-17,Maharashtra,District Hospital,Maternity,Unavailability of medicine,Low,Yes
+CMP100416,2024-11-20,Rajasthan,PHC,Pediatrics,Unavailability of medicine,High,No
+CMP100417,2024-08-04,West Bengal,Medical College Hospital,Outpatient,Unclean wards,High,Yes
+CMP100418,2024-05-21,Maharashtra,District Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP100419,2024-01-23,West Bengal,PHC,Outpatient,Billing issues,Low,Yes
+CMP100420,2024-01-02,Rajasthan,PHC,Pharmacy,Long wait time,High,Yes
+CMP100421,2024-06-19,Maharashtra,PHC,Maternity,Rude staff,High,No
+CMP100422,2024-03-07,Tamil Nadu,CHC,Maternity,Test delays,Medium,No
+CMP100423,2024-11-22,Bihar,CHC,Surgery,Unclean wards,Medium,No
+CMP100424,2024-05-14,Rajasthan,Medical College Hospital,Outpatient,Test delays,High,Yes
+CMP100425,2024-03-23,Maharashtra,Medical College Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP100426,2024-08-14,Karnataka,PHC,Pediatrics,Lack of communication,Medium,No
+CMP100427,2024-10-09,Karnataka,CHC,Outpatient,Unclean wards,Low,No
+CMP100428,2024-12-27,Uttar Pradesh,PHC,Maternity,Unavailability of medicine,Medium,No
+CMP100429,2024-08-06,Maharashtra,CHC,Surgery,Rude staff,Medium,Yes
+CMP100430,2024-10-14,Bihar,CHC,Outpatient,Lack of communication,Low,No
+CMP100431,2024-01-05,Tamil Nadu,Medical College Hospital,Pharmacy,Test delays,Medium,Yes
+CMP100432,2024-02-27,Uttar Pradesh,PHC,Emergency,Unclean wards,Low,No
+CMP100433,2024-02-08,Maharashtra,PHC,Surgery,Test delays,High,Yes
+CMP100434,2024-12-19,Tamil Nadu,CHC,Surgery,Unclean wards,Medium,No
+CMP100435,2024-03-17,Bihar,CHC,Maternity,Rude staff,Medium,No
+CMP100436,2024-10-06,Bihar,District Hospital,Emergency,Lack of communication,Medium,No
+CMP100437,2024-01-19,Uttar Pradesh,Medical College Hospital,Outpatient,Billing issues,Low,No
+CMP100438,2024-07-08,Uttar Pradesh,District Hospital,Pharmacy,Billing issues,Low,No
+CMP100439,2024-10-25,Maharashtra,CHC,Pediatrics,Long wait time,Low,Yes
+CMP100440,2024-10-09,Tamil Nadu,PHC,Outpatient,Rude staff,High,No
+CMP100441,2024-03-16,Rajasthan,CHC,Maternity,Rude staff,Low,Yes
+CMP100442,2024-08-08,Karnataka,District Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP100443,2024-03-06,Tamil Nadu,Medical College Hospital,Pediatrics,Unclean wards,Low,Yes
+CMP100444,2024-01-22,Bihar,CHC,Pharmacy,Lack of communication,Low,Yes
+CMP100445,2024-06-06,Rajasthan,PHC,Diagnostics,Billing issues,Medium,Yes
+CMP100446,2024-07-05,Bihar,District Hospital,Diagnostics,Unavailability of medicine,Low,No
+CMP100447,2024-01-21,Rajasthan,CHC,Pharmacy,Long wait time,Low,Yes
+CMP100448,2024-07-02,Maharashtra,PHC,Diagnostics,Billing issues,Medium,No
+CMP100449,2024-04-17,Karnataka,PHC,Maternity,Lack of communication,Medium,No
+CMP100450,2024-12-15,West Bengal,CHC,Pediatrics,Unclean wards,High,No
+CMP100451,2024-05-07,Maharashtra,District Hospital,Maternity,Long wait time,Low,Yes
+CMP100452,2024-12-07,Bihar,PHC,Maternity,Long wait time,Low,No
+CMP100453,2024-02-22,Rajasthan,Medical College Hospital,Pharmacy,Unclean wards,High,Yes
+CMP100454,2024-06-30,Bihar,District Hospital,Outpatient,Test delays,Medium,No
+CMP100455,2024-10-13,Tamil Nadu,PHC,Pediatrics,Unavailability of medicine,Low,No
+CMP100456,2024-07-27,Karnataka,CHC,Outpatient,Unclean wards,Low,No
+CMP100457,2024-11-13,Tamil Nadu,CHC,Emergency,Rude staff,High,No
+CMP100458,2024-03-20,Tamil Nadu,District Hospital,Outpatient,Billing issues,Low,No
+CMP100459,2024-05-01,Maharashtra,PHC,Outpatient,Unclean wards,Medium,Yes
+CMP100460,2024-03-24,Tamil Nadu,PHC,Emergency,Test delays,Medium,Yes
+CMP100461,2024-03-31,Uttar Pradesh,District Hospital,Pediatrics,Billing issues,Low,Yes
+CMP100462,2024-07-30,Uttar Pradesh,District Hospital,Surgery,Lack of communication,Medium,Yes
+CMP100463,2024-01-13,Tamil Nadu,District Hospital,Surgery,Rude staff,Low,No
+CMP100464,2024-04-01,Karnataka,Medical College Hospital,Pharmacy,Rude staff,Medium,No
+CMP100465,2024-06-19,Tamil Nadu,Medical College Hospital,Surgery,Rude staff,Medium,No
+CMP100466,2024-07-29,Bihar,Medical College Hospital,Surgery,Lack of communication,Medium,No
+CMP100467,2024-12-08,Bihar,CHC,Surgery,Unclean wards,Medium,Yes
+CMP100468,2024-05-07,Karnataka,Medical College Hospital,Outpatient,Unavailability of medicine,Low,No
+CMP100469,2024-05-16,Maharashtra,Medical College Hospital,Surgery,Billing issues,Low,Yes
+CMP100470,2024-03-22,Uttar Pradesh,Medical College Hospital,Outpatient,Unclean wards,Low,No
+CMP100471,2024-12-25,Uttar Pradesh,PHC,Outpatient,Long wait time,Low,Yes
+CMP100472,2024-02-25,Maharashtra,Medical College Hospital,Maternity,Lack of communication,High,Yes
+CMP100473,2024-07-14,Tamil Nadu,District Hospital,Emergency,Lack of communication,High,Yes
+CMP100474,2024-01-20,Karnataka,Medical College Hospital,Pharmacy,Unavailability of medicine,Low,Yes
+CMP100475,2024-08-28,Rajasthan,CHC,Emergency,Lack of communication,Medium,Yes
+CMP100476,2024-04-23,West Bengal,CHC,Maternity,Billing issues,High,Yes
+CMP100477,2024-04-12,West Bengal,Medical College Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP100478,2024-08-23,Tamil Nadu,District Hospital,Diagnostics,Unclean wards,Medium,No
+CMP100479,2024-06-28,Maharashtra,District Hospital,Outpatient,Billing issues,Low,Yes
+CMP100480,2024-06-05,Karnataka,PHC,Surgery,Test delays,Medium,Yes
+CMP100481,2024-04-26,Uttar Pradesh,District Hospital,Pediatrics,Unclean wards,Low,No
+CMP100482,2024-04-24,Rajasthan,PHC,Surgery,Rude staff,Medium,No
+CMP100483,2024-01-13,Uttar Pradesh,PHC,Diagnostics,Long wait time,Medium,No
+CMP100484,2024-12-03,Tamil Nadu,District Hospital,Maternity,Lack of communication,High,Yes
+CMP100485,2024-04-08,Bihar,District Hospital,Maternity,Long wait time,Medium,Yes
+CMP100486,2024-07-23,Maharashtra,PHC,Pharmacy,Rude staff,Low,Yes
+CMP100487,2024-06-17,West Bengal,CHC,Outpatient,Unavailability of medicine,Medium,Yes
+CMP100488,2024-05-22,Maharashtra,Medical College Hospital,Pediatrics,Unavailability of medicine,Low,Yes
+CMP100489,2024-02-05,Rajasthan,CHC,Diagnostics,Test delays,Medium,No
+CMP100490,2024-05-22,Tamil Nadu,District Hospital,Diagnostics,Lack of communication,High,No
+CMP100491,2024-06-28,Maharashtra,District Hospital,Diagnostics,Test delays,Low,No
+CMP100492,2024-11-24,Uttar Pradesh,PHC,Outpatient,Unclean wards,Low,No
+CMP100493,2024-09-17,Tamil Nadu,Medical College Hospital,Outpatient,Long wait time,Medium,No
+CMP100494,2024-07-23,Uttar Pradesh,District Hospital,Outpatient,Test delays,High,Yes
+CMP100495,2024-12-13,Karnataka,Medical College Hospital,Outpatient,Test delays,High,No
+CMP100496,2024-10-01,Karnataka,CHC,Emergency,Unavailability of medicine,High,Yes
+CMP100497,2024-06-18,Bihar,Medical College Hospital,Diagnostics,Unclean wards,Low,No
+CMP100498,2024-01-15,Maharashtra,CHC,Pediatrics,Rude staff,Low,No
+CMP100499,2024-02-29,Karnataka,District Hospital,Emergency,Unclean wards,High,Yes
+CMP100500,2024-05-13,Maharashtra,District Hospital,Pharmacy,Test delays,High,Yes
+CMP100501,2024-04-01,Uttar Pradesh,PHC,Diagnostics,Test delays,Low,No
+CMP100502,2024-10-24,Tamil Nadu,CHC,Outpatient,Rude staff,Medium,Yes
+CMP100503,2024-05-15,Karnataka,CHC,Maternity,Long wait time,High,No
+CMP100504,2024-01-20,Tamil Nadu,Medical College Hospital,Maternity,Long wait time,Medium,Yes
+CMP100505,2024-02-25,Rajasthan,PHC,Outpatient,Lack of communication,Medium,Yes
+CMP100506,2024-11-01,Karnataka,PHC,Pediatrics,Unavailability of medicine,Low,Yes
+CMP100507,2024-08-10,Maharashtra,PHC,Outpatient,Unclean wards,High,No
+CMP100508,2024-06-25,Rajasthan,CHC,Emergency,Long wait time,High,No
+CMP100509,2024-06-09,Karnataka,District Hospital,Outpatient,Billing issues,Low,Yes
+CMP100510,2024-08-11,West Bengal,District Hospital,Diagnostics,Test delays,Low,Yes
+CMP100511,2024-11-06,Karnataka,Medical College Hospital,Pediatrics,Unavailability of medicine,Medium,No
+CMP100512,2024-09-18,Uttar Pradesh,Medical College Hospital,Surgery,Billing issues,High,No
+CMP100513,2024-02-29,Bihar,CHC,Diagnostics,Unclean wards,Low,No
+CMP100514,2024-07-16,Uttar Pradesh,District Hospital,Maternity,Billing issues,Low,No
+CMP100515,2024-10-22,Tamil Nadu,PHC,Pharmacy,Unclean wards,High,No
+CMP100516,2024-04-07,Maharashtra,District Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP100517,2024-05-10,Rajasthan,Medical College Hospital,Diagnostics,Unavailability of medicine,High,Yes
+CMP100518,2024-01-23,Maharashtra,District Hospital,Outpatient,Test delays,Medium,Yes
+CMP100519,2024-12-28,Karnataka,PHC,Diagnostics,Test delays,Low,Yes
+CMP100520,2024-08-11,Maharashtra,Medical College Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP100521,2024-01-01,Rajasthan,CHC,Pediatrics,Test delays,Medium,Yes
+CMP100522,2024-09-23,Bihar,District Hospital,Emergency,Lack of communication,High,No
+CMP100523,2024-10-02,Bihar,District Hospital,Surgery,Long wait time,Medium,No
+CMP100524,2024-12-17,Karnataka,CHC,Maternity,Unavailability of medicine,High,No
+CMP100525,2024-12-09,Karnataka,CHC,Pediatrics,Billing issues,Low,Yes
+CMP100526,2024-04-10,Tamil Nadu,PHC,Diagnostics,Test delays,Low,No
+CMP100527,2024-07-05,Karnataka,District Hospital,Maternity,Billing issues,Low,No
+CMP100528,2024-08-08,Uttar Pradesh,Medical College Hospital,Pharmacy,Long wait time,Medium,Yes
+CMP100529,2024-02-05,Uttar Pradesh,District Hospital,Diagnostics,Lack of communication,Medium,Yes
+CMP100530,2024-12-06,Uttar Pradesh,PHC,Surgery,Unavailability of medicine,High,Yes
+CMP100531,2024-06-18,Bihar,Medical College Hospital,Maternity,Rude staff,Medium,Yes
+CMP100532,2024-11-15,West Bengal,Medical College Hospital,Surgery,Billing issues,High,Yes
+CMP100533,2024-06-09,Maharashtra,Medical College Hospital,Surgery,Long wait time,Medium,No
+CMP100534,2024-12-05,Rajasthan,PHC,Surgery,Rude staff,Medium,Yes
+CMP100535,2024-03-04,Tamil Nadu,District Hospital,Surgery,Unavailability of medicine,High,Yes
+CMP100536,2024-06-02,Karnataka,Medical College Hospital,Maternity,Unclean wards,Low,No
+CMP100537,2024-09-16,Tamil Nadu,CHC,Maternity,Test delays,High,Yes
+CMP100538,2024-06-07,Bihar,PHC,Pediatrics,Rude staff,High,No
+CMP100539,2024-12-07,Karnataka,Medical College Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP100540,2024-07-28,Karnataka,PHC,Surgery,Rude staff,Low,Yes
+CMP100541,2024-06-16,Bihar,CHC,Emergency,Long wait time,Low,Yes
+CMP100542,2024-07-25,Maharashtra,Medical College Hospital,Diagnostics,Unavailability of medicine,High,Yes
+CMP100543,2024-12-22,Karnataka,District Hospital,Diagnostics,Unavailability of medicine,High,Yes
+CMP100544,2024-05-31,Maharashtra,PHC,Pediatrics,Unclean wards,High,No
+CMP100545,2024-10-10,Bihar,Medical College Hospital,Emergency,Test delays,Low,No
+CMP100546,2024-03-06,Tamil Nadu,Medical College Hospital,Outpatient,Unavailability of medicine,Medium,No
+CMP100547,2024-04-08,Karnataka,PHC,Surgery,Long wait time,Low,Yes
+CMP100548,2024-08-03,West Bengal,CHC,Surgery,Unavailability of medicine,Medium,No
+CMP100549,2024-12-06,Rajasthan,PHC,Diagnostics,Unavailability of medicine,High,Yes
+CMP100550,2024-07-13,Maharashtra,District Hospital,Maternity,Billing issues,Low,No
+CMP100551,2024-12-12,Karnataka,CHC,Emergency,Test delays,Low,No
+CMP100552,2024-03-30,Maharashtra,District Hospital,Surgery,Long wait time,High,No
+CMP100553,2024-11-11,Karnataka,District Hospital,Diagnostics,Billing issues,High,Yes
+CMP100554,2024-10-18,Rajasthan,PHC,Surgery,Rude staff,Medium,Yes
+CMP100555,2024-06-03,Karnataka,Medical College Hospital,Pediatrics,Lack of communication,Medium,No
+CMP100556,2024-07-26,Karnataka,CHC,Maternity,Test delays,Low,Yes
+CMP100557,2024-10-07,Tamil Nadu,District Hospital,Emergency,Rude staff,High,No
+CMP100558,2024-01-01,West Bengal,Medical College Hospital,Outpatient,Lack of communication,High,Yes
+CMP100559,2024-06-04,Karnataka,Medical College Hospital,Pharmacy,Long wait time,Medium,No
+CMP100560,2024-05-26,Maharashtra,Medical College Hospital,Diagnostics,Billing issues,High,Yes
+CMP100561,2024-04-17,Tamil Nadu,CHC,Diagnostics,Lack of communication,Medium,Yes
+CMP100562,2024-08-08,Rajasthan,Medical College Hospital,Pharmacy,Rude staff,High,No
+CMP100563,2024-10-23,Uttar Pradesh,PHC,Pediatrics,Billing issues,Medium,No
+CMP100564,2024-11-06,Maharashtra,District Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP100565,2024-12-01,Maharashtra,Medical College Hospital,Pharmacy,Lack of communication,Medium,No
+CMP100566,2024-06-13,West Bengal,District Hospital,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP100567,2024-08-26,Uttar Pradesh,CHC,Outpatient,Lack of communication,Low,No
+CMP100568,2024-08-14,Tamil Nadu,District Hospital,Diagnostics,Lack of communication,High,No
+CMP100569,2024-08-14,Karnataka,Medical College Hospital,Pharmacy,Test delays,Medium,Yes
+CMP100570,2024-12-11,Maharashtra,CHC,Surgery,Lack of communication,Medium,No
+CMP100571,2024-04-19,Rajasthan,CHC,Emergency,Unavailability of medicine,Low,Yes
+CMP100572,2024-09-18,West Bengal,CHC,Maternity,Unavailability of medicine,Medium,No
+CMP100573,2024-08-30,Rajasthan,CHC,Surgery,Test delays,High,Yes
+CMP100574,2024-03-27,West Bengal,CHC,Outpatient,Test delays,Medium,No
+CMP100575,2024-12-03,West Bengal,District Hospital,Diagnostics,Test delays,Low,No
+CMP100576,2024-02-13,Uttar Pradesh,Medical College Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP100577,2024-05-25,Karnataka,District Hospital,Maternity,Long wait time,Low,No
+CMP100578,2024-09-20,Tamil Nadu,Medical College Hospital,Diagnostics,Billing issues,High,Yes
+CMP100579,2024-12-05,Maharashtra,CHC,Emergency,Billing issues,Low,No
+CMP100580,2024-11-20,West Bengal,CHC,Maternity,Unavailability of medicine,High,Yes
+CMP100581,2024-11-13,Rajasthan,PHC,Surgery,Lack of communication,Medium,No
+CMP100582,2024-06-20,Rajasthan,PHC,Emergency,Rude staff,Low,Yes
+CMP100583,2024-02-17,Karnataka,District Hospital,Outpatient,Long wait time,Low,Yes
+CMP100584,2024-04-30,Karnataka,District Hospital,Pediatrics,Rude staff,High,Yes
+CMP100585,2024-12-10,Bihar,Medical College Hospital,Surgery,Billing issues,Low,No
+CMP100586,2024-06-07,West Bengal,Medical College Hospital,Maternity,Unavailability of medicine,Medium,Yes
+CMP100587,2024-04-25,Uttar Pradesh,PHC,Surgery,Unavailability of medicine,High,No
+CMP100588,2024-04-11,Karnataka,PHC,Outpatient,Lack of communication,High,Yes
+CMP100589,2024-03-16,Tamil Nadu,Medical College Hospital,Diagnostics,Unclean wards,High,No
+CMP100590,2024-01-13,Bihar,District Hospital,Diagnostics,Unclean wards,Medium,Yes
+CMP100591,2024-01-24,Karnataka,Medical College Hospital,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP100592,2024-05-05,West Bengal,District Hospital,Diagnostics,Rude staff,High,No
+CMP100593,2024-08-31,West Bengal,Medical College Hospital,Emergency,Long wait time,Low,Yes
+CMP100594,2024-11-08,Karnataka,CHC,Outpatient,Rude staff,High,Yes
+CMP100595,2024-02-07,Rajasthan,CHC,Diagnostics,Rude staff,High,Yes
+CMP100596,2024-08-21,Rajasthan,District Hospital,Surgery,Billing issues,Low,Yes
+CMP100597,2024-07-31,Tamil Nadu,District Hospital,Maternity,Rude staff,High,No
+CMP100598,2024-11-18,Bihar,District Hospital,Outpatient,Lack of communication,Low,Yes
+CMP100599,2024-10-21,Rajasthan,PHC,Diagnostics,Rude staff,High,No
+CMP100600,2024-04-09,West Bengal,PHC,Emergency,Lack of communication,Medium,No
+CMP100601,2024-12-22,Bihar,Medical College Hospital,Pharmacy,Billing issues,High,Yes
+CMP100602,2024-07-15,Uttar Pradesh,PHC,Pharmacy,Billing issues,Low,Yes
+CMP100603,2024-09-10,Karnataka,Medical College Hospital,Maternity,Test delays,Medium,Yes
+CMP100604,2024-07-23,West Bengal,Medical College Hospital,Maternity,Lack of communication,Medium,Yes
+CMP100605,2024-05-04,Uttar Pradesh,Medical College Hospital,Maternity,Billing issues,High,No
+CMP100606,2024-03-16,Bihar,District Hospital,Pediatrics,Lack of communication,Medium,No
+CMP100607,2024-12-01,Uttar Pradesh,CHC,Outpatient,Billing issues,Medium,Yes
+CMP100608,2024-12-18,Tamil Nadu,PHC,Maternity,Test delays,Low,Yes
+CMP100609,2024-01-03,Maharashtra,Medical College Hospital,Maternity,Billing issues,High,Yes
+CMP100610,2024-02-24,Tamil Nadu,CHC,Emergency,Test delays,Low,Yes
+CMP100611,2024-08-05,Bihar,Medical College Hospital,Emergency,Lack of communication,Low,Yes
+CMP100612,2024-04-22,Tamil Nadu,District Hospital,Emergency,Lack of communication,Medium,Yes
+CMP100613,2024-03-31,West Bengal,Medical College Hospital,Maternity,Long wait time,Medium,Yes
+CMP100614,2024-12-22,Bihar,PHC,Diagnostics,Unclean wards,Low,No
+CMP100615,2024-09-22,Tamil Nadu,CHC,Maternity,Unclean wards,Medium,Yes
+CMP100616,2024-08-25,Karnataka,District Hospital,Pharmacy,Long wait time,Low,Yes
+CMP100617,2024-01-26,Rajasthan,Medical College Hospital,Emergency,Long wait time,Low,Yes
+CMP100618,2024-10-12,Karnataka,PHC,Surgery,Lack of communication,High,Yes
+CMP100619,2024-05-07,Tamil Nadu,PHC,Maternity,Rude staff,Low,No
+CMP100620,2024-03-03,Rajasthan,District Hospital,Diagnostics,Long wait time,Medium,Yes
+CMP100621,2024-08-21,Rajasthan,PHC,Maternity,Unclean wards,High,Yes
+CMP100622,2024-03-09,West Bengal,PHC,Pediatrics,Unavailability of medicine,High,Yes
+CMP100623,2024-08-25,West Bengal,PHC,Surgery,Unavailability of medicine,Medium,No
+CMP100624,2024-12-07,Uttar Pradesh,PHC,Surgery,Test delays,Low,No
+CMP100625,2024-09-28,West Bengal,Medical College Hospital,Outpatient,Unavailability of medicine,Low,Yes
+CMP100626,2024-10-13,Bihar,District Hospital,Diagnostics,Rude staff,High,No
+CMP100627,2024-10-31,Karnataka,CHC,Surgery,Lack of communication,High,No
+CMP100628,2024-06-11,Bihar,CHC,Diagnostics,Unclean wards,Medium,No
+CMP100629,2024-08-14,Karnataka,PHC,Emergency,Billing issues,High,Yes
+CMP100630,2024-11-09,Maharashtra,Medical College Hospital,Pediatrics,Billing issues,Low,Yes
+CMP100631,2024-09-15,West Bengal,PHC,Outpatient,Lack of communication,Low,Yes
+CMP100632,2024-08-06,Tamil Nadu,PHC,Pharmacy,Unavailability of medicine,Medium,No
+CMP100633,2024-10-07,Karnataka,Medical College Hospital,Surgery,Rude staff,Medium,Yes
+CMP100634,2024-08-16,Tamil Nadu,District Hospital,Pediatrics,Test delays,Low,Yes
+CMP100635,2024-03-22,Maharashtra,CHC,Maternity,Unavailability of medicine,Medium,Yes
+CMP100636,2024-08-31,Bihar,Medical College Hospital,Pediatrics,Long wait time,Medium,Yes
+CMP100637,2024-08-18,Tamil Nadu,CHC,Outpatient,Test delays,High,No
+CMP100638,2024-05-12,Karnataka,Medical College Hospital,Outpatient,Lack of communication,High,Yes
+CMP100639,2024-05-06,Maharashtra,Medical College Hospital,Pediatrics,Long wait time,High,No
+CMP100640,2024-11-22,Karnataka,PHC,Outpatient,Rude staff,Low,Yes
+CMP100641,2024-05-21,Maharashtra,District Hospital,Outpatient,Rude staff,Low,Yes
+CMP100642,2024-09-23,West Bengal,CHC,Pediatrics,Lack of communication,Low,Yes
+CMP100643,2024-09-05,Rajasthan,District Hospital,Maternity,Test delays,High,Yes
+CMP100644,2024-11-16,Rajasthan,PHC,Emergency,Rude staff,Medium,Yes
+CMP100645,2024-05-02,West Bengal,Medical College Hospital,Diagnostics,Test delays,Low,No
+CMP100646,2024-05-20,West Bengal,CHC,Pharmacy,Rude staff,Medium,No
+CMP100647,2024-08-13,West Bengal,District Hospital,Pharmacy,Unavailability of medicine,High,Yes
+CMP100648,2024-02-09,Rajasthan,CHC,Maternity,Rude staff,High,No
+CMP100649,2024-12-31,West Bengal,CHC,Pediatrics,Rude staff,Medium,No
+CMP100650,2024-05-26,Maharashtra,CHC,Diagnostics,Rude staff,Low,Yes
+CMP100651,2024-04-30,Karnataka,District Hospital,Pharmacy,Long wait time,High,No
+CMP100652,2024-05-19,Tamil Nadu,CHC,Maternity,Unclean wards,Low,Yes
+CMP100653,2024-06-20,Bihar,District Hospital,Outpatient,Test delays,High,No
+CMP100654,2024-06-12,Bihar,Medical College Hospital,Emergency,Lack of communication,High,Yes
+CMP100655,2024-10-03,Maharashtra,District Hospital,Outpatient,Lack of communication,High,Yes
+CMP100656,2024-02-11,Karnataka,PHC,Outpatient,Long wait time,High,Yes
+CMP100657,2024-03-11,Maharashtra,CHC,Emergency,Long wait time,High,Yes
+CMP100658,2024-03-18,Bihar,PHC,Surgery,Long wait time,High,No
+CMP100659,2024-04-28,Maharashtra,PHC,Pediatrics,Lack of communication,High,No
+CMP100660,2024-07-15,Rajasthan,Medical College Hospital,Pharmacy,Unclean wards,Low,Yes
+CMP100661,2024-12-21,Maharashtra,Medical College Hospital,Emergency,Lack of communication,Low,No
+CMP100662,2024-03-19,West Bengal,District Hospital,Diagnostics,Unclean wards,High,Yes
+CMP100663,2024-12-27,Bihar,District Hospital,Diagnostics,Long wait time,Low,No
+CMP100664,2024-04-19,West Bengal,CHC,Pediatrics,Rude staff,High,Yes
+CMP100665,2024-02-02,West Bengal,PHC,Diagnostics,Long wait time,Low,Yes
+CMP100666,2024-07-31,Tamil Nadu,Medical College Hospital,Surgery,Long wait time,Low,Yes
+CMP100667,2024-07-27,Maharashtra,Medical College Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP100668,2024-06-18,Tamil Nadu,CHC,Emergency,Test delays,High,No
+CMP100669,2024-10-04,Maharashtra,Medical College Hospital,Surgery,Billing issues,Low,No
+CMP100670,2024-08-26,Karnataka,PHC,Diagnostics,Billing issues,High,Yes
+CMP100671,2024-07-31,Rajasthan,PHC,Outpatient,Long wait time,High,No
+CMP100672,2024-02-01,West Bengal,CHC,Outpatient,Unclean wards,Medium,Yes
+CMP100673,2024-04-15,Maharashtra,PHC,Surgery,Long wait time,Low,No
+CMP100674,2024-08-03,Maharashtra,District Hospital,Maternity,Unavailability of medicine,High,No
+CMP100675,2024-07-18,Uttar Pradesh,PHC,Diagnostics,Long wait time,Low,No
+CMP100676,2024-10-26,Karnataka,District Hospital,Diagnostics,Long wait time,High,Yes
+CMP100677,2024-12-22,West Bengal,Medical College Hospital,Diagnostics,Unavailability of medicine,High,No
+CMP100678,2024-01-11,Karnataka,District Hospital,Diagnostics,Test delays,High,No
+CMP100679,2024-10-21,Tamil Nadu,CHC,Emergency,Long wait time,High,No
+CMP100680,2024-07-13,Tamil Nadu,CHC,Surgery,Lack of communication,Medium,No
+CMP100681,2024-09-01,Rajasthan,CHC,Surgery,Long wait time,High,Yes
+CMP100682,2024-01-04,Maharashtra,CHC,Emergency,Lack of communication,High,Yes
+CMP100683,2024-06-29,Rajasthan,CHC,Outpatient,Long wait time,Medium,Yes
+CMP100684,2024-06-01,Rajasthan,PHC,Surgery,Billing issues,Low,Yes
+CMP100685,2024-07-18,Bihar,Medical College Hospital,Pharmacy,Rude staff,Medium,No
+CMP100686,2024-08-02,Maharashtra,District Hospital,Surgery,Billing issues,High,Yes
+CMP100687,2024-10-02,Uttar Pradesh,District Hospital,Maternity,Rude staff,High,No
+CMP100688,2024-10-06,Maharashtra,Medical College Hospital,Surgery,Rude staff,High,No
+CMP100689,2024-11-04,West Bengal,CHC,Pediatrics,Test delays,Low,No
+CMP100690,2024-04-22,Uttar Pradesh,CHC,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP100691,2024-09-06,Maharashtra,District Hospital,Outpatient,Long wait time,Medium,Yes
+CMP100692,2024-04-22,Tamil Nadu,CHC,Emergency,Long wait time,Medium,No
+CMP100693,2024-05-19,West Bengal,PHC,Outpatient,Rude staff,Medium,No
+CMP100694,2024-08-11,Maharashtra,PHC,Outpatient,Lack of communication,Low,Yes
+CMP100695,2024-09-05,West Bengal,PHC,Emergency,Test delays,High,Yes
+CMP100696,2024-01-15,Tamil Nadu,Medical College Hospital,Maternity,Unavailability of medicine,High,No
+CMP100697,2024-07-18,Bihar,Medical College Hospital,Pharmacy,Billing issues,Medium,Yes
+CMP100698,2024-06-21,Bihar,PHC,Emergency,Unavailability of medicine,Medium,Yes
+CMP100699,2024-12-08,Rajasthan,Medical College Hospital,Outpatient,Unavailability of medicine,Medium,No
+CMP100700,2024-12-13,Karnataka,PHC,Pediatrics,Rude staff,High,No
+CMP100701,2024-07-26,Maharashtra,CHC,Emergency,Lack of communication,Low,No
+CMP100702,2024-03-25,Karnataka,Medical College Hospital,Maternity,Billing issues,High,No
+CMP100703,2024-08-27,West Bengal,PHC,Surgery,Lack of communication,Low,No
+CMP100704,2024-03-06,Maharashtra,Medical College Hospital,Pediatrics,Test delays,Low,No
+CMP100705,2024-11-14,Bihar,District Hospital,Surgery,Billing issues,Medium,No
+CMP100706,2024-09-30,Uttar Pradesh,District Hospital,Pharmacy,Rude staff,Medium,No
+CMP100707,2024-01-14,Karnataka,PHC,Pharmacy,Billing issues,High,Yes
+CMP100708,2024-07-20,West Bengal,PHC,Emergency,Billing issues,Medium,Yes
+CMP100709,2024-10-30,Karnataka,PHC,Emergency,Long wait time,Medium,No
+CMP100710,2024-10-15,Bihar,District Hospital,Emergency,Long wait time,Low,No
+CMP100711,2024-12-05,Bihar,Medical College Hospital,Diagnostics,Lack of communication,Medium,No
+CMP100712,2024-01-14,Uttar Pradesh,District Hospital,Outpatient,Billing issues,Low,No
+CMP100713,2024-02-12,West Bengal,PHC,Outpatient,Lack of communication,Medium,Yes
+CMP100714,2024-11-25,Karnataka,PHC,Maternity,Long wait time,Low,No
+CMP100715,2024-08-07,Bihar,PHC,Pharmacy,Billing issues,High,Yes
+CMP100716,2024-03-10,West Bengal,PHC,Surgery,Rude staff,Low,No
+CMP100717,2024-08-24,Bihar,PHC,Maternity,Test delays,High,Yes
+CMP100718,2024-04-03,Uttar Pradesh,PHC,Maternity,Rude staff,Low,Yes
+CMP100719,2024-01-26,Uttar Pradesh,CHC,Maternity,Unavailability of medicine,High,Yes
+CMP100720,2024-05-13,Tamil Nadu,CHC,Surgery,Rude staff,Medium,No
+CMP100721,2024-07-13,Maharashtra,CHC,Surgery,Lack of communication,Low,Yes
+CMP100722,2024-06-16,West Bengal,District Hospital,Pediatrics,Billing issues,Low,Yes
+CMP100723,2024-04-18,Tamil Nadu,Medical College Hospital,Surgery,Long wait time,Low,Yes
+CMP100724,2024-08-20,Uttar Pradesh,PHC,Outpatient,Test delays,Low,No
+CMP100725,2024-06-16,West Bengal,CHC,Diagnostics,Long wait time,Medium,No
+CMP100726,2024-06-21,Rajasthan,District Hospital,Maternity,Rude staff,Medium,Yes
+CMP100727,2024-07-13,Bihar,Medical College Hospital,Surgery,Billing issues,Low,Yes
+CMP100728,2024-05-22,Uttar Pradesh,PHC,Pharmacy,Lack of communication,High,Yes
+CMP100729,2024-08-03,Karnataka,PHC,Emergency,Test delays,High,No
+CMP100730,2024-05-09,Bihar,Medical College Hospital,Emergency,Unclean wards,Low,No
+CMP100731,2024-02-11,Tamil Nadu,Medical College Hospital,Pediatrics,Unavailability of medicine,Low,Yes
+CMP100732,2024-08-28,West Bengal,Medical College Hospital,Pharmacy,Test delays,Medium,No
+CMP100733,2024-01-10,Tamil Nadu,District Hospital,Pharmacy,Billing issues,Medium,No
+CMP100734,2024-10-03,Tamil Nadu,CHC,Pharmacy,Rude staff,Low,Yes
+CMP100735,2024-01-27,West Bengal,PHC,Diagnostics,Unclean wards,High,No
+CMP100736,2024-06-28,Bihar,CHC,Pediatrics,Test delays,High,Yes
+CMP100737,2024-04-24,Rajasthan,Medical College Hospital,Emergency,Long wait time,Medium,Yes
+CMP100738,2024-11-28,Maharashtra,PHC,Pediatrics,Rude staff,Medium,Yes
+CMP100739,2024-02-05,Maharashtra,PHC,Diagnostics,Lack of communication,Low,Yes
+CMP100740,2024-11-29,Maharashtra,CHC,Pediatrics,Unavailability of medicine,Low,Yes
+CMP100741,2024-01-21,West Bengal,CHC,Surgery,Unclean wards,Medium,Yes
+CMP100742,2024-01-16,Uttar Pradesh,PHC,Emergency,Unclean wards,Low,Yes
+CMP100743,2024-05-06,Rajasthan,District Hospital,Pharmacy,Rude staff,Medium,No
+CMP100744,2024-04-12,Uttar Pradesh,Medical College Hospital,Diagnostics,Billing issues,Low,Yes
+CMP100745,2024-01-11,West Bengal,CHC,Outpatient,Rude staff,Medium,No
+CMP100746,2024-11-14,Karnataka,PHC,Emergency,Unclean wards,High,No
+CMP100747,2024-03-19,Bihar,CHC,Maternity,Long wait time,Low,Yes
+CMP100748,2024-05-02,Karnataka,PHC,Pediatrics,Lack of communication,Low,Yes
+CMP100749,2024-03-05,West Bengal,District Hospital,Pharmacy,Unavailability of medicine,High,Yes
+CMP100750,2024-08-30,West Bengal,CHC,Pharmacy,Long wait time,High,No
+CMP100751,2024-12-08,Rajasthan,PHC,Surgery,Unclean wards,Medium,Yes
+CMP100752,2024-02-28,Uttar Pradesh,CHC,Diagnostics,Long wait time,Low,Yes
+CMP100753,2024-10-15,Bihar,PHC,Surgery,Billing issues,High,Yes
+CMP100754,2024-04-21,Tamil Nadu,Medical College Hospital,Outpatient,Rude staff,Medium,No
+CMP100755,2024-08-26,Rajasthan,PHC,Maternity,Unclean wards,High,Yes
+CMP100756,2024-12-24,Bihar,PHC,Outpatient,Lack of communication,Low,Yes
+CMP100757,2024-05-11,Uttar Pradesh,PHC,Surgery,Unavailability of medicine,Low,Yes
+CMP100758,2024-07-07,Rajasthan,PHC,Emergency,Test delays,Low,Yes
+CMP100759,2024-03-26,Tamil Nadu,Medical College Hospital,Emergency,Unavailability of medicine,Low,Yes
+CMP100760,2024-11-06,Rajasthan,District Hospital,Surgery,Billing issues,Medium,No
+CMP100761,2024-11-06,Tamil Nadu,Medical College Hospital,Maternity,Test delays,Medium,Yes
+CMP100762,2024-02-28,Bihar,District Hospital,Maternity,Long wait time,High,Yes
+CMP100763,2024-03-24,West Bengal,District Hospital,Surgery,Long wait time,Low,No
+CMP100764,2024-06-08,Rajasthan,Medical College Hospital,Emergency,Unavailability of medicine,Low,Yes
+CMP100765,2024-02-25,Maharashtra,CHC,Diagnostics,Unclean wards,Low,No
+CMP100766,2024-10-23,Uttar Pradesh,District Hospital,Maternity,Long wait time,Medium,No
+CMP100767,2024-01-14,Uttar Pradesh,Medical College Hospital,Maternity,Unclean wards,Low,No
+CMP100768,2024-06-08,Maharashtra,PHC,Surgery,Unavailability of medicine,Medium,No
+CMP100769,2024-10-21,Karnataka,Medical College Hospital,Pediatrics,Unclean wards,High,No
+CMP100770,2024-12-12,Karnataka,District Hospital,Maternity,Billing issues,High,Yes
+CMP100771,2024-07-11,Uttar Pradesh,CHC,Pharmacy,Test delays,Medium,No
+CMP100772,2024-07-22,Maharashtra,CHC,Diagnostics,Unavailability of medicine,Low,Yes
+CMP100773,2024-04-11,Maharashtra,CHC,Surgery,Test delays,Low,Yes
+CMP100774,2024-02-08,Tamil Nadu,PHC,Pediatrics,Lack of communication,High,Yes
+CMP100775,2024-10-30,West Bengal,Medical College Hospital,Pharmacy,Unclean wards,Low,Yes
+CMP100776,2024-12-19,Karnataka,Medical College Hospital,Pharmacy,Rude staff,High,Yes
+CMP100777,2024-11-17,Karnataka,CHC,Surgery,Billing issues,Low,Yes
+CMP100778,2024-05-04,Tamil Nadu,PHC,Surgery,Unclean wards,Medium,Yes
+CMP100779,2024-02-22,Bihar,CHC,Surgery,Unavailability of medicine,Medium,No
+CMP100780,2024-12-22,Rajasthan,District Hospital,Pharmacy,Lack of communication,Medium,No
+CMP100781,2024-06-03,Karnataka,Medical College Hospital,Outpatient,Unclean wards,Low,No
+CMP100782,2024-12-16,Tamil Nadu,PHC,Surgery,Rude staff,High,No
+CMP100783,2024-11-03,Maharashtra,CHC,Surgery,Lack of communication,Medium,No
+CMP100784,2024-03-02,Bihar,PHC,Diagnostics,Long wait time,Low,Yes
+CMP100785,2024-10-16,Rajasthan,District Hospital,Surgery,Lack of communication,High,No
+CMP100786,2024-01-22,Uttar Pradesh,District Hospital,Maternity,Lack of communication,High,Yes
+CMP100787,2024-06-26,Maharashtra,Medical College Hospital,Maternity,Unclean wards,High,No
+CMP100788,2024-09-29,Bihar,PHC,Diagnostics,Test delays,Low,Yes
+CMP100789,2024-08-07,West Bengal,CHC,Diagnostics,Unavailability of medicine,Medium,No
+CMP100790,2024-12-04,Tamil Nadu,CHC,Pediatrics,Rude staff,Medium,Yes
+CMP100791,2024-07-08,West Bengal,CHC,Outpatient,Long wait time,Medium,Yes
+CMP100792,2024-02-05,Maharashtra,Medical College Hospital,Surgery,Test delays,Medium,No
+CMP100793,2024-09-16,West Bengal,District Hospital,Outpatient,Unclean wards,High,Yes
+CMP100794,2024-11-27,Bihar,CHC,Maternity,Test delays,High,Yes
+CMP100795,2024-06-23,Uttar Pradesh,Medical College Hospital,Pharmacy,Long wait time,Low,No
+CMP100796,2024-01-07,West Bengal,Medical College Hospital,Outpatient,Unclean wards,Medium,Yes
+CMP100797,2024-08-03,Maharashtra,Medical College Hospital,Emergency,Unclean wards,High,Yes
+CMP100798,2024-09-07,Rajasthan,Medical College Hospital,Emergency,Billing issues,High,No
+CMP100799,2024-02-24,Maharashtra,Medical College Hospital,Emergency,Test delays,Low,No
+CMP100800,2024-08-09,Karnataka,Medical College Hospital,Diagnostics,Test delays,Medium,No
+CMP100801,2024-07-04,West Bengal,District Hospital,Maternity,Long wait time,High,No
+CMP100802,2024-11-21,Rajasthan,District Hospital,Pediatrics,Long wait time,Medium,No
+CMP100803,2024-08-23,Bihar,CHC,Emergency,Rude staff,High,Yes
+CMP100804,2024-12-28,Bihar,PHC,Maternity,Unclean wards,Low,Yes
+CMP100805,2024-03-19,Karnataka,District Hospital,Pediatrics,Unclean wards,Low,No
+CMP100806,2024-08-10,Rajasthan,PHC,Outpatient,Test delays,Low,No
+CMP100807,2024-03-31,West Bengal,CHC,Pediatrics,Billing issues,Low,Yes
+CMP100808,2024-09-24,Tamil Nadu,District Hospital,Surgery,Long wait time,High,No
+CMP100809,2024-11-29,Rajasthan,District Hospital,Diagnostics,Test delays,High,Yes
+CMP100810,2024-05-18,Tamil Nadu,CHC,Diagnostics,Rude staff,Low,Yes
+CMP100811,2024-11-11,Karnataka,CHC,Emergency,Long wait time,High,Yes
+CMP100812,2024-10-02,Maharashtra,PHC,Pharmacy,Unavailability of medicine,Low,No
+CMP100813,2024-09-04,Uttar Pradesh,PHC,Pharmacy,Rude staff,High,No
+CMP100814,2024-08-26,Tamil Nadu,CHC,Surgery,Unavailability of medicine,Low,Yes
+CMP100815,2024-08-11,West Bengal,District Hospital,Pediatrics,Rude staff,High,Yes
+CMP100816,2024-10-30,Uttar Pradesh,Medical College Hospital,Maternity,Billing issues,High,No
+CMP100817,2024-05-17,Bihar,PHC,Outpatient,Lack of communication,Medium,Yes
+CMP100818,2024-06-14,Bihar,CHC,Emergency,Unclean wards,Medium,Yes
+CMP100819,2024-05-05,Tamil Nadu,District Hospital,Maternity,Long wait time,Medium,Yes
+CMP100820,2024-02-14,Maharashtra,District Hospital,Outpatient,Rude staff,Medium,Yes
+CMP100821,2024-05-22,Bihar,PHC,Maternity,Lack of communication,High,Yes
+CMP100822,2024-08-18,Uttar Pradesh,PHC,Pharmacy,Unclean wards,High,No
+CMP100823,2024-05-04,Maharashtra,Medical College Hospital,Pharmacy,Test delays,Medium,Yes
+CMP100824,2024-08-25,Tamil Nadu,PHC,Pediatrics,Unclean wards,Low,Yes
+CMP100825,2024-10-18,Bihar,Medical College Hospital,Emergency,Unavailability of medicine,Low,Yes
+CMP100826,2024-11-08,Tamil Nadu,CHC,Pharmacy,Lack of communication,Low,Yes
+CMP100827,2024-12-08,Rajasthan,PHC,Pharmacy,Test delays,Low,No
+CMP100828,2024-07-13,Maharashtra,Medical College Hospital,Surgery,Lack of communication,Low,Yes
+CMP100829,2024-06-21,Maharashtra,PHC,Surgery,Billing issues,Low,Yes
+CMP100830,2024-01-15,Maharashtra,CHC,Pharmacy,Billing issues,Medium,No
+CMP100831,2024-09-10,Karnataka,CHC,Pediatrics,Unavailability of medicine,High,Yes
+CMP100832,2024-06-15,West Bengal,Medical College Hospital,Emergency,Lack of communication,Medium,Yes
+CMP100833,2024-04-03,Karnataka,District Hospital,Emergency,Lack of communication,High,No
+CMP100834,2024-09-06,Uttar Pradesh,CHC,Maternity,Lack of communication,High,Yes
+CMP100835,2024-04-18,Maharashtra,CHC,Pharmacy,Test delays,Medium,No
+CMP100836,2024-06-30,West Bengal,CHC,Pharmacy,Unclean wards,Medium,Yes
+CMP100837,2024-05-12,Maharashtra,CHC,Diagnostics,Unavailability of medicine,High,No
+CMP100838,2024-06-23,West Bengal,District Hospital,Maternity,Unclean wards,High,No
+CMP100839,2024-05-23,Bihar,CHC,Surgery,Test delays,Low,No
+CMP100840,2024-11-01,Uttar Pradesh,District Hospital,Surgery,Billing issues,Low,Yes
+CMP100841,2024-12-25,West Bengal,PHC,Emergency,Unclean wards,Medium,No
+CMP100842,2024-05-21,Uttar Pradesh,District Hospital,Pediatrics,Unclean wards,Medium,No
+CMP100843,2024-10-11,Tamil Nadu,Medical College Hospital,Outpatient,Billing issues,High,No
+CMP100844,2024-01-06,Maharashtra,PHC,Outpatient,Unavailability of medicine,Medium,Yes
+CMP100845,2024-09-21,Bihar,District Hospital,Pharmacy,Rude staff,Medium,Yes
+CMP100846,2024-04-07,Tamil Nadu,District Hospital,Pediatrics,Lack of communication,Medium,No
+CMP100847,2024-02-13,West Bengal,District Hospital,Pharmacy,Unclean wards,Low,No
+CMP100848,2024-05-03,Karnataka,District Hospital,Maternity,Long wait time,High,Yes
+CMP100849,2024-07-27,West Bengal,District Hospital,Diagnostics,Long wait time,High,Yes
+CMP100850,2024-09-07,Rajasthan,District Hospital,Diagnostics,Unavailability of medicine,High,Yes
+CMP100851,2024-10-11,Maharashtra,Medical College Hospital,Pediatrics,Unclean wards,High,No
+CMP100852,2024-05-03,West Bengal,Medical College Hospital,Emergency,Unclean wards,Low,No
+CMP100853,2024-12-19,Uttar Pradesh,Medical College Hospital,Maternity,Rude staff,Low,Yes
+CMP100854,2024-08-31,West Bengal,District Hospital,Outpatient,Test delays,Low,No
+CMP100855,2024-11-26,Maharashtra,PHC,Diagnostics,Rude staff,High,Yes
+CMP100856,2024-12-30,Maharashtra,Medical College Hospital,Outpatient,Long wait time,High,Yes
+CMP100857,2024-09-08,Karnataka,CHC,Maternity,Long wait time,Low,No
+CMP100858,2024-08-17,Bihar,CHC,Diagnostics,Test delays,Medium,Yes
+CMP100859,2024-01-09,Bihar,District Hospital,Pediatrics,Long wait time,Medium,Yes
+CMP100860,2024-02-17,Bihar,PHC,Surgery,Lack of communication,Low,Yes
+CMP100861,2024-05-30,Tamil Nadu,Medical College Hospital,Pharmacy,Long wait time,Low,Yes
+CMP100862,2024-04-23,Bihar,District Hospital,Diagnostics,Unclean wards,High,Yes
+CMP100863,2024-07-26,Tamil Nadu,PHC,Pediatrics,Test delays,Low,Yes
+CMP100864,2024-12-20,West Bengal,CHC,Pediatrics,Long wait time,Low,No
+CMP100865,2024-05-04,Karnataka,Medical College Hospital,Diagnostics,Rude staff,Medium,No
+CMP100866,2024-06-05,Maharashtra,District Hospital,Maternity,Unclean wards,Low,Yes
+CMP100867,2024-12-05,Tamil Nadu,District Hospital,Emergency,Billing issues,High,No
+CMP100868,2024-10-24,West Bengal,PHC,Pediatrics,Test delays,Medium,No
+CMP100869,2024-07-07,Karnataka,District Hospital,Surgery,Unavailability of medicine,High,No
+CMP100870,2024-08-30,Tamil Nadu,District Hospital,Pharmacy,Rude staff,High,No
+CMP100871,2024-10-10,Rajasthan,Medical College Hospital,Surgery,Unavailability of medicine,Medium,Yes
+CMP100872,2024-09-28,Karnataka,CHC,Maternity,Billing issues,High,No
+CMP100873,2024-06-25,Rajasthan,CHC,Maternity,Billing issues,High,Yes
+CMP100874,2024-08-05,West Bengal,PHC,Pharmacy,Long wait time,Medium,Yes
+CMP100875,2024-10-08,Rajasthan,CHC,Surgery,Lack of communication,High,Yes
+CMP100876,2024-06-18,Bihar,PHC,Surgery,Long wait time,High,Yes
+CMP100877,2024-06-29,Rajasthan,Medical College Hospital,Emergency,Test delays,Medium,No
+CMP100878,2024-12-25,Bihar,PHC,Outpatient,Lack of communication,High,Yes
+CMP100879,2024-08-20,West Bengal,CHC,Surgery,Billing issues,Medium,Yes
+CMP100880,2024-05-18,Rajasthan,District Hospital,Maternity,Lack of communication,Medium,Yes
+CMP100881,2024-06-05,Karnataka,Medical College Hospital,Pharmacy,Unclean wards,Medium,No
+CMP100882,2024-05-08,Rajasthan,CHC,Pediatrics,Lack of communication,Low,Yes
+CMP100883,2024-04-28,Rajasthan,Medical College Hospital,Pediatrics,Unclean wards,Low,No
+CMP100884,2024-03-02,Uttar Pradesh,PHC,Pharmacy,Rude staff,Medium,Yes
+CMP100885,2024-04-08,Karnataka,CHC,Emergency,Unavailability of medicine,Low,No
+CMP100886,2024-06-10,Tamil Nadu,District Hospital,Outpatient,Test delays,Medium,No
+CMP100887,2024-03-02,Karnataka,District Hospital,Pharmacy,Unclean wards,Low,Yes
+CMP100888,2024-10-01,West Bengal,District Hospital,Pediatrics,Unclean wards,Low,No
+CMP100889,2024-12-19,Maharashtra,District Hospital,Emergency,Billing issues,High,Yes
+CMP100890,2024-04-04,Uttar Pradesh,Medical College Hospital,Pharmacy,Unavailability of medicine,Low,Yes
+CMP100891,2024-04-08,Karnataka,CHC,Diagnostics,Billing issues,High,No
+CMP100892,2024-04-20,Uttar Pradesh,District Hospital,Maternity,Unavailability of medicine,Low,No
+CMP100893,2024-09-04,Uttar Pradesh,District Hospital,Surgery,Lack of communication,Medium,No
+CMP100894,2024-05-21,Rajasthan,District Hospital,Pediatrics,Lack of communication,High,Yes
+CMP100895,2024-10-28,Karnataka,PHC,Outpatient,Billing issues,Low,Yes
+CMP100896,2024-09-25,Karnataka,CHC,Surgery,Billing issues,Low,Yes
+CMP100897,2024-11-01,Bihar,Medical College Hospital,Surgery,Long wait time,Medium,No
+CMP100898,2024-05-24,Karnataka,PHC,Diagnostics,Lack of communication,High,No
+CMP100899,2024-02-21,Karnataka,PHC,Outpatient,Long wait time,Medium,No
+CMP100900,2024-04-09,Bihar,Medical College Hospital,Surgery,Unclean wards,High,No
+CMP100901,2024-05-31,Bihar,District Hospital,Emergency,Long wait time,Medium,No
+CMP100902,2024-04-26,Maharashtra,District Hospital,Pediatrics,Unclean wards,Low,Yes
+CMP100903,2024-07-03,Rajasthan,CHC,Pediatrics,Unclean wards,Medium,Yes
+CMP100904,2024-04-01,Karnataka,District Hospital,Pediatrics,Unavailability of medicine,Low,No
+CMP100905,2024-06-03,Tamil Nadu,PHC,Pharmacy,Lack of communication,Low,Yes
+CMP100906,2024-01-08,Uttar Pradesh,PHC,Maternity,Unclean wards,Medium,No
+CMP100907,2024-12-28,West Bengal,PHC,Pediatrics,Unclean wards,Low,No
+CMP100908,2024-09-30,Bihar,Medical College Hospital,Pharmacy,Unclean wards,Low,No
+CMP100909,2024-03-05,West Bengal,District Hospital,Maternity,Long wait time,Medium,No
+CMP100910,2024-05-20,Karnataka,District Hospital,Emergency,Long wait time,Low,Yes
+CMP100911,2024-01-24,Tamil Nadu,District Hospital,Pharmacy,Rude staff,High,No
+CMP100912,2024-01-28,Uttar Pradesh,District Hospital,Diagnostics,Billing issues,Low,No
+CMP100913,2024-10-10,Karnataka,CHC,Emergency,Test delays,Low,No
+CMP100914,2024-05-29,Tamil Nadu,CHC,Diagnostics,Lack of communication,Medium,No
+CMP100915,2024-12-23,Rajasthan,PHC,Outpatient,Lack of communication,Medium,Yes
+CMP100916,2024-03-05,Uttar Pradesh,PHC,Pharmacy,Unavailability of medicine,Low,No
+CMP100917,2024-11-22,Tamil Nadu,Medical College Hospital,Diagnostics,Test delays,High,No
+CMP100918,2024-09-08,Bihar,PHC,Pediatrics,Rude staff,High,No
+CMP100919,2024-02-22,Karnataka,District Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP100920,2024-01-07,Tamil Nadu,PHC,Outpatient,Unclean wards,Low,Yes
+CMP100921,2024-10-20,Tamil Nadu,PHC,Surgery,Rude staff,Low,Yes
+CMP100922,2024-05-25,Karnataka,CHC,Pharmacy,Unavailability of medicine,Low,Yes
+CMP100923,2024-08-28,Uttar Pradesh,District Hospital,Outpatient,Test delays,Low,Yes
+CMP100924,2024-09-02,Karnataka,Medical College Hospital,Emergency,Unclean wards,Medium,Yes
+CMP100925,2024-08-13,Tamil Nadu,Medical College Hospital,Pharmacy,Unclean wards,Low,No
+CMP100926,2024-06-23,West Bengal,Medical College Hospital,Pediatrics,Lack of communication,Low,No
+CMP100927,2024-04-04,Rajasthan,PHC,Emergency,Long wait time,Medium,Yes
+CMP100928,2024-01-27,Maharashtra,Medical College Hospital,Pediatrics,Billing issues,High,No
+CMP100929,2024-05-09,West Bengal,Medical College Hospital,Outpatient,Test delays,Low,Yes
+CMP100930,2024-09-01,Uttar Pradesh,Medical College Hospital,Emergency,Unclean wards,Medium,Yes
+CMP100931,2024-02-28,Tamil Nadu,CHC,Diagnostics,Test delays,High,No
+CMP100932,2024-02-03,Maharashtra,District Hospital,Surgery,Billing issues,Low,No
+CMP100933,2024-07-24,Rajasthan,CHC,Emergency,Test delays,Low,Yes
+CMP100934,2024-09-08,Uttar Pradesh,District Hospital,Pediatrics,Billing issues,Low,No
+CMP100935,2024-02-07,West Bengal,CHC,Diagnostics,Billing issues,Low,No
+CMP100936,2024-10-22,Bihar,District Hospital,Surgery,Unclean wards,Low,No
+CMP100937,2024-11-18,Karnataka,Medical College Hospital,Outpatient,Unclean wards,Medium,No
+CMP100938,2024-12-17,Uttar Pradesh,Medical College Hospital,Outpatient,Billing issues,Low,Yes
+CMP100939,2024-01-28,Uttar Pradesh,Medical College Hospital,Pharmacy,Lack of communication,Low,Yes
+CMP100940,2024-03-18,Tamil Nadu,CHC,Diagnostics,Rude staff,High,Yes
+CMP100941,2024-03-17,Maharashtra,Medical College Hospital,Maternity,Billing issues,Low,Yes
+CMP100942,2024-10-15,West Bengal,PHC,Pediatrics,Long wait time,Medium,No
+CMP100943,2024-06-04,Uttar Pradesh,District Hospital,Surgery,Unclean wards,High,No
+CMP100944,2024-02-13,Karnataka,CHC,Pharmacy,Unavailability of medicine,Low,Yes
+CMP100945,2024-05-07,Uttar Pradesh,Medical College Hospital,Pediatrics,Unclean wards,Medium,No
+CMP100946,2024-03-01,Uttar Pradesh,Medical College Hospital,Pharmacy,Billing issues,Low,No
+CMP100947,2024-10-12,Tamil Nadu,District Hospital,Outpatient,Unclean wards,Medium,Yes
+CMP100948,2024-08-01,Uttar Pradesh,Medical College Hospital,Pediatrics,Billing issues,Medium,No
+CMP100949,2024-11-06,Maharashtra,Medical College Hospital,Pediatrics,Test delays,Low,No
+CMP100950,2024-11-01,Tamil Nadu,District Hospital,Emergency,Unavailability of medicine,Medium,No
+CMP100951,2024-11-12,Bihar,District Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP100952,2024-04-25,Rajasthan,PHC,Surgery,Unavailability of medicine,High,No
+CMP100953,2024-09-24,Bihar,PHC,Maternity,Unavailability of medicine,Low,Yes
+CMP100954,2024-07-13,Rajasthan,District Hospital,Outpatient,Long wait time,High,No
+CMP100955,2024-08-18,West Bengal,CHC,Outpatient,Long wait time,High,No
+CMP100956,2024-08-14,West Bengal,PHC,Maternity,Billing issues,Medium,Yes
+CMP100957,2024-06-01,West Bengal,District Hospital,Emergency,Long wait time,High,Yes
+CMP100958,2024-10-28,Tamil Nadu,Medical College Hospital,Diagnostics,Rude staff,Low,No
+CMP100959,2024-08-07,Maharashtra,CHC,Diagnostics,Lack of communication,Low,Yes
+CMP100960,2024-06-05,Tamil Nadu,Medical College Hospital,Maternity,Unavailability of medicine,Low,Yes
+CMP100961,2024-10-18,Tamil Nadu,PHC,Pediatrics,Unavailability of medicine,Low,No
+CMP100962,2024-11-13,Rajasthan,Medical College Hospital,Surgery,Lack of communication,Low,Yes
+CMP100963,2024-01-31,Tamil Nadu,CHC,Emergency,Test delays,Low,No
+CMP100964,2024-11-08,Tamil Nadu,District Hospital,Emergency,Billing issues,High,Yes
+CMP100965,2024-02-20,Uttar Pradesh,District Hospital,Pharmacy,Long wait time,Medium,No
+CMP100966,2024-04-16,West Bengal,CHC,Emergency,Lack of communication,High,No
+CMP100967,2024-11-16,West Bengal,Medical College Hospital,Maternity,Test delays,Medium,No
+CMP100968,2024-04-18,Rajasthan,Medical College Hospital,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP100969,2024-05-15,Karnataka,CHC,Surgery,Unclean wards,High,Yes
+CMP100970,2024-12-04,Bihar,District Hospital,Pediatrics,Long wait time,Medium,Yes
+CMP100971,2024-02-11,West Bengal,Medical College Hospital,Emergency,Unclean wards,High,Yes
+CMP100972,2024-03-21,Rajasthan,PHC,Pharmacy,Unavailability of medicine,Low,No
+CMP100973,2024-05-02,Maharashtra,CHC,Diagnostics,Unavailability of medicine,Low,No
+CMP100974,2024-03-29,Uttar Pradesh,PHC,Emergency,Unclean wards,High,No
+CMP100975,2024-10-09,Bihar,PHC,Emergency,Unavailability of medicine,High,Yes
+CMP100976,2024-02-08,Karnataka,District Hospital,Surgery,Long wait time,Low,Yes
+CMP100977,2024-03-21,Tamil Nadu,CHC,Pediatrics,Test delays,High,Yes
+CMP100978,2024-01-02,Karnataka,Medical College Hospital,Maternity,Rude staff,Medium,Yes
+CMP100979,2024-07-28,Bihar,Medical College Hospital,Maternity,Rude staff,Low,No
+CMP100980,2024-08-18,West Bengal,CHC,Pharmacy,Rude staff,Medium,No
+CMP100981,2024-12-18,Bihar,District Hospital,Emergency,Test delays,Low,Yes
+CMP100982,2024-10-31,Rajasthan,Medical College Hospital,Surgery,Unavailability of medicine,Low,No
+CMP100983,2024-08-28,Uttar Pradesh,Medical College Hospital,Pediatrics,Billing issues,High,No
+CMP100984,2024-05-29,Rajasthan,Medical College Hospital,Pharmacy,Long wait time,Medium,No
+CMP100985,2024-01-17,Uttar Pradesh,District Hospital,Maternity,Test delays,Low,Yes
+CMP100986,2024-04-28,Maharashtra,Medical College Hospital,Outpatient,Long wait time,High,No
+CMP100987,2024-05-27,Tamil Nadu,Medical College Hospital,Pharmacy,Lack of communication,High,Yes
+CMP100988,2024-12-27,West Bengal,PHC,Outpatient,Unavailability of medicine,Medium,Yes
+CMP100989,2024-05-24,West Bengal,District Hospital,Outpatient,Long wait time,Low,Yes
+CMP100990,2024-12-25,Karnataka,Medical College Hospital,Pharmacy,Unavailability of medicine,High,No
+CMP100991,2024-08-20,Tamil Nadu,District Hospital,Pharmacy,Rude staff,Low,No
+CMP100992,2024-02-06,Karnataka,District Hospital,Surgery,Long wait time,Medium,No
+CMP100993,2024-12-17,Tamil Nadu,Medical College Hospital,Pharmacy,Billing issues,High,Yes
+CMP100994,2024-04-29,Rajasthan,Medical College Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP100995,2024-05-15,Bihar,District Hospital,Diagnostics,Long wait time,Low,No
+CMP100996,2024-11-16,Bihar,District Hospital,Maternity,Unclean wards,Low,No
+CMP100997,2024-10-28,Tamil Nadu,District Hospital,Emergency,Test delays,High,No
+CMP100998,2024-12-04,Maharashtra,PHC,Pharmacy,Lack of communication,Medium,No
+CMP100999,2024-04-11,Bihar,CHC,Outpatient,Unclean wards,High,Yes
+CMP101000,2024-08-05,Maharashtra,Medical College Hospital,Outpatient,Billing issues,High,No
+CMP101001,2024-02-28,Bihar,PHC,Pharmacy,Billing issues,Medium,No
+CMP101002,2024-10-05,West Bengal,PHC,Emergency,Unclean wards,Medium,No
+CMP101003,2024-04-25,Rajasthan,District Hospital,Emergency,Unavailability of medicine,High,Yes
+CMP101004,2024-11-27,Uttar Pradesh,CHC,Surgery,Long wait time,Medium,Yes
+CMP101005,2024-03-17,Uttar Pradesh,Medical College Hospital,Surgery,Test delays,Low,Yes
+CMP101006,2024-05-16,Rajasthan,PHC,Surgery,Unclean wards,Medium,Yes
+CMP101007,2024-03-13,West Bengal,Medical College Hospital,Emergency,Billing issues,High,No
+CMP101008,2024-02-06,Tamil Nadu,PHC,Outpatient,Long wait time,Medium,No
+CMP101009,2024-01-31,Karnataka,Medical College Hospital,Surgery,Unavailability of medicine,High,Yes
+CMP101010,2024-03-25,Rajasthan,District Hospital,Pharmacy,Unclean wards,High,Yes
+CMP101011,2024-06-06,Uttar Pradesh,District Hospital,Surgery,Billing issues,Medium,No
+CMP101012,2024-10-31,Bihar,CHC,Pharmacy,Unclean wards,High,Yes
+CMP101013,2024-10-18,Bihar,District Hospital,Pharmacy,Unavailability of medicine,Medium,No
+CMP101014,2024-05-27,Uttar Pradesh,PHC,Outpatient,Billing issues,Medium,No
+CMP101015,2024-08-12,Uttar Pradesh,PHC,Maternity,Long wait time,Medium,Yes
+CMP101016,2024-03-04,Karnataka,PHC,Pediatrics,Lack of communication,High,No
+CMP101017,2024-08-27,Uttar Pradesh,PHC,Pharmacy,Unclean wards,Medium,No
+CMP101018,2024-12-18,Tamil Nadu,District Hospital,Surgery,Long wait time,High,Yes
+CMP101019,2024-06-04,Karnataka,District Hospital,Outpatient,Test delays,High,No
+CMP101020,2024-12-24,West Bengal,CHC,Outpatient,Test delays,High,Yes
+CMP101021,2024-07-25,West Bengal,Medical College Hospital,Emergency,Rude staff,Low,No
+CMP101022,2024-05-19,Rajasthan,CHC,Pharmacy,Unavailability of medicine,Low,Yes
+CMP101023,2024-09-13,Uttar Pradesh,Medical College Hospital,Surgery,Unclean wards,Low,Yes
+CMP101024,2024-10-03,Bihar,District Hospital,Pharmacy,Billing issues,Low,Yes
+CMP101025,2024-09-09,West Bengal,PHC,Surgery,Lack of communication,Medium,Yes
+CMP101026,2024-08-12,Uttar Pradesh,CHC,Diagnostics,Lack of communication,Low,No
+CMP101027,2024-02-11,Tamil Nadu,CHC,Emergency,Test delays,Medium,Yes
+CMP101028,2024-11-02,Tamil Nadu,District Hospital,Outpatient,Unavailability of medicine,Low,No
+CMP101029,2024-01-21,Bihar,Medical College Hospital,Emergency,Rude staff,Medium,Yes
+CMP101030,2024-08-09,Karnataka,CHC,Diagnostics,Billing issues,Medium,No
+CMP101031,2024-06-14,Bihar,Medical College Hospital,Maternity,Unavailability of medicine,Medium,Yes
+CMP101032,2024-11-05,Rajasthan,CHC,Emergency,Unavailability of medicine,High,Yes
+CMP101033,2024-05-08,Rajasthan,PHC,Emergency,Unclean wards,Low,Yes
+CMP101034,2024-01-14,Rajasthan,District Hospital,Diagnostics,Rude staff,Medium,No
+CMP101035,2024-02-16,Uttar Pradesh,Medical College Hospital,Emergency,Unclean wards,Medium,No
+CMP101036,2024-04-27,Bihar,District Hospital,Emergency,Test delays,High,Yes
+CMP101037,2024-12-11,Karnataka,District Hospital,Diagnostics,Lack of communication,Low,No
+CMP101038,2024-10-21,Maharashtra,Medical College Hospital,Diagnostics,Lack of communication,Low,No
+CMP101039,2024-10-27,Bihar,Medical College Hospital,Outpatient,Long wait time,Low,Yes
+CMP101040,2024-01-11,Rajasthan,CHC,Maternity,Lack of communication,Medium,No
+CMP101041,2024-12-10,West Bengal,Medical College Hospital,Surgery,Lack of communication,Medium,No
+CMP101042,2024-05-17,Karnataka,District Hospital,Surgery,Billing issues,High,No
+CMP101043,2024-10-22,Maharashtra,District Hospital,Maternity,Rude staff,Medium,No
+CMP101044,2024-01-21,Karnataka,Medical College Hospital,Pediatrics,Unavailability of medicine,Low,No
+CMP101045,2024-03-30,Karnataka,Medical College Hospital,Maternity,Unavailability of medicine,High,No
+CMP101046,2024-08-28,Rajasthan,CHC,Maternity,Long wait time,Low,No
+CMP101047,2024-09-22,West Bengal,CHC,Diagnostics,Unavailability of medicine,Medium,No
+CMP101048,2024-11-29,Rajasthan,CHC,Surgery,Billing issues,High,Yes
+CMP101049,2024-08-14,Maharashtra,District Hospital,Pharmacy,Unclean wards,High,Yes
+CMP101050,2024-05-22,Bihar,Medical College Hospital,Pharmacy,Lack of communication,Medium,No
+CMP101051,2024-04-02,Maharashtra,PHC,Pharmacy,Rude staff,Medium,No
+CMP101052,2024-10-26,Bihar,Medical College Hospital,Pediatrics,Billing issues,Medium,No
+CMP101053,2024-08-11,West Bengal,Medical College Hospital,Outpatient,Test delays,Medium,Yes
+CMP101054,2024-11-21,Karnataka,CHC,Maternity,Long wait time,Medium,Yes
+CMP101055,2024-09-08,Bihar,PHC,Pediatrics,Test delays,Medium,No
+CMP101056,2024-02-16,Tamil Nadu,Medical College Hospital,Maternity,Lack of communication,Medium,No
+CMP101057,2024-08-28,Maharashtra,PHC,Pediatrics,Billing issues,Medium,No
+CMP101058,2024-06-27,Maharashtra,PHC,Surgery,Long wait time,Medium,No
+CMP101059,2024-07-28,Uttar Pradesh,Medical College Hospital,Emergency,Billing issues,Medium,No
+CMP101060,2024-06-19,Karnataka,CHC,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP101061,2024-06-13,Karnataka,CHC,Pediatrics,Unavailability of medicine,Low,Yes
+CMP101062,2024-12-09,West Bengal,Medical College Hospital,Diagnostics,Long wait time,Low,Yes
+CMP101063,2024-02-23,Bihar,PHC,Surgery,Billing issues,Medium,Yes
+CMP101064,2024-03-23,West Bengal,PHC,Outpatient,Lack of communication,Low,Yes
+CMP101065,2024-06-17,West Bengal,CHC,Emergency,Billing issues,Medium,No
+CMP101066,2024-07-29,Tamil Nadu,CHC,Pediatrics,Unclean wards,High,Yes
+CMP101067,2024-12-21,Karnataka,CHC,Pediatrics,Unclean wards,Low,No
+CMP101068,2024-09-10,Tamil Nadu,PHC,Maternity,Rude staff,Medium,Yes
+CMP101069,2024-05-27,Uttar Pradesh,PHC,Diagnostics,Unavailability of medicine,Low,No
+CMP101070,2024-12-05,Maharashtra,CHC,Emergency,Lack of communication,Medium,Yes
+CMP101071,2024-07-24,West Bengal,CHC,Diagnostics,Long wait time,High,No
+CMP101072,2024-10-08,West Bengal,PHC,Pharmacy,Test delays,High,No
+CMP101073,2024-01-19,Tamil Nadu,District Hospital,Maternity,Lack of communication,High,Yes
+CMP101074,2024-08-20,Rajasthan,PHC,Maternity,Unavailability of medicine,High,Yes
+CMP101075,2024-02-15,Karnataka,Medical College Hospital,Maternity,Billing issues,Low,No
+CMP101076,2024-06-10,Maharashtra,Medical College Hospital,Pediatrics,Lack of communication,Medium,No
+CMP101077,2024-05-09,West Bengal,PHC,Diagnostics,Unavailability of medicine,Low,Yes
+CMP101078,2024-06-14,Tamil Nadu,Medical College Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP101079,2024-02-29,Tamil Nadu,District Hospital,Outpatient,Test delays,Low,No
+CMP101080,2024-07-25,Bihar,District Hospital,Outpatient,Billing issues,Low,Yes
+CMP101081,2024-09-20,Maharashtra,District Hospital,Outpatient,Unavailability of medicine,Medium,No
+CMP101082,2024-01-01,Tamil Nadu,Medical College Hospital,Pediatrics,Rude staff,Low,No
+CMP101083,2024-12-02,Bihar,CHC,Surgery,Unclean wards,High,No
+CMP101084,2024-10-04,Rajasthan,District Hospital,Pharmacy,Unclean wards,Low,No
+CMP101085,2024-08-24,Karnataka,District Hospital,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP101086,2024-07-30,Tamil Nadu,CHC,Diagnostics,Billing issues,Low,No
+CMP101087,2024-01-28,Bihar,PHC,Outpatient,Billing issues,High,Yes
+CMP101088,2024-04-06,Rajasthan,CHC,Maternity,Unclean wards,Medium,No
+CMP101089,2024-09-22,Bihar,PHC,Maternity,Test delays,Medium,No
+CMP101090,2024-07-04,Maharashtra,PHC,Pharmacy,Lack of communication,Medium,No
+CMP101091,2024-11-14,Rajasthan,CHC,Pediatrics,Billing issues,High,No
+CMP101092,2024-09-12,West Bengal,District Hospital,Pediatrics,Rude staff,High,No
+CMP101093,2024-11-16,Bihar,PHC,Pharmacy,Long wait time,Medium,Yes
+CMP101094,2024-08-14,Rajasthan,CHC,Diagnostics,Test delays,Low,Yes
+CMP101095,2024-01-27,Tamil Nadu,District Hospital,Diagnostics,Test delays,High,No
+CMP101096,2024-04-14,Uttar Pradesh,PHC,Emergency,Billing issues,High,Yes
+CMP101097,2024-05-16,Karnataka,Medical College Hospital,Emergency,Lack of communication,Low,Yes
+CMP101098,2024-10-08,Tamil Nadu,District Hospital,Diagnostics,Rude staff,High,Yes
+CMP101099,2024-03-08,Tamil Nadu,CHC,Emergency,Billing issues,High,Yes
+CMP101100,2024-05-27,Karnataka,Medical College Hospital,Pharmacy,Unclean wards,High,No
+CMP101101,2024-08-12,Karnataka,CHC,Diagnostics,Rude staff,Medium,No
+CMP101102,2024-12-23,Bihar,PHC,Diagnostics,Test delays,Low,No
+CMP101103,2024-09-05,Tamil Nadu,District Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP101104,2024-03-03,Bihar,Medical College Hospital,Outpatient,Test delays,Medium,No
+CMP101105,2024-01-15,Maharashtra,Medical College Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP101106,2024-11-18,Bihar,Medical College Hospital,Pediatrics,Unavailability of medicine,Medium,No
+CMP101107,2024-11-07,Maharashtra,PHC,Pharmacy,Test delays,Medium,Yes
+CMP101108,2024-05-02,West Bengal,District Hospital,Surgery,Billing issues,High,No
+CMP101109,2024-12-29,Uttar Pradesh,District Hospital,Surgery,Lack of communication,High,Yes
+CMP101110,2024-03-22,Tamil Nadu,PHC,Outpatient,Billing issues,Low,No
+CMP101111,2024-06-08,Rajasthan,CHC,Surgery,Lack of communication,Medium,Yes
+CMP101112,2024-10-09,Maharashtra,Medical College Hospital,Emergency,Lack of communication,High,No
+CMP101113,2024-01-08,Uttar Pradesh,CHC,Diagnostics,Unclean wards,High,Yes
+CMP101114,2024-10-09,Karnataka,PHC,Pediatrics,Billing issues,Low,No
+CMP101115,2024-07-27,West Bengal,CHC,Maternity,Test delays,Medium,No
+CMP101116,2024-02-17,Rajasthan,CHC,Pediatrics,Test delays,Low,Yes
+CMP101117,2024-04-25,Bihar,PHC,Emergency,Long wait time,Low,No
+CMP101118,2024-02-28,Uttar Pradesh,Medical College Hospital,Pharmacy,Billing issues,High,Yes
+CMP101119,2024-08-24,Maharashtra,CHC,Surgery,Rude staff,High,Yes
+CMP101120,2024-03-01,Tamil Nadu,District Hospital,Maternity,Unavailability of medicine,Low,Yes
+CMP101121,2024-11-27,West Bengal,CHC,Emergency,Unclean wards,Medium,Yes
+CMP101122,2024-03-19,Karnataka,CHC,Pediatrics,Rude staff,Low,No
+CMP101123,2024-09-12,Karnataka,District Hospital,Pharmacy,Rude staff,High,No
+CMP101124,2024-05-29,Uttar Pradesh,Medical College Hospital,Surgery,Rude staff,High,Yes
+CMP101125,2024-09-17,Rajasthan,District Hospital,Diagnostics,Test delays,High,No
+CMP101126,2024-12-27,Uttar Pradesh,Medical College Hospital,Diagnostics,Test delays,Medium,Yes
+CMP101127,2024-05-19,Bihar,PHC,Surgery,Lack of communication,High,Yes
+CMP101128,2024-07-31,Rajasthan,PHC,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP101129,2024-09-04,Rajasthan,CHC,Outpatient,Lack of communication,Medium,Yes
+CMP101130,2024-08-29,Karnataka,CHC,Surgery,Unclean wards,Low,No
+CMP101131,2024-05-04,West Bengal,PHC,Outpatient,Unclean wards,Medium,Yes
+CMP101132,2024-08-21,West Bengal,District Hospital,Surgery,Unavailability of medicine,Low,Yes
+CMP101133,2024-10-09,Karnataka,PHC,Outpatient,Lack of communication,Medium,Yes
+CMP101134,2024-03-15,Bihar,Medical College Hospital,Diagnostics,Lack of communication,High,Yes
+CMP101135,2024-07-15,Tamil Nadu,CHC,Diagnostics,Long wait time,Medium,No
+CMP101136,2024-04-07,Bihar,District Hospital,Emergency,Test delays,Low,Yes
+CMP101137,2024-11-02,Rajasthan,CHC,Pharmacy,Rude staff,Medium,Yes
+CMP101138,2024-09-17,Maharashtra,PHC,Outpatient,Lack of communication,Medium,No
+CMP101139,2024-03-10,Maharashtra,District Hospital,Pediatrics,Unclean wards,High,No
+CMP101140,2024-02-05,Uttar Pradesh,PHC,Maternity,Unavailability of medicine,Low,Yes
+CMP101141,2024-05-21,Bihar,Medical College Hospital,Surgery,Lack of communication,Medium,Yes
+CMP101142,2024-07-31,Bihar,PHC,Diagnostics,Unavailability of medicine,Low,Yes
+CMP101143,2024-06-23,West Bengal,District Hospital,Pediatrics,Test delays,High,No
+CMP101144,2024-09-16,Uttar Pradesh,PHC,Diagnostics,Rude staff,Low,Yes
+CMP101145,2024-05-16,West Bengal,CHC,Surgery,Unavailability of medicine,Medium,Yes
+CMP101146,2024-01-02,Rajasthan,CHC,Pediatrics,Test delays,High,No
+CMP101147,2024-05-24,Tamil Nadu,District Hospital,Pharmacy,Billing issues,Low,No
+CMP101148,2024-06-01,Bihar,CHC,Surgery,Rude staff,Medium,Yes
+CMP101149,2024-10-27,West Bengal,Medical College Hospital,Maternity,Unclean wards,High,No
+CMP101150,2024-10-23,Karnataka,Medical College Hospital,Outpatient,Rude staff,Medium,Yes
+CMP101151,2024-12-03,West Bengal,District Hospital,Outpatient,Long wait time,Medium,Yes
+CMP101152,2024-09-07,Bihar,PHC,Maternity,Rude staff,Low,Yes
+CMP101153,2024-03-17,Tamil Nadu,CHC,Maternity,Rude staff,Medium,Yes
+CMP101154,2024-08-16,Bihar,CHC,Emergency,Long wait time,Medium,Yes
+CMP101155,2024-10-02,Karnataka,PHC,Maternity,Rude staff,High,No
+CMP101156,2024-09-04,Maharashtra,PHC,Maternity,Lack of communication,Medium,Yes
+CMP101157,2024-06-25,Rajasthan,PHC,Surgery,Lack of communication,High,Yes
+CMP101158,2024-06-19,Maharashtra,PHC,Pediatrics,Unavailability of medicine,High,Yes
+CMP101159,2024-10-09,Tamil Nadu,CHC,Diagnostics,Unclean wards,Medium,No
+CMP101160,2024-10-05,Tamil Nadu,Medical College Hospital,Emergency,Unclean wards,Medium,No
+CMP101161,2024-07-12,Karnataka,District Hospital,Surgery,Billing issues,High,Yes
+CMP101162,2024-08-21,West Bengal,District Hospital,Surgery,Unclean wards,Low,Yes
+CMP101163,2024-06-13,Maharashtra,PHC,Diagnostics,Unclean wards,High,Yes
+CMP101164,2024-04-06,Maharashtra,Medical College Hospital,Pharmacy,Test delays,Low,No
+CMP101165,2024-12-23,Maharashtra,CHC,Surgery,Long wait time,Low,No
+CMP101166,2024-05-02,Maharashtra,CHC,Emergency,Rude staff,Low,Yes
+CMP101167,2024-10-19,Karnataka,District Hospital,Pediatrics,Rude staff,Medium,No
+CMP101168,2024-07-15,Tamil Nadu,PHC,Diagnostics,Unavailability of medicine,High,Yes
+CMP101169,2024-04-29,Tamil Nadu,Medical College Hospital,Outpatient,Rude staff,High,No
+CMP101170,2024-07-29,Uttar Pradesh,District Hospital,Pharmacy,Long wait time,High,Yes
+CMP101171,2024-01-23,Rajasthan,Medical College Hospital,Diagnostics,Unavailability of medicine,High,No
+CMP101172,2024-06-11,West Bengal,PHC,Emergency,Lack of communication,High,Yes
+CMP101173,2024-08-30,Tamil Nadu,PHC,Surgery,Lack of communication,Medium,No
+CMP101174,2024-12-27,Rajasthan,District Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP101175,2024-07-14,Rajasthan,PHC,Maternity,Test delays,Low,Yes
+CMP101176,2024-07-16,Maharashtra,Medical College Hospital,Pediatrics,Billing issues,Medium,No
+CMP101177,2024-12-05,Bihar,Medical College Hospital,Surgery,Rude staff,Low,No
+CMP101178,2024-11-29,Maharashtra,District Hospital,Pediatrics,Test delays,High,No
+CMP101179,2024-03-18,Maharashtra,PHC,Pediatrics,Lack of communication,Medium,No
+CMP101180,2024-09-10,Tamil Nadu,CHC,Diagnostics,Long wait time,Low,Yes
+CMP101181,2024-01-19,Uttar Pradesh,PHC,Pharmacy,Test delays,Medium,Yes
+CMP101182,2024-03-05,Karnataka,District Hospital,Diagnostics,Unclean wards,Low,No
+CMP101183,2024-09-14,Rajasthan,District Hospital,Maternity,Lack of communication,Medium,Yes
+CMP101184,2024-10-29,Bihar,CHC,Maternity,Long wait time,High,Yes
+CMP101185,2024-06-18,West Bengal,District Hospital,Emergency,Long wait time,Medium,Yes
+CMP101186,2024-02-21,Bihar,District Hospital,Emergency,Lack of communication,High,Yes
+CMP101187,2024-08-13,Uttar Pradesh,CHC,Outpatient,Long wait time,Medium,No
+CMP101188,2024-02-21,Maharashtra,CHC,Pediatrics,Unavailability of medicine,Low,No
+CMP101189,2024-09-26,Karnataka,Medical College Hospital,Outpatient,Billing issues,Low,No
+CMP101190,2024-08-21,Karnataka,District Hospital,Surgery,Unavailability of medicine,Low,Yes
+CMP101191,2024-01-08,Karnataka,CHC,Pediatrics,Lack of communication,High,Yes
+CMP101192,2024-03-14,West Bengal,Medical College Hospital,Maternity,Long wait time,High,No
+CMP101193,2024-07-28,Tamil Nadu,District Hospital,Pediatrics,Unclean wards,Low,Yes
+CMP101194,2024-12-01,Maharashtra,CHC,Emergency,Unavailability of medicine,Low,Yes
+CMP101195,2024-03-20,Bihar,District Hospital,Pediatrics,Test delays,High,Yes
+CMP101196,2024-02-08,Bihar,Medical College Hospital,Outpatient,Test delays,High,Yes
+CMP101197,2024-08-28,Maharashtra,PHC,Maternity,Long wait time,Medium,Yes
+CMP101198,2024-05-15,Bihar,District Hospital,Outpatient,Unclean wards,Low,Yes
+CMP101199,2024-06-22,Tamil Nadu,District Hospital,Diagnostics,Lack of communication,Low,No
+CMP101200,2024-11-15,Karnataka,District Hospital,Surgery,Test delays,Low,Yes
+CMP101201,2024-12-20,Rajasthan,District Hospital,Pharmacy,Lack of communication,Low,Yes
+CMP101202,2024-07-22,Bihar,CHC,Diagnostics,Rude staff,Medium,Yes
+CMP101203,2024-11-28,Tamil Nadu,PHC,Surgery,Rude staff,Medium,No
+CMP101204,2024-02-11,Karnataka,District Hospital,Surgery,Long wait time,Low,Yes
+CMP101205,2024-06-17,West Bengal,CHC,Diagnostics,Billing issues,Low,Yes
+CMP101206,2024-12-11,West Bengal,PHC,Outpatient,Test delays,Medium,Yes
+CMP101207,2024-09-30,Maharashtra,Medical College Hospital,Outpatient,Billing issues,High,Yes
+CMP101208,2024-07-13,Maharashtra,Medical College Hospital,Maternity,Long wait time,High,No
+CMP101209,2024-06-11,Rajasthan,Medical College Hospital,Pharmacy,Billing issues,Low,No
+CMP101210,2024-11-16,Rajasthan,Medical College Hospital,Pharmacy,Test delays,Medium,No
+CMP101211,2024-09-06,Tamil Nadu,Medical College Hospital,Surgery,Lack of communication,Low,Yes
+CMP101212,2024-10-04,West Bengal,PHC,Pediatrics,Billing issues,Medium,Yes
+CMP101213,2024-01-19,West Bengal,District Hospital,Maternity,Lack of communication,High,No
+CMP101214,2024-11-12,West Bengal,Medical College Hospital,Pharmacy,Billing issues,Low,No
+CMP101215,2024-02-05,Tamil Nadu,District Hospital,Diagnostics,Unavailability of medicine,Low,No
+CMP101216,2024-04-30,Tamil Nadu,District Hospital,Maternity,Unclean wards,Medium,No
+CMP101217,2024-11-19,Bihar,District Hospital,Pharmacy,Long wait time,Medium,No
+CMP101218,2024-12-16,West Bengal,District Hospital,Emergency,Rude staff,Medium,No
+CMP101219,2024-05-27,Rajasthan,District Hospital,Surgery,Billing issues,Low,Yes
+CMP101220,2024-04-26,Maharashtra,PHC,Emergency,Long wait time,Low,No
+CMP101221,2024-02-16,Bihar,District Hospital,Surgery,Lack of communication,Low,Yes
+CMP101222,2024-08-10,Bihar,PHC,Surgery,Lack of communication,High,Yes
+CMP101223,2024-02-20,West Bengal,PHC,Diagnostics,Unavailability of medicine,Medium,No
+CMP101224,2024-11-20,Karnataka,District Hospital,Pediatrics,Unavailability of medicine,Medium,No
+CMP101225,2024-12-26,Tamil Nadu,PHC,Outpatient,Lack of communication,High,Yes
+CMP101226,2024-02-21,Bihar,Medical College Hospital,Pediatrics,Billing issues,Low,No
+CMP101227,2024-08-15,Karnataka,Medical College Hospital,Pharmacy,Test delays,Medium,Yes
+CMP101228,2024-03-26,West Bengal,Medical College Hospital,Emergency,Unclean wards,Low,Yes
+CMP101229,2024-12-21,Uttar Pradesh,District Hospital,Pharmacy,Lack of communication,Low,No
+CMP101230,2024-06-02,Karnataka,Medical College Hospital,Surgery,Test delays,Low,No
+CMP101231,2024-01-15,Uttar Pradesh,CHC,Emergency,Test delays,Medium,No
+CMP101232,2024-01-24,Rajasthan,CHC,Emergency,Rude staff,Medium,No
+CMP101233,2024-06-15,Rajasthan,CHC,Maternity,Unclean wards,High,No
+CMP101234,2024-01-29,Uttar Pradesh,Medical College Hospital,Surgery,Rude staff,High,No
+CMP101235,2024-05-30,Rajasthan,PHC,Pediatrics,Rude staff,Medium,Yes
+CMP101236,2024-07-02,West Bengal,CHC,Pharmacy,Long wait time,Low,No
+CMP101237,2024-07-10,Uttar Pradesh,PHC,Emergency,Rude staff,High,No
+CMP101238,2024-08-08,Rajasthan,PHC,Pediatrics,Rude staff,High,Yes
+CMP101239,2024-03-15,Uttar Pradesh,District Hospital,Pharmacy,Unavailability of medicine,Medium,No
+CMP101240,2024-05-05,Tamil Nadu,CHC,Pediatrics,Unclean wards,High,No
+CMP101241,2024-09-28,Bihar,District Hospital,Emergency,Unclean wards,Low,Yes
+CMP101242,2024-07-29,Rajasthan,District Hospital,Outpatient,Unavailability of medicine,High,No
+CMP101243,2024-10-16,West Bengal,District Hospital,Diagnostics,Lack of communication,High,Yes
+CMP101244,2024-12-15,Bihar,Medical College Hospital,Maternity,Billing issues,High,Yes
+CMP101245,2024-04-02,Uttar Pradesh,District Hospital,Surgery,Long wait time,Medium,No
+CMP101246,2024-03-28,West Bengal,PHC,Diagnostics,Unclean wards,Medium,No
+CMP101247,2024-03-30,Bihar,CHC,Maternity,Billing issues,Low,No
+CMP101248,2024-02-10,Uttar Pradesh,PHC,Pharmacy,Unavailability of medicine,Low,No
+CMP101249,2024-11-08,Bihar,CHC,Maternity,Test delays,Low,No
+CMP101250,2024-07-14,Karnataka,Medical College Hospital,Diagnostics,Long wait time,Medium,Yes
+CMP101251,2024-11-13,Tamil Nadu,CHC,Diagnostics,Unavailability of medicine,Low,Yes
+CMP101252,2024-12-15,Maharashtra,CHC,Diagnostics,Billing issues,Medium,Yes
+CMP101253,2024-05-03,Uttar Pradesh,CHC,Diagnostics,Unclean wards,High,No
+CMP101254,2024-09-11,Karnataka,CHC,Surgery,Unclean wards,Low,No
+CMP101255,2024-10-25,West Bengal,PHC,Outpatient,Test delays,High,Yes
+CMP101256,2024-03-14,West Bengal,CHC,Maternity,Rude staff,Medium,No
+CMP101257,2024-04-28,Karnataka,District Hospital,Outpatient,Unavailability of medicine,High,Yes
+CMP101258,2024-08-24,Tamil Nadu,CHC,Diagnostics,Lack of communication,Medium,Yes
+CMP101259,2024-11-22,West Bengal,District Hospital,Outpatient,Rude staff,Medium,Yes
+CMP101260,2024-05-10,Tamil Nadu,Medical College Hospital,Outpatient,Unavailability of medicine,Medium,No
+CMP101261,2024-08-23,Uttar Pradesh,District Hospital,Surgery,Unclean wards,High,No
+CMP101262,2024-05-10,Uttar Pradesh,PHC,Diagnostics,Test delays,Low,Yes
+CMP101263,2024-12-07,Karnataka,District Hospital,Pediatrics,Unavailability of medicine,High,No
+CMP101264,2024-01-05,Karnataka,PHC,Pharmacy,Lack of communication,Low,Yes
+CMP101265,2024-08-26,Tamil Nadu,District Hospital,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP101266,2024-05-27,Uttar Pradesh,CHC,Diagnostics,Long wait time,High,No
+CMP101267,2024-12-12,Uttar Pradesh,Medical College Hospital,Outpatient,Test delays,Medium,Yes
+CMP101268,2024-10-06,Karnataka,PHC,Pharmacy,Billing issues,Medium,No
+CMP101269,2024-03-21,West Bengal,PHC,Pediatrics,Long wait time,High,Yes
+CMP101270,2024-02-07,Maharashtra,CHC,Maternity,Lack of communication,High,No
+CMP101271,2024-08-14,Karnataka,CHC,Outpatient,Test delays,Medium,No
+CMP101272,2024-06-25,Maharashtra,District Hospital,Outpatient,Test delays,Medium,Yes
+CMP101273,2024-10-27,Uttar Pradesh,PHC,Emergency,Lack of communication,High,Yes
+CMP101274,2024-06-02,Karnataka,District Hospital,Emergency,Long wait time,Low,No
+CMP101275,2024-11-23,Rajasthan,CHC,Maternity,Test delays,Medium,No
+CMP101276,2024-08-05,West Bengal,PHC,Emergency,Lack of communication,Low,Yes
+CMP101277,2024-12-19,West Bengal,Medical College Hospital,Outpatient,Test delays,Low,Yes
+CMP101278,2024-05-08,Tamil Nadu,Medical College Hospital,Maternity,Rude staff,High,Yes
+CMP101279,2024-08-21,Rajasthan,PHC,Diagnostics,Unavailability of medicine,High,No
+CMP101280,2024-06-03,Bihar,PHC,Maternity,Billing issues,Medium,Yes
+CMP101281,2024-04-11,Uttar Pradesh,CHC,Diagnostics,Unclean wards,Medium,No
+CMP101282,2024-07-15,Uttar Pradesh,PHC,Outpatient,Unavailability of medicine,Medium,No
+CMP101283,2024-09-04,Karnataka,PHC,Emergency,Test delays,High,No
+CMP101284,2024-02-24,Bihar,Medical College Hospital,Outpatient,Test delays,Low,No
+CMP101285,2024-05-01,Bihar,CHC,Maternity,Unavailability of medicine,High,Yes
+CMP101286,2024-07-14,Bihar,District Hospital,Pediatrics,Lack of communication,High,Yes
+CMP101287,2024-10-19,Karnataka,PHC,Diagnostics,Test delays,Low,Yes
+CMP101288,2024-07-02,Karnataka,CHC,Pediatrics,Long wait time,Medium,No
+CMP101289,2024-10-21,Maharashtra,CHC,Diagnostics,Billing issues,High,No
+CMP101290,2024-05-31,Rajasthan,Medical College Hospital,Pediatrics,Lack of communication,Low,Yes
+CMP101291,2024-12-24,Maharashtra,PHC,Maternity,Rude staff,Low,No
+CMP101292,2024-05-31,Maharashtra,PHC,Surgery,Lack of communication,Low,No
+CMP101293,2024-01-12,Rajasthan,CHC,Diagnostics,Unclean wards,Medium,Yes
+CMP101294,2024-12-03,Tamil Nadu,PHC,Surgery,Unclean wards,High,Yes
+CMP101295,2024-07-21,Uttar Pradesh,Medical College Hospital,Outpatient,Long wait time,High,No
+CMP101296,2024-05-20,Maharashtra,Medical College Hospital,Diagnostics,Unclean wards,Medium,Yes
+CMP101297,2024-01-05,Tamil Nadu,Medical College Hospital,Surgery,Unavailability of medicine,High,No
+CMP101298,2024-10-16,Tamil Nadu,PHC,Diagnostics,Unavailability of medicine,Low,No
+CMP101299,2024-12-17,Karnataka,PHC,Surgery,Long wait time,High,Yes
+CMP101300,2024-01-26,Bihar,Medical College Hospital,Pediatrics,Lack of communication,High,Yes
+CMP101301,2024-11-06,West Bengal,District Hospital,Diagnostics,Lack of communication,High,No
+CMP101302,2024-09-11,Bihar,CHC,Diagnostics,Rude staff,Low,Yes
+CMP101303,2024-05-26,Maharashtra,District Hospital,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP101304,2024-04-27,West Bengal,PHC,Outpatient,Rude staff,Medium,No
+CMP101305,2024-11-06,Rajasthan,CHC,Outpatient,Lack of communication,High,No
+CMP101306,2024-06-29,Rajasthan,CHC,Diagnostics,Rude staff,Low,Yes
+CMP101307,2024-04-22,Uttar Pradesh,PHC,Surgery,Unclean wards,Medium,No
+CMP101308,2024-11-21,West Bengal,District Hospital,Emergency,Test delays,Low,Yes
+CMP101309,2024-04-07,Rajasthan,District Hospital,Surgery,Unavailability of medicine,Low,Yes
+CMP101310,2024-11-13,West Bengal,District Hospital,Diagnostics,Lack of communication,High,No
+CMP101311,2024-05-08,Rajasthan,District Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP101312,2024-12-13,Uttar Pradesh,Medical College Hospital,Maternity,Test delays,Medium,Yes
+CMP101313,2024-12-03,Uttar Pradesh,CHC,Outpatient,Unclean wards,Medium,No
+CMP101314,2024-12-14,Tamil Nadu,District Hospital,Maternity,Lack of communication,Low,Yes
+CMP101315,2024-03-11,Tamil Nadu,PHC,Surgery,Long wait time,Medium,No
+CMP101316,2024-11-17,Tamil Nadu,Medical College Hospital,Pharmacy,Unavailability of medicine,Low,No
+CMP101317,2024-02-19,Karnataka,CHC,Diagnostics,Lack of communication,High,No
+CMP101318,2024-11-17,Tamil Nadu,PHC,Surgery,Long wait time,Low,No
+CMP101319,2024-11-26,Uttar Pradesh,Medical College Hospital,Surgery,Lack of communication,Medium,No
+CMP101320,2024-01-21,West Bengal,CHC,Pharmacy,Lack of communication,Low,No
+CMP101321,2024-06-07,Uttar Pradesh,PHC,Emergency,Unclean wards,Low,Yes
+CMP101322,2024-08-13,West Bengal,CHC,Emergency,Unclean wards,High,No
+CMP101323,2024-01-18,Bihar,Medical College Hospital,Surgery,Test delays,High,No
+CMP101324,2024-10-23,Uttar Pradesh,District Hospital,Diagnostics,Unclean wards,High,Yes
+CMP101325,2024-07-05,Tamil Nadu,Medical College Hospital,Maternity,Lack of communication,High,No
+CMP101326,2024-03-08,Rajasthan,PHC,Pharmacy,Unavailability of medicine,Medium,No
+CMP101327,2024-02-16,Tamil Nadu,District Hospital,Emergency,Test delays,Medium,No
+CMP101328,2024-05-31,West Bengal,CHC,Surgery,Unclean wards,Medium,No
+CMP101329,2024-06-16,Rajasthan,CHC,Diagnostics,Lack of communication,High,Yes
+CMP101330,2024-07-31,Maharashtra,CHC,Maternity,Long wait time,Medium,No
+CMP101331,2024-03-30,Karnataka,Medical College Hospital,Emergency,Lack of communication,Low,Yes
+CMP101332,2024-04-12,Rajasthan,CHC,Outpatient,Rude staff,Medium,Yes
+CMP101333,2024-03-08,Uttar Pradesh,CHC,Maternity,Test delays,Low,Yes
+CMP101334,2024-10-03,Karnataka,CHC,Maternity,Unavailability of medicine,Low,Yes
+CMP101335,2024-07-06,Uttar Pradesh,Medical College Hospital,Surgery,Billing issues,Medium,Yes
+CMP101336,2024-09-28,Bihar,PHC,Pediatrics,Long wait time,Low,Yes
+CMP101337,2024-09-13,Bihar,District Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP101338,2024-05-19,Rajasthan,CHC,Pediatrics,Unclean wards,Low,No
+CMP101339,2024-03-25,West Bengal,Medical College Hospital,Pharmacy,Billing issues,Medium,No
+CMP101340,2024-05-11,Karnataka,CHC,Diagnostics,Test delays,High,Yes
+CMP101341,2024-09-03,Tamil Nadu,District Hospital,Surgery,Lack of communication,High,Yes
+CMP101342,2024-05-31,Maharashtra,PHC,Emergency,Billing issues,Medium,Yes
+CMP101343,2024-06-22,Uttar Pradesh,PHC,Surgery,Test delays,Medium,Yes
+CMP101344,2024-02-28,Uttar Pradesh,CHC,Surgery,Unavailability of medicine,Medium,No
+CMP101345,2024-08-27,West Bengal,District Hospital,Emergency,Unclean wards,Low,Yes
+CMP101346,2024-02-08,Maharashtra,CHC,Outpatient,Test delays,Low,Yes
+CMP101347,2024-03-13,Karnataka,PHC,Diagnostics,Long wait time,High,No
+CMP101348,2024-04-25,Karnataka,Medical College Hospital,Maternity,Lack of communication,High,Yes
+CMP101349,2024-12-12,West Bengal,Medical College Hospital,Maternity,Long wait time,Low,Yes
+CMP101350,2024-12-11,Uttar Pradesh,Medical College Hospital,Maternity,Test delays,High,Yes
+CMP101351,2024-07-22,Bihar,District Hospital,Maternity,Test delays,Medium,No
+CMP101352,2024-10-12,Rajasthan,District Hospital,Emergency,Rude staff,Low,Yes
+CMP101353,2024-07-06,Maharashtra,PHC,Maternity,Test delays,Medium,No
+CMP101354,2024-02-16,Uttar Pradesh,District Hospital,Maternity,Unclean wards,Medium,No
+CMP101355,2024-07-21,Bihar,PHC,Surgery,Lack of communication,Low,No
+CMP101356,2024-01-08,Karnataka,PHC,Pediatrics,Test delays,Low,No
+CMP101357,2024-05-15,Bihar,CHC,Surgery,Rude staff,Low,Yes
+CMP101358,2024-10-01,Rajasthan,Medical College Hospital,Pharmacy,Long wait time,High,Yes
+CMP101359,2024-03-04,Rajasthan,Medical College Hospital,Surgery,Unclean wards,Low,No
+CMP101360,2024-08-20,West Bengal,PHC,Emergency,Rude staff,Low,Yes
+CMP101361,2024-07-07,Rajasthan,District Hospital,Pharmacy,Test delays,Medium,Yes
+CMP101362,2024-12-10,Tamil Nadu,PHC,Surgery,Unavailability of medicine,Low,No
+CMP101363,2024-12-10,Uttar Pradesh,Medical College Hospital,Pediatrics,Unavailability of medicine,High,Yes
+CMP101364,2024-05-14,Maharashtra,CHC,Emergency,Billing issues,High,No
+CMP101365,2024-10-26,Bihar,Medical College Hospital,Diagnostics,Long wait time,Medium,No
+CMP101366,2024-07-14,Karnataka,PHC,Diagnostics,Long wait time,Low,Yes
+CMP101367,2024-11-22,Bihar,PHC,Surgery,Rude staff,Low,Yes
+CMP101368,2024-07-09,Karnataka,Medical College Hospital,Diagnostics,Rude staff,High,No
+CMP101369,2024-02-25,Rajasthan,Medical College Hospital,Surgery,Billing issues,Low,No
+CMP101370,2024-12-11,Rajasthan,District Hospital,Maternity,Test delays,High,No
+CMP101371,2024-04-29,Tamil Nadu,CHC,Pharmacy,Lack of communication,Medium,No
+CMP101372,2024-08-29,West Bengal,Medical College Hospital,Diagnostics,Lack of communication,Low,No
+CMP101373,2024-01-13,Karnataka,CHC,Pharmacy,Test delays,Medium,Yes
+CMP101374,2024-11-13,Maharashtra,CHC,Pediatrics,Lack of communication,Medium,Yes
+CMP101375,2024-10-14,Tamil Nadu,District Hospital,Pharmacy,Rude staff,Low,No
+CMP101376,2024-06-16,Rajasthan,PHC,Pharmacy,Lack of communication,Low,No
+CMP101377,2024-11-08,West Bengal,CHC,Outpatient,Billing issues,High,Yes
+CMP101378,2024-04-23,Bihar,CHC,Emergency,Test delays,Low,No
+CMP101379,2024-11-27,Rajasthan,CHC,Maternity,Unclean wards,High,Yes
+CMP101380,2024-02-02,West Bengal,CHC,Surgery,Lack of communication,High,Yes
+CMP101381,2024-11-21,West Bengal,PHC,Maternity,Unavailability of medicine,Low,Yes
+CMP101382,2024-08-25,Uttar Pradesh,District Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP101383,2024-12-24,Karnataka,CHC,Maternity,Unclean wards,High,No
+CMP101384,2024-06-03,West Bengal,Medical College Hospital,Pediatrics,Lack of communication,Low,Yes
+CMP101385,2024-11-28,Maharashtra,PHC,Surgery,Test delays,High,Yes
+CMP101386,2024-07-28,Uttar Pradesh,District Hospital,Pharmacy,Rude staff,High,Yes
+CMP101387,2024-02-29,Uttar Pradesh,Medical College Hospital,Emergency,Unavailability of medicine,High,Yes
+CMP101388,2024-03-12,Tamil Nadu,Medical College Hospital,Maternity,Rude staff,High,No
+CMP101389,2024-01-24,Bihar,Medical College Hospital,Diagnostics,Test delays,High,No
+CMP101390,2024-01-20,Rajasthan,CHC,Surgery,Billing issues,High,Yes
+CMP101391,2024-06-04,Uttar Pradesh,CHC,Outpatient,Lack of communication,Low,No
+CMP101392,2024-09-09,Maharashtra,Medical College Hospital,Surgery,Unavailability of medicine,Medium,Yes
+CMP101393,2024-02-29,Karnataka,District Hospital,Emergency,Lack of communication,High,No
+CMP101394,2024-02-19,Rajasthan,CHC,Maternity,Unavailability of medicine,Medium,Yes
+CMP101395,2024-04-30,Karnataka,District Hospital,Pharmacy,Rude staff,Medium,No
+CMP101396,2024-10-02,Karnataka,CHC,Pediatrics,Long wait time,Low,No
+CMP101397,2024-03-10,Tamil Nadu,CHC,Maternity,Unclean wards,High,No
+CMP101398,2024-07-17,Rajasthan,CHC,Surgery,Unavailability of medicine,Low,Yes
+CMP101399,2024-08-20,Maharashtra,District Hospital,Emergency,Rude staff,Low,Yes
+CMP101400,2024-07-08,Uttar Pradesh,CHC,Pharmacy,Unclean wards,Medium,Yes
+CMP101401,2024-12-09,West Bengal,District Hospital,Diagnostics,Unclean wards,Low,Yes
+CMP101402,2024-12-22,Maharashtra,CHC,Emergency,Lack of communication,Low,No
+CMP101403,2024-10-03,Rajasthan,PHC,Outpatient,Billing issues,Medium,No
+CMP101404,2024-08-02,Tamil Nadu,CHC,Surgery,Rude staff,Low,No
+CMP101405,2024-10-27,Tamil Nadu,Medical College Hospital,Emergency,Long wait time,Low,Yes
+CMP101406,2024-03-20,Bihar,District Hospital,Pediatrics,Long wait time,Low,No
+CMP101407,2024-07-31,Maharashtra,PHC,Pediatrics,Billing issues,Low,Yes
+CMP101408,2024-12-01,Karnataka,District Hospital,Pharmacy,Test delays,Medium,Yes
+CMP101409,2024-02-20,Tamil Nadu,CHC,Pharmacy,Billing issues,Low,No
+CMP101410,2024-09-07,Tamil Nadu,Medical College Hospital,Outpatient,Test delays,Low,No
+CMP101411,2024-11-11,Bihar,Medical College Hospital,Surgery,Rude staff,Medium,Yes
+CMP101412,2024-07-27,West Bengal,Medical College Hospital,Pharmacy,Long wait time,Low,No
+CMP101413,2024-05-23,Karnataka,CHC,Pharmacy,Unclean wards,High,Yes
+CMP101414,2024-01-17,West Bengal,CHC,Pediatrics,Rude staff,High,Yes
+CMP101415,2024-12-19,Tamil Nadu,Medical College Hospital,Pharmacy,Unavailability of medicine,Low,No
+CMP101416,2024-07-08,Uttar Pradesh,CHC,Emergency,Test delays,Low,Yes
+CMP101417,2024-04-21,Rajasthan,CHC,Maternity,Lack of communication,Low,Yes
+CMP101418,2024-08-15,Karnataka,PHC,Emergency,Rude staff,High,Yes
+CMP101419,2024-08-15,Maharashtra,CHC,Surgery,Long wait time,Low,Yes
+CMP101420,2024-04-30,Rajasthan,PHC,Outpatient,Unclean wards,High,No
+CMP101421,2024-07-04,Bihar,Medical College Hospital,Surgery,Billing issues,Low,Yes
+CMP101422,2024-02-20,West Bengal,District Hospital,Maternity,Unclean wards,Low,No
+CMP101423,2024-12-17,Uttar Pradesh,CHC,Outpatient,Billing issues,Medium,Yes
+CMP101424,2024-07-07,Uttar Pradesh,Medical College Hospital,Maternity,Unavailability of medicine,High,No
+CMP101425,2024-10-05,Maharashtra,Medical College Hospital,Diagnostics,Rude staff,Low,No
+CMP101426,2024-11-26,Bihar,CHC,Pharmacy,Long wait time,Medium,No
+CMP101427,2024-07-02,Tamil Nadu,District Hospital,Pediatrics,Unavailability of medicine,Medium,No
+CMP101428,2024-02-01,West Bengal,District Hospital,Outpatient,Rude staff,High,Yes
+CMP101429,2024-07-22,Rajasthan,CHC,Pharmacy,Billing issues,High,Yes
+CMP101430,2024-05-21,West Bengal,Medical College Hospital,Pediatrics,Long wait time,Low,No
+CMP101431,2024-04-07,Bihar,CHC,Maternity,Long wait time,High,No
+CMP101432,2024-03-03,West Bengal,District Hospital,Outpatient,Test delays,Low,Yes
+CMP101433,2024-08-20,Tamil Nadu,CHC,Diagnostics,Billing issues,High,Yes
+CMP101434,2024-02-16,Maharashtra,Medical College Hospital,Outpatient,Unclean wards,Medium,No
+CMP101435,2024-12-05,Maharashtra,District Hospital,Pediatrics,Lack of communication,Medium,No
+CMP101436,2024-04-18,Uttar Pradesh,District Hospital,Surgery,Unclean wards,Low,No
+CMP101437,2024-11-24,Uttar Pradesh,District Hospital,Pediatrics,Lack of communication,Low,Yes
+CMP101438,2024-11-23,Uttar Pradesh,Medical College Hospital,Emergency,Test delays,Low,No
+CMP101439,2024-11-01,Maharashtra,CHC,Pharmacy,Unclean wards,Low,No
+CMP101440,2024-01-11,Tamil Nadu,District Hospital,Emergency,Long wait time,Medium,No
+CMP101441,2024-01-26,Maharashtra,Medical College Hospital,Outpatient,Rude staff,Medium,Yes
+CMP101442,2024-06-19,Rajasthan,Medical College Hospital,Surgery,Test delays,Low,Yes
+CMP101443,2024-05-04,Maharashtra,PHC,Pediatrics,Rude staff,Low,No
+CMP101444,2024-03-05,Uttar Pradesh,District Hospital,Outpatient,Rude staff,Medium,No
+CMP101445,2024-10-16,Bihar,Medical College Hospital,Pediatrics,Lack of communication,High,Yes
+CMP101446,2024-04-15,Uttar Pradesh,CHC,Diagnostics,Lack of communication,Medium,No
+CMP101447,2024-02-05,Bihar,Medical College Hospital,Pediatrics,Lack of communication,Low,Yes
+CMP101448,2024-10-10,Tamil Nadu,Medical College Hospital,Diagnostics,Unavailability of medicine,Medium,No
+CMP101449,2024-04-16,Tamil Nadu,PHC,Pediatrics,Unavailability of medicine,Low,Yes
+CMP101450,2024-10-27,Karnataka,District Hospital,Diagnostics,Test delays,Medium,No
+CMP101451,2024-04-20,Karnataka,Medical College Hospital,Outpatient,Unclean wards,Low,No
+CMP101452,2024-04-29,Karnataka,CHC,Maternity,Unclean wards,Low,No
+CMP101453,2024-06-17,Tamil Nadu,PHC,Diagnostics,Rude staff,High,Yes
+CMP101454,2024-03-16,Uttar Pradesh,Medical College Hospital,Maternity,Unclean wards,Medium,Yes
+CMP101455,2024-11-01,Uttar Pradesh,CHC,Maternity,Lack of communication,High,Yes
+CMP101456,2024-01-02,Uttar Pradesh,District Hospital,Outpatient,Rude staff,High,Yes
+CMP101457,2024-05-21,Maharashtra,PHC,Outpatient,Billing issues,Medium,Yes
+CMP101458,2024-03-15,Karnataka,Medical College Hospital,Surgery,Rude staff,Low,Yes
+CMP101459,2024-03-07,Uttar Pradesh,PHC,Maternity,Lack of communication,Low,Yes
+CMP101460,2024-10-03,Karnataka,CHC,Pediatrics,Unavailability of medicine,Low,Yes
+CMP101461,2024-05-08,Karnataka,District Hospital,Pharmacy,Test delays,Medium,No
+CMP101462,2024-03-30,Rajasthan,District Hospital,Emergency,Test delays,Medium,Yes
+CMP101463,2024-02-26,Maharashtra,District Hospital,Maternity,Rude staff,High,Yes
+CMP101464,2024-12-04,Rajasthan,District Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP101465,2024-01-14,Tamil Nadu,Medical College Hospital,Pediatrics,Rude staff,Low,No
+CMP101466,2024-03-08,Uttar Pradesh,CHC,Pediatrics,Unclean wards,High,Yes
+CMP101467,2024-01-08,Maharashtra,PHC,Emergency,Lack of communication,High,No
+CMP101468,2024-07-02,Tamil Nadu,Medical College Hospital,Emergency,Rude staff,High,No
+CMP101469,2024-05-01,Tamil Nadu,PHC,Outpatient,Long wait time,Low,No
+CMP101470,2024-10-28,Rajasthan,District Hospital,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP101471,2024-06-14,Uttar Pradesh,CHC,Diagnostics,Unavailability of medicine,Low,Yes
+CMP101472,2024-01-09,West Bengal,Medical College Hospital,Diagnostics,Rude staff,High,No
+CMP101473,2024-03-30,Karnataka,PHC,Pharmacy,Billing issues,Medium,No
+CMP101474,2024-05-15,Bihar,PHC,Diagnostics,Unclean wards,High,Yes
+CMP101475,2024-01-27,Karnataka,Medical College Hospital,Maternity,Rude staff,High,Yes
+CMP101476,2024-03-05,Karnataka,PHC,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP101477,2024-08-03,Bihar,PHC,Surgery,Billing issues,High,No
+CMP101478,2024-09-26,West Bengal,Medical College Hospital,Outpatient,Test delays,High,No
+CMP101479,2024-02-28,Tamil Nadu,CHC,Diagnostics,Test delays,Low,No
+CMP101480,2024-02-02,Bihar,Medical College Hospital,Maternity,Unclean wards,Medium,Yes
+CMP101481,2024-08-31,Bihar,Medical College Hospital,Maternity,Long wait time,Low,Yes
+CMP101482,2024-08-17,Maharashtra,CHC,Diagnostics,Long wait time,High,Yes
+CMP101483,2024-07-04,Maharashtra,PHC,Diagnostics,Unclean wards,High,No
+CMP101484,2024-09-19,Maharashtra,Medical College Hospital,Pharmacy,Rude staff,Medium,No
+CMP101485,2024-10-30,Tamil Nadu,PHC,Outpatient,Lack of communication,High,Yes
+CMP101486,2024-02-25,Bihar,PHC,Surgery,Unavailability of medicine,Medium,Yes
+CMP101487,2024-08-19,Uttar Pradesh,PHC,Pediatrics,Test delays,Low,No
+CMP101488,2024-09-14,Bihar,Medical College Hospital,Diagnostics,Unclean wards,Medium,Yes
+CMP101489,2024-04-23,Tamil Nadu,CHC,Emergency,Test delays,Low,Yes
+CMP101490,2024-11-10,Maharashtra,District Hospital,Pharmacy,Rude staff,High,Yes
+CMP101491,2024-01-23,Tamil Nadu,CHC,Pediatrics,Test delays,High,No
+CMP101492,2024-12-03,Maharashtra,Medical College Hospital,Diagnostics,Unclean wards,Medium,No
+CMP101493,2024-09-23,Tamil Nadu,CHC,Diagnostics,Test delays,Medium,Yes
+CMP101494,2024-06-03,Rajasthan,District Hospital,Maternity,Unclean wards,High,Yes
+CMP101495,2024-08-22,Uttar Pradesh,CHC,Pharmacy,Test delays,High,No
+CMP101496,2024-11-25,Maharashtra,Medical College Hospital,Surgery,Billing issues,High,No
+CMP101497,2024-01-16,Maharashtra,PHC,Maternity,Unavailability of medicine,Low,No
+CMP101498,2024-02-01,Bihar,District Hospital,Emergency,Long wait time,High,Yes
+CMP101499,2024-09-02,West Bengal,CHC,Emergency,Long wait time,High,Yes
+CMP101500,2024-07-24,West Bengal,Medical College Hospital,Surgery,Billing issues,High,No
+CMP101501,2024-08-06,Tamil Nadu,District Hospital,Maternity,Long wait time,Low,Yes
+CMP101502,2024-12-17,Karnataka,District Hospital,Pharmacy,Long wait time,Low,Yes
+CMP101503,2024-02-25,Karnataka,CHC,Pediatrics,Unavailability of medicine,Low,Yes
+CMP101504,2024-09-08,Bihar,Medical College Hospital,Diagnostics,Rude staff,High,No
+CMP101505,2024-12-30,Tamil Nadu,Medical College Hospital,Surgery,Unclean wards,Low,No
+CMP101506,2024-08-15,Uttar Pradesh,District Hospital,Maternity,Unavailability of medicine,Medium,Yes
+CMP101507,2024-02-07,Bihar,District Hospital,Pediatrics,Billing issues,Low,No
+CMP101508,2024-02-11,Maharashtra,PHC,Pharmacy,Test delays,High,Yes
+CMP101509,2024-06-13,Uttar Pradesh,CHC,Pharmacy,Lack of communication,Medium,No
+CMP101510,2024-11-07,Tamil Nadu,PHC,Pharmacy,Billing issues,Low,Yes
+CMP101511,2024-03-16,Maharashtra,District Hospital,Pharmacy,Test delays,High,Yes
+CMP101512,2024-02-03,Rajasthan,District Hospital,Pediatrics,Test delays,Low,Yes
+CMP101513,2024-03-05,Karnataka,Medical College Hospital,Emergency,Lack of communication,Low,No
+CMP101514,2024-05-20,Tamil Nadu,Medical College Hospital,Pharmacy,Long wait time,Low,Yes
+CMP101515,2024-11-15,Rajasthan,PHC,Maternity,Long wait time,Medium,Yes
+CMP101516,2024-11-20,Rajasthan,District Hospital,Surgery,Unavailability of medicine,Medium,Yes
+CMP101517,2024-10-26,Maharashtra,CHC,Diagnostics,Billing issues,Medium,Yes
+CMP101518,2024-10-07,Tamil Nadu,Medical College Hospital,Diagnostics,Billing issues,Low,Yes
+CMP101519,2024-12-30,Maharashtra,Medical College Hospital,Pediatrics,Unclean wards,Low,No
+CMP101520,2024-06-15,Tamil Nadu,District Hospital,Maternity,Unavailability of medicine,Medium,No
+CMP101521,2024-07-14,Rajasthan,CHC,Maternity,Unclean wards,Low,No
+CMP101522,2024-11-01,Rajasthan,PHC,Outpatient,Test delays,High,No
+CMP101523,2024-09-28,Rajasthan,CHC,Maternity,Unavailability of medicine,Low,No
+CMP101524,2024-05-30,West Bengal,District Hospital,Maternity,Rude staff,Low,No
+CMP101525,2024-08-20,Karnataka,CHC,Surgery,Billing issues,High,No
+CMP101526,2024-09-15,Bihar,CHC,Pediatrics,Long wait time,High,No
+CMP101527,2024-11-05,Maharashtra,District Hospital,Outpatient,Billing issues,Medium,No
+CMP101528,2024-08-08,Maharashtra,PHC,Surgery,Rude staff,High,No
+CMP101529,2024-02-20,Karnataka,CHC,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP101530,2024-12-25,West Bengal,District Hospital,Maternity,Rude staff,Low,No
+CMP101531,2024-02-28,Bihar,CHC,Maternity,Billing issues,Medium,No
+CMP101532,2024-12-01,Tamil Nadu,District Hospital,Outpatient,Unclean wards,Medium,No
+CMP101533,2024-11-29,Maharashtra,PHC,Pharmacy,Unavailability of medicine,High,No
+CMP101534,2024-10-09,Bihar,Medical College Hospital,Surgery,Unclean wards,Low,Yes
+CMP101535,2024-04-20,Tamil Nadu,PHC,Emergency,Rude staff,High,No
+CMP101536,2024-08-08,Maharashtra,Medical College Hospital,Maternity,Long wait time,Medium,Yes
+CMP101537,2024-08-19,Maharashtra,Medical College Hospital,Emergency,Unavailability of medicine,High,Yes
+CMP101538,2024-04-26,West Bengal,CHC,Pediatrics,Test delays,Medium,No
+CMP101539,2024-07-30,West Bengal,District Hospital,Emergency,Billing issues,Low,Yes
+CMP101540,2024-06-22,West Bengal,District Hospital,Emergency,Unclean wards,Low,Yes
+CMP101541,2024-08-20,Tamil Nadu,District Hospital,Diagnostics,Rude staff,High,No
+CMP101542,2024-07-23,Karnataka,PHC,Emergency,Unavailability of medicine,Medium,No
+CMP101543,2024-07-31,Rajasthan,PHC,Surgery,Long wait time,Medium,Yes
+CMP101544,2024-02-18,Bihar,PHC,Emergency,Unavailability of medicine,Low,Yes
+CMP101545,2024-06-09,Maharashtra,PHC,Maternity,Long wait time,Low,No
+CMP101546,2024-08-06,Tamil Nadu,CHC,Diagnostics,Rude staff,High,No
+CMP101547,2024-06-09,Maharashtra,CHC,Pharmacy,Unclean wards,Low,Yes
+CMP101548,2024-12-06,Rajasthan,Medical College Hospital,Outpatient,Lack of communication,High,Yes
+CMP101549,2024-05-10,Rajasthan,Medical College Hospital,Maternity,Lack of communication,Low,Yes
+CMP101550,2024-07-10,Tamil Nadu,District Hospital,Pharmacy,Unavailability of medicine,High,No
+CMP101551,2024-03-19,Maharashtra,PHC,Pharmacy,Test delays,High,Yes
+CMP101552,2024-12-17,Uttar Pradesh,CHC,Outpatient,Unavailability of medicine,High,No
+CMP101553,2024-08-30,Karnataka,Medical College Hospital,Emergency,Unclean wards,Low,No
+CMP101554,2024-02-04,Bihar,District Hospital,Emergency,Unavailability of medicine,High,Yes
+CMP101555,2024-02-16,Karnataka,District Hospital,Surgery,Unavailability of medicine,Medium,No
+CMP101556,2024-02-13,Karnataka,PHC,Emergency,Billing issues,High,No
+CMP101557,2024-02-17,Bihar,PHC,Emergency,Lack of communication,Medium,No
+CMP101558,2024-08-09,West Bengal,District Hospital,Surgery,Lack of communication,Low,No
+CMP101559,2024-02-19,Rajasthan,PHC,Maternity,Unavailability of medicine,Medium,No
+CMP101560,2024-07-09,Karnataka,PHC,Pediatrics,Billing issues,High,No
+CMP101561,2024-03-07,Uttar Pradesh,Medical College Hospital,Outpatient,Unavailability of medicine,Low,No
+CMP101562,2024-10-11,West Bengal,Medical College Hospital,Surgery,Unclean wards,Low,Yes
+CMP101563,2024-01-31,Tamil Nadu,Medical College Hospital,Maternity,Rude staff,Medium,Yes
+CMP101564,2024-10-27,West Bengal,CHC,Emergency,Unavailability of medicine,Low,No
+CMP101565,2024-10-14,Bihar,PHC,Maternity,Test delays,Low,Yes
+CMP101566,2024-10-14,Tamil Nadu,Medical College Hospital,Emergency,Unclean wards,Low,No
+CMP101567,2024-06-17,Rajasthan,Medical College Hospital,Emergency,Lack of communication,High,No
+CMP101568,2024-12-09,Maharashtra,District Hospital,Pediatrics,Rude staff,Low,No
+CMP101569,2024-03-03,Rajasthan,Medical College Hospital,Surgery,Billing issues,Low,No
+CMP101570,2024-07-29,West Bengal,District Hospital,Outpatient,Lack of communication,Low,Yes
+CMP101571,2024-06-30,Uttar Pradesh,PHC,Diagnostics,Test delays,Low,Yes
+CMP101572,2024-12-06,Rajasthan,District Hospital,Maternity,Test delays,Low,No
+CMP101573,2024-08-04,Rajasthan,Medical College Hospital,Pediatrics,Lack of communication,High,Yes
+CMP101574,2024-01-27,Rajasthan,CHC,Maternity,Unclean wards,High,No
+CMP101575,2024-05-27,Rajasthan,CHC,Surgery,Long wait time,Low,Yes
+CMP101576,2024-11-03,Tamil Nadu,PHC,Pediatrics,Rude staff,Low,No
+CMP101577,2024-06-08,West Bengal,Medical College Hospital,Outpatient,Rude staff,High,Yes
+CMP101578,2024-06-29,Tamil Nadu,PHC,Emergency,Long wait time,Low,No
+CMP101579,2024-02-23,Bihar,District Hospital,Maternity,Rude staff,Medium,No
+CMP101580,2024-10-22,West Bengal,PHC,Outpatient,Rude staff,High,No
+CMP101581,2024-09-16,Maharashtra,CHC,Pharmacy,Long wait time,Medium,Yes
+CMP101582,2024-04-18,Bihar,PHC,Pharmacy,Unclean wards,Medium,No
+CMP101583,2024-03-20,Maharashtra,District Hospital,Diagnostics,Unavailability of medicine,Low,Yes
+CMP101584,2024-12-02,West Bengal,Medical College Hospital,Maternity,Rude staff,High,No
+CMP101585,2024-09-03,Bihar,PHC,Emergency,Test delays,Low,Yes
+CMP101586,2024-04-24,West Bengal,District Hospital,Maternity,Unclean wards,Low,Yes
+CMP101587,2024-02-25,Tamil Nadu,CHC,Diagnostics,Unclean wards,Medium,No
+CMP101588,2024-06-28,Rajasthan,Medical College Hospital,Pharmacy,Long wait time,Low,Yes
+CMP101589,2024-10-11,Tamil Nadu,PHC,Pediatrics,Unclean wards,High,Yes
+CMP101590,2024-07-07,Uttar Pradesh,PHC,Diagnostics,Long wait time,Low,No
+CMP101591,2024-02-28,Tamil Nadu,CHC,Maternity,Unclean wards,Medium,No
+CMP101592,2024-05-22,Karnataka,PHC,Maternity,Unavailability of medicine,Medium,Yes
+CMP101593,2024-10-20,Tamil Nadu,CHC,Pediatrics,Test delays,High,No
+CMP101594,2024-04-25,Karnataka,CHC,Pediatrics,Billing issues,Medium,No
+CMP101595,2024-08-07,Tamil Nadu,Medical College Hospital,Pharmacy,Unclean wards,High,Yes
+CMP101596,2024-10-14,Karnataka,CHC,Pharmacy,Unclean wards,Low,Yes
+CMP101597,2024-11-14,Karnataka,CHC,Outpatient,Unclean wards,Medium,No
+CMP101598,2024-11-10,Rajasthan,CHC,Pediatrics,Long wait time,Medium,Yes
+CMP101599,2024-12-11,West Bengal,PHC,Emergency,Lack of communication,Low,No
+CMP101600,2024-11-25,Tamil Nadu,CHC,Pharmacy,Test delays,Medium,No
+CMP101601,2024-10-12,Karnataka,CHC,Pediatrics,Lack of communication,Medium,Yes
+CMP101602,2024-01-14,Uttar Pradesh,CHC,Emergency,Rude staff,Medium,Yes
+CMP101603,2024-11-07,Rajasthan,CHC,Diagnostics,Long wait time,Low,No
+CMP101604,2024-12-02,Maharashtra,PHC,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP101605,2024-12-21,West Bengal,CHC,Pharmacy,Long wait time,Medium,Yes
+CMP101606,2024-05-16,Rajasthan,District Hospital,Emergency,Rude staff,Medium,No
+CMP101607,2024-01-15,Karnataka,District Hospital,Pharmacy,Lack of communication,High,Yes
+CMP101608,2024-04-02,Karnataka,District Hospital,Pediatrics,Unavailability of medicine,High,No
+CMP101609,2024-05-19,West Bengal,Medical College Hospital,Pharmacy,Rude staff,High,Yes
+CMP101610,2024-12-25,Uttar Pradesh,District Hospital,Outpatient,Lack of communication,Medium,Yes
+CMP101611,2024-06-07,Uttar Pradesh,District Hospital,Diagnostics,Rude staff,Low,No
+CMP101612,2024-06-22,Rajasthan,Medical College Hospital,Emergency,Test delays,Medium,No
+CMP101613,2024-06-28,Bihar,PHC,Diagnostics,Billing issues,Low,Yes
+CMP101614,2024-01-04,West Bengal,PHC,Outpatient,Lack of communication,Medium,No
+CMP101615,2024-04-02,West Bengal,Medical College Hospital,Surgery,Unavailability of medicine,Medium,No
+CMP101616,2024-03-14,Maharashtra,PHC,Diagnostics,Billing issues,Low,No
+CMP101617,2024-10-16,Bihar,Medical College Hospital,Outpatient,Test delays,Medium,Yes
+CMP101618,2024-12-02,West Bengal,CHC,Maternity,Billing issues,High,No
+CMP101619,2024-07-24,Karnataka,PHC,Diagnostics,Rude staff,High,No
+CMP101620,2024-02-05,Uttar Pradesh,Medical College Hospital,Emergency,Billing issues,Low,No
+CMP101621,2024-03-13,Karnataka,CHC,Outpatient,Long wait time,High,Yes
+CMP101622,2024-11-20,West Bengal,CHC,Surgery,Billing issues,High,No
+CMP101623,2024-01-16,West Bengal,District Hospital,Pediatrics,Lack of communication,Low,No
+CMP101624,2024-02-16,West Bengal,Medical College Hospital,Diagnostics,Billing issues,Medium,Yes
+CMP101625,2024-09-28,Tamil Nadu,Medical College Hospital,Outpatient,Rude staff,Medium,Yes
+CMP101626,2024-04-20,Rajasthan,District Hospital,Surgery,Unclean wards,Medium,No
+CMP101627,2024-07-11,Maharashtra,PHC,Maternity,Long wait time,Medium,Yes
+CMP101628,2024-08-02,Rajasthan,Medical College Hospital,Emergency,Rude staff,Medium,No
+CMP101629,2024-08-20,Tamil Nadu,CHC,Diagnostics,Lack of communication,Medium,Yes
+CMP101630,2024-06-23,Uttar Pradesh,Medical College Hospital,Maternity,Unclean wards,Medium,No
+CMP101631,2024-03-21,Uttar Pradesh,District Hospital,Pharmacy,Test delays,High,No
+CMP101632,2024-07-08,Uttar Pradesh,Medical College Hospital,Emergency,Long wait time,High,Yes
+CMP101633,2024-06-08,Maharashtra,PHC,Emergency,Unavailability of medicine,Medium,No
+CMP101634,2024-06-15,Bihar,District Hospital,Emergency,Long wait time,Low,No
+CMP101635,2024-10-17,Karnataka,District Hospital,Emergency,Unavailability of medicine,Medium,Yes
+CMP101636,2024-11-01,West Bengal,CHC,Surgery,Test delays,Low,No
+CMP101637,2024-02-13,Karnataka,Medical College Hospital,Maternity,Test delays,High,No
+CMP101638,2024-01-27,Karnataka,District Hospital,Pharmacy,Long wait time,Medium,Yes
+CMP101639,2024-03-20,Karnataka,PHC,Pediatrics,Unclean wards,Low,Yes
+CMP101640,2024-03-21,West Bengal,PHC,Diagnostics,Unavailability of medicine,Low,No
+CMP101641,2024-11-12,Karnataka,PHC,Emergency,Billing issues,Low,No
+CMP101642,2024-01-26,Bihar,CHC,Diagnostics,Long wait time,Low,No
+CMP101643,2024-12-11,Tamil Nadu,PHC,Outpatient,Lack of communication,Low,No
+CMP101644,2024-02-11,Maharashtra,CHC,Maternity,Unavailability of medicine,High,No
+CMP101645,2024-05-19,Tamil Nadu,PHC,Maternity,Rude staff,High,No
+CMP101646,2024-08-14,Tamil Nadu,Medical College Hospital,Emergency,Long wait time,High,No
+CMP101647,2024-12-04,Rajasthan,PHC,Emergency,Long wait time,Medium,No
+CMP101648,2024-08-05,West Bengal,PHC,Maternity,Unclean wards,Medium,No
+CMP101649,2024-09-05,Karnataka,CHC,Diagnostics,Lack of communication,Medium,No
+CMP101650,2024-11-06,West Bengal,Medical College Hospital,Pharmacy,Test delays,Medium,Yes
+CMP101651,2024-08-14,Karnataka,Medical College Hospital,Outpatient,Test delays,Medium,Yes
+CMP101652,2024-07-31,Bihar,CHC,Maternity,Unclean wards,High,No
+CMP101653,2024-05-19,Maharashtra,Medical College Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP101654,2024-04-20,Uttar Pradesh,PHC,Diagnostics,Test delays,Medium,Yes
+CMP101655,2024-09-19,Tamil Nadu,PHC,Surgery,Unavailability of medicine,Medium,No
+CMP101656,2024-02-28,Uttar Pradesh,Medical College Hospital,Emergency,Billing issues,Medium,Yes
+CMP101657,2024-06-25,Maharashtra,PHC,Surgery,Test delays,High,No
+CMP101658,2024-08-08,Tamil Nadu,Medical College Hospital,Maternity,Long wait time,High,Yes
+CMP101659,2024-02-26,Uttar Pradesh,CHC,Pediatrics,Unavailability of medicine,Low,No
+CMP101660,2024-05-25,Uttar Pradesh,CHC,Diagnostics,Long wait time,Medium,Yes
+CMP101661,2024-12-13,Rajasthan,CHC,Diagnostics,Test delays,Low,No
+CMP101662,2024-12-13,West Bengal,District Hospital,Diagnostics,Billing issues,Low,Yes
+CMP101663,2024-10-30,Bihar,PHC,Diagnostics,Unclean wards,Medium,No
+CMP101664,2024-09-06,Maharashtra,CHC,Pediatrics,Unavailability of medicine,High,Yes
+CMP101665,2024-09-26,Maharashtra,Medical College Hospital,Maternity,Test delays,Low,No
+CMP101666,2024-12-07,Maharashtra,Medical College Hospital,Pediatrics,Test delays,Low,No
+CMP101667,2024-06-06,Tamil Nadu,CHC,Pediatrics,Lack of communication,Medium,Yes
+CMP101668,2024-01-24,Rajasthan,CHC,Pediatrics,Billing issues,Medium,Yes
+CMP101669,2024-04-22,Bihar,CHC,Emergency,Rude staff,High,Yes
+CMP101670,2024-07-21,Karnataka,Medical College Hospital,Surgery,Rude staff,Medium,No
+CMP101671,2024-11-02,Tamil Nadu,District Hospital,Outpatient,Lack of communication,High,Yes
+CMP101672,2024-01-29,Maharashtra,CHC,Emergency,Long wait time,High,No
+CMP101673,2024-01-04,Tamil Nadu,Medical College Hospital,Diagnostics,Lack of communication,Medium,Yes
+CMP101674,2024-04-14,Uttar Pradesh,Medical College Hospital,Maternity,Test delays,High,No
+CMP101675,2024-06-03,Tamil Nadu,CHC,Pediatrics,Unavailability of medicine,High,No
+CMP101676,2024-04-18,West Bengal,PHC,Pediatrics,Unavailability of medicine,Medium,No
+CMP101677,2024-03-11,West Bengal,Medical College Hospital,Diagnostics,Lack of communication,High,Yes
+CMP101678,2024-05-10,Tamil Nadu,PHC,Emergency,Long wait time,Low,Yes
+CMP101679,2024-05-28,Maharashtra,PHC,Surgery,Test delays,High,Yes
+CMP101680,2024-06-16,Uttar Pradesh,District Hospital,Surgery,Long wait time,Medium,Yes
+CMP101681,2024-03-02,Maharashtra,Medical College Hospital,Pharmacy,Billing issues,Medium,Yes
+CMP101682,2024-01-04,Uttar Pradesh,District Hospital,Pharmacy,Billing issues,High,No
+CMP101683,2024-09-11,Rajasthan,CHC,Maternity,Unclean wards,Low,Yes
+CMP101684,2024-08-08,West Bengal,District Hospital,Pharmacy,Long wait time,Low,Yes
+CMP101685,2024-03-30,Uttar Pradesh,CHC,Diagnostics,Unclean wards,Medium,Yes
+CMP101686,2024-03-07,Uttar Pradesh,PHC,Emergency,Unavailability of medicine,Low,No
+CMP101687,2024-07-13,Rajasthan,Medical College Hospital,Maternity,Rude staff,Medium,No
+CMP101688,2024-09-29,Maharashtra,District Hospital,Maternity,Rude staff,High,Yes
+CMP101689,2024-12-26,West Bengal,Medical College Hospital,Emergency,Lack of communication,High,No
+CMP101690,2024-04-27,Uttar Pradesh,PHC,Pharmacy,Lack of communication,High,Yes
+CMP101691,2024-09-13,West Bengal,PHC,Surgery,Unclean wards,Low,Yes
+CMP101692,2024-10-13,Rajasthan,PHC,Pediatrics,Long wait time,High,Yes
+CMP101693,2024-12-08,Bihar,PHC,Pharmacy,Long wait time,High,Yes
+CMP101694,2024-06-30,West Bengal,PHC,Emergency,Lack of communication,High,Yes
+CMP101695,2024-02-06,Bihar,PHC,Pediatrics,Rude staff,Low,Yes
+CMP101696,2024-07-22,Karnataka,District Hospital,Diagnostics,Rude staff,Medium,Yes
+CMP101697,2024-01-22,Bihar,Medical College Hospital,Pediatrics,Unclean wards,High,Yes
+CMP101698,2024-08-11,Karnataka,District Hospital,Pediatrics,Lack of communication,Medium,Yes
+CMP101699,2024-01-10,Bihar,PHC,Pharmacy,Unclean wards,High,Yes
+CMP101700,2024-08-23,Maharashtra,CHC,Maternity,Unavailability of medicine,Low,No
+CMP101701,2024-02-09,Karnataka,CHC,Outpatient,Test delays,Medium,Yes
+CMP101702,2024-06-09,Tamil Nadu,PHC,Outpatient,Lack of communication,Low,No
+CMP101703,2024-10-21,Tamil Nadu,PHC,Surgery,Test delays,High,No
+CMP101704,2024-08-07,Bihar,PHC,Emergency,Rude staff,High,Yes
+CMP101705,2024-10-20,Rajasthan,Medical College Hospital,Diagnostics,Long wait time,High,Yes
+CMP101706,2024-07-26,Tamil Nadu,Medical College Hospital,Maternity,Unavailability of medicine,Low,No
+CMP101707,2024-12-29,West Bengal,District Hospital,Outpatient,Unclean wards,Low,No
+CMP101708,2024-11-23,Bihar,Medical College Hospital,Pharmacy,Lack of communication,Low,No
+CMP101709,2024-08-01,Bihar,PHC,Maternity,Unclean wards,Low,Yes
+CMP101710,2024-05-28,West Bengal,Medical College Hospital,Diagnostics,Test delays,High,Yes
+CMP101711,2024-02-28,West Bengal,CHC,Emergency,Lack of communication,High,No
+CMP101712,2024-07-26,Tamil Nadu,CHC,Maternity,Unavailability of medicine,Medium,No
+CMP101713,2024-01-11,Tamil Nadu,PHC,Maternity,Test delays,Medium,Yes
+CMP101714,2024-06-15,Uttar Pradesh,Medical College Hospital,Pharmacy,Billing issues,High,No
+CMP101715,2024-03-28,West Bengal,Medical College Hospital,Diagnostics,Rude staff,High,Yes
+CMP101716,2024-11-12,Karnataka,District Hospital,Emergency,Unavailability of medicine,Low,Yes
+CMP101717,2024-08-23,Bihar,District Hospital,Maternity,Test delays,High,Yes
+CMP101718,2024-12-19,Tamil Nadu,CHC,Diagnostics,Long wait time,Low,Yes
+CMP101719,2024-07-04,Karnataka,PHC,Maternity,Lack of communication,Medium,Yes
+CMP101720,2024-02-15,Tamil Nadu,CHC,Outpatient,Unavailability of medicine,Low,Yes
+CMP101721,2024-08-11,Tamil Nadu,PHC,Outpatient,Billing issues,Medium,Yes
+CMP101722,2024-02-24,Uttar Pradesh,PHC,Emergency,Rude staff,Medium,No
+CMP101723,2024-05-04,West Bengal,PHC,Outpatient,Unclean wards,High,No
+CMP101724,2024-08-11,Bihar,PHC,Emergency,Unclean wards,Medium,No
+CMP101725,2024-10-28,Bihar,Medical College Hospital,Maternity,Unclean wards,High,No
+CMP101726,2024-07-24,Maharashtra,PHC,Surgery,Unclean wards,High,Yes
+CMP101727,2024-09-25,Rajasthan,Medical College Hospital,Outpatient,Unavailability of medicine,High,No
+CMP101728,2024-02-10,West Bengal,PHC,Diagnostics,Billing issues,Medium,No
+CMP101729,2024-07-21,Rajasthan,Medical College Hospital,Diagnostics,Billing issues,High,No
+CMP101730,2024-06-07,Rajasthan,Medical College Hospital,Emergency,Unclean wards,Medium,No
+CMP101731,2024-06-22,Uttar Pradesh,CHC,Pediatrics,Long wait time,High,No
+CMP101732,2024-04-23,Karnataka,CHC,Surgery,Lack of communication,Medium,Yes
+CMP101733,2024-06-19,Uttar Pradesh,District Hospital,Maternity,Unclean wards,High,No
+CMP101734,2024-03-27,Rajasthan,CHC,Pharmacy,Lack of communication,Low,No
+CMP101735,2024-02-09,Rajasthan,CHC,Diagnostics,Unavailability of medicine,Low,No
+CMP101736,2024-09-18,Karnataka,PHC,Surgery,Billing issues,High,Yes
+CMP101737,2024-11-20,Bihar,District Hospital,Pediatrics,Rude staff,High,Yes
+CMP101738,2024-02-28,Maharashtra,CHC,Pediatrics,Unclean wards,Medium,No
+CMP101739,2024-09-28,Maharashtra,CHC,Diagnostics,Test delays,Low,No
+CMP101740,2024-09-18,Bihar,Medical College Hospital,Emergency,Unclean wards,Medium,Yes
+CMP101741,2024-04-09,Tamil Nadu,District Hospital,Emergency,Long wait time,High,No
+CMP101742,2024-06-27,Uttar Pradesh,District Hospital,Pharmacy,Long wait time,Low,Yes
+CMP101743,2024-06-28,Maharashtra,District Hospital,Emergency,Billing issues,High,No
+CMP101744,2024-11-26,West Bengal,Medical College Hospital,Pharmacy,Unavailability of medicine,Medium,Yes
+CMP101745,2024-03-16,Rajasthan,District Hospital,Pediatrics,Unclean wards,High,No
+CMP101746,2024-04-30,Tamil Nadu,District Hospital,Maternity,Test delays,Medium,Yes
+CMP101747,2024-02-22,Karnataka,Medical College Hospital,Emergency,Rude staff,Low,No
+CMP101748,2024-03-15,West Bengal,District Hospital,Diagnostics,Test delays,Low,Yes
+CMP101749,2024-05-11,Maharashtra,District Hospital,Emergency,Test delays,Medium,No
+CMP101750,2024-04-11,Karnataka,PHC,Outpatient,Test delays,Low,No
+CMP101751,2024-03-29,Tamil Nadu,CHC,Pediatrics,Rude staff,Low,No
+CMP101752,2024-11-04,Karnataka,District Hospital,Maternity,Unclean wards,Low,Yes
+CMP101753,2024-03-19,Tamil Nadu,Medical College Hospital,Maternity,Billing issues,High,Yes
+CMP101754,2024-12-01,Karnataka,PHC,Surgery,Test delays,Medium,No
+CMP101755,2024-02-08,Uttar Pradesh,CHC,Diagnostics,Test delays,High,Yes
+CMP101756,2024-03-31,Maharashtra,CHC,Maternity,Billing issues,Medium,No
+CMP101757,2024-11-17,Maharashtra,PHC,Pediatrics,Long wait time,High,No
+CMP101758,2024-09-09,Rajasthan,Medical College Hospital,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP101759,2024-08-25,Tamil Nadu,CHC,Surgery,Unclean wards,High,Yes
+CMP101760,2024-10-15,Karnataka,CHC,Outpatient,Unclean wards,Medium,Yes
+CMP101761,2024-10-23,Bihar,CHC,Maternity,Long wait time,Low,No
+CMP101762,2024-08-17,Rajasthan,District Hospital,Surgery,Lack of communication,Low,No
+CMP101763,2024-12-14,West Bengal,District Hospital,Outpatient,Unclean wards,Medium,No
+CMP101764,2024-10-16,West Bengal,PHC,Emergency,Unavailability of medicine,Low,Yes
+CMP101765,2024-11-25,Rajasthan,PHC,Emergency,Rude staff,High,No
+CMP101766,2024-11-21,Maharashtra,Medical College Hospital,Maternity,Rude staff,Low,No
+CMP101767,2024-11-15,Karnataka,Medical College Hospital,Outpatient,Test delays,Low,No
+CMP101768,2024-06-14,Karnataka,PHC,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP101769,2024-11-17,Uttar Pradesh,Medical College Hospital,Maternity,Lack of communication,Low,No
+CMP101770,2024-06-10,West Bengal,CHC,Emergency,Rude staff,High,No
+CMP101771,2024-03-18,Bihar,CHC,Diagnostics,Billing issues,Low,No
+CMP101772,2024-08-13,Maharashtra,Medical College Hospital,Surgery,Unclean wards,Medium,Yes
+CMP101773,2024-02-04,Uttar Pradesh,Medical College Hospital,Emergency,Unavailability of medicine,High,No
+CMP101774,2024-08-28,Bihar,PHC,Outpatient,Billing issues,Low,Yes
+CMP101775,2024-08-14,Maharashtra,PHC,Maternity,Long wait time,Low,No
+CMP101776,2024-11-19,Uttar Pradesh,Medical College Hospital,Maternity,Billing issues,Low,No
+CMP101777,2024-06-04,Bihar,CHC,Outpatient,Long wait time,Low,No
+CMP101778,2024-05-20,Maharashtra,District Hospital,Emergency,Long wait time,High,Yes
+CMP101779,2024-10-29,West Bengal,Medical College Hospital,Outpatient,Billing issues,Low,Yes
+CMP101780,2024-01-29,Bihar,PHC,Maternity,Long wait time,Low,Yes
+CMP101781,2024-06-29,Karnataka,PHC,Emergency,Billing issues,Medium,Yes
+CMP101782,2024-09-16,Tamil Nadu,Medical College Hospital,Pharmacy,Unclean wards,Medium,Yes
+CMP101783,2024-02-07,Tamil Nadu,PHC,Pediatrics,Unclean wards,Medium,Yes
+CMP101784,2024-06-07,Karnataka,CHC,Pediatrics,Long wait time,High,Yes
+CMP101785,2024-08-24,Bihar,PHC,Emergency,Unclean wards,High,No
+CMP101786,2024-08-19,Karnataka,District Hospital,Diagnostics,Test delays,Low,No
+CMP101787,2024-01-20,Tamil Nadu,District Hospital,Surgery,Test delays,High,No
+CMP101788,2024-01-30,Tamil Nadu,CHC,Outpatient,Billing issues,Low,Yes
+CMP101789,2024-07-07,Bihar,PHC,Pediatrics,Lack of communication,Low,Yes
+CMP101790,2024-05-26,Tamil Nadu,PHC,Surgery,Unavailability of medicine,Medium,Yes
+CMP101791,2024-02-09,West Bengal,Medical College Hospital,Emergency,Unavailability of medicine,Low,Yes
+CMP101792,2024-11-26,Karnataka,District Hospital,Pediatrics,Unavailability of medicine,Medium,No
+CMP101793,2024-02-16,West Bengal,Medical College Hospital,Pediatrics,Billing issues,Low,No
+CMP101794,2024-11-10,West Bengal,Medical College Hospital,Emergency,Long wait time,Medium,Yes
+CMP101795,2024-10-31,Bihar,PHC,Emergency,Lack of communication,Low,Yes
+CMP101796,2024-09-16,Karnataka,District Hospital,Diagnostics,Billing issues,Medium,No
+CMP101797,2024-07-15,Bihar,Medical College Hospital,Surgery,Long wait time,Low,Yes
+CMP101798,2024-08-24,Tamil Nadu,PHC,Pediatrics,Long wait time,High,Yes
+CMP101799,2024-10-24,Maharashtra,CHC,Surgery,Test delays,Low,Yes
+CMP101800,2024-10-10,Bihar,District Hospital,Outpatient,Test delays,Medium,No
+CMP101801,2024-01-22,Bihar,PHC,Emergency,Unclean wards,Medium,No
+CMP101802,2024-08-18,Maharashtra,CHC,Pediatrics,Rude staff,High,Yes
+CMP101803,2024-10-19,Rajasthan,Medical College Hospital,Outpatient,Lack of communication,Low,Yes
+CMP101804,2024-11-29,Tamil Nadu,Medical College Hospital,Diagnostics,Rude staff,Low,No
+CMP101805,2024-04-06,Karnataka,Medical College Hospital,Pharmacy,Lack of communication,Low,Yes
+CMP101806,2024-06-13,Uttar Pradesh,CHC,Pediatrics,Unclean wards,Medium,No
+CMP101807,2024-11-05,Rajasthan,CHC,Pediatrics,Long wait time,Low,No
+CMP101808,2024-08-31,Maharashtra,Medical College Hospital,Maternity,Long wait time,High,Yes
+CMP101809,2024-09-13,Uttar Pradesh,Medical College Hospital,Maternity,Unclean wards,High,Yes
+CMP101810,2024-03-18,Tamil Nadu,CHC,Diagnostics,Test delays,Low,Yes
+CMP101811,2024-02-01,Bihar,PHC,Pharmacy,Unavailability of medicine,Low,No
+CMP101812,2024-08-18,Bihar,District Hospital,Emergency,Unavailability of medicine,Low,No
+CMP101813,2024-02-22,Rajasthan,Medical College Hospital,Maternity,Billing issues,High,No
+CMP101814,2024-06-24,Tamil Nadu,CHC,Surgery,Test delays,Low,No
+CMP101815,2024-12-31,Karnataka,PHC,Surgery,Unclean wards,Medium,Yes
+CMP101816,2024-02-13,Karnataka,PHC,Outpatient,Lack of communication,High,Yes
+CMP101817,2024-09-15,West Bengal,PHC,Pharmacy,Test delays,High,Yes
+CMP101818,2024-11-26,Tamil Nadu,Medical College Hospital,Pediatrics,Unclean wards,Medium,No
+CMP101819,2024-03-29,Tamil Nadu,CHC,Pediatrics,Billing issues,Medium,Yes
+CMP101820,2024-01-21,West Bengal,District Hospital,Outpatient,Lack of communication,Medium,Yes
+CMP101821,2024-05-06,Tamil Nadu,CHC,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP101822,2024-12-28,Tamil Nadu,CHC,Emergency,Unavailability of medicine,High,Yes
+CMP101823,2024-08-12,West Bengal,PHC,Surgery,Lack of communication,Medium,Yes
+CMP101824,2024-08-12,Rajasthan,District Hospital,Outpatient,Lack of communication,Medium,Yes
+CMP101825,2024-09-25,Tamil Nadu,Medical College Hospital,Pharmacy,Rude staff,Medium,Yes
+CMP101826,2024-09-24,Tamil Nadu,Medical College Hospital,Emergency,Rude staff,High,Yes
+CMP101827,2024-11-08,Bihar,PHC,Emergency,Rude staff,Medium,No
+CMP101828,2024-03-22,Uttar Pradesh,Medical College Hospital,Pharmacy,Long wait time,Medium,No
+CMP101829,2024-07-05,Karnataka,CHC,Outpatient,Test delays,Low,Yes
+CMP101830,2024-07-09,Uttar Pradesh,PHC,Pediatrics,Billing issues,Medium,No
+CMP101831,2024-05-24,Rajasthan,District Hospital,Diagnostics,Unavailability of medicine,High,Yes
+CMP101832,2024-07-17,Rajasthan,CHC,Outpatient,Lack of communication,Medium,No
+CMP101833,2024-07-28,Bihar,District Hospital,Maternity,Test delays,Medium,Yes
+CMP101834,2024-06-22,Maharashtra,District Hospital,Pharmacy,Long wait time,High,Yes
+CMP101835,2024-12-13,Uttar Pradesh,CHC,Surgery,Unclean wards,Low,No
+CMP101836,2024-11-02,Maharashtra,District Hospital,Outpatient,Billing issues,Medium,No
+CMP101837,2024-01-27,Bihar,PHC,Diagnostics,Long wait time,Medium,No
+CMP101838,2024-11-19,Karnataka,PHC,Outpatient,Long wait time,Low,Yes
+CMP101839,2024-11-27,Maharashtra,CHC,Surgery,Unclean wards,Low,Yes
+CMP101840,2024-06-20,Bihar,Medical College Hospital,Emergency,Long wait time,Medium,No
+CMP101841,2024-02-03,Rajasthan,District Hospital,Outpatient,Long wait time,High,No
+CMP101842,2024-06-17,Tamil Nadu,CHC,Emergency,Rude staff,Medium,No
+CMP101843,2024-02-18,Karnataka,District Hospital,Pediatrics,Test delays,High,Yes
+CMP101844,2024-10-12,West Bengal,CHC,Pediatrics,Unclean wards,Low,Yes
+CMP101845,2024-12-13,Rajasthan,District Hospital,Maternity,Unclean wards,Low,Yes
+CMP101846,2024-07-16,Rajasthan,Medical College Hospital,Surgery,Test delays,High,No
+CMP101847,2024-05-25,Tamil Nadu,CHC,Diagnostics,Unclean wards,Low,Yes
+CMP101848,2024-05-09,Karnataka,PHC,Pediatrics,Lack of communication,High,Yes
+CMP101849,2024-12-02,Karnataka,Medical College Hospital,Outpatient,Test delays,Medium,No
+CMP101850,2024-11-04,Uttar Pradesh,PHC,Emergency,Test delays,High,Yes
+CMP101851,2024-03-17,Karnataka,Medical College Hospital,Diagnostics,Billing issues,Low,Yes
+CMP101852,2024-06-19,Uttar Pradesh,PHC,Emergency,Test delays,Medium,No
+CMP101853,2024-02-11,Maharashtra,Medical College Hospital,Emergency,Unclean wards,Medium,Yes
+CMP101854,2024-10-25,Rajasthan,District Hospital,Emergency,Unavailability of medicine,High,Yes
+CMP101855,2024-12-05,Karnataka,PHC,Outpatient,Billing issues,High,No
+CMP101856,2024-03-13,Rajasthan,District Hospital,Emergency,Lack of communication,High,No
+CMP101857,2024-06-28,Maharashtra,CHC,Maternity,Billing issues,Medium,No
+CMP101858,2024-06-07,Karnataka,District Hospital,Maternity,Unavailability of medicine,High,No
+CMP101859,2024-12-01,Rajasthan,PHC,Surgery,Test delays,Medium,Yes
+CMP101860,2024-12-23,Rajasthan,Medical College Hospital,Pharmacy,Test delays,High,Yes
+CMP101861,2024-12-05,Uttar Pradesh,District Hospital,Diagnostics,Test delays,Low,No
+CMP101862,2024-07-19,Rajasthan,Medical College Hospital,Maternity,Test delays,Low,Yes
+CMP101863,2024-03-07,West Bengal,CHC,Pediatrics,Unclean wards,High,Yes
+CMP101864,2024-10-31,Tamil Nadu,CHC,Pediatrics,Lack of communication,Medium,No
+CMP101865,2024-12-28,Karnataka,PHC,Pediatrics,Unavailability of medicine,Low,No
+CMP101866,2024-02-13,Bihar,Medical College Hospital,Diagnostics,Long wait time,High,Yes
+CMP101867,2024-06-07,Tamil Nadu,District Hospital,Maternity,Rude staff,Medium,Yes
+CMP101868,2024-10-13,Uttar Pradesh,District Hospital,Outpatient,Rude staff,Low,No
+CMP101869,2024-07-11,West Bengal,CHC,Outpatient,Long wait time,High,No
+CMP101870,2024-11-25,Rajasthan,Medical College Hospital,Outpatient,Rude staff,Medium,Yes
+CMP101871,2024-06-17,West Bengal,Medical College Hospital,Maternity,Long wait time,High,Yes
+CMP101872,2024-03-06,Rajasthan,CHC,Pharmacy,Lack of communication,Medium,No
+CMP101873,2024-12-09,Bihar,District Hospital,Surgery,Long wait time,Low,No
+CMP101874,2024-12-25,Maharashtra,CHC,Diagnostics,Test delays,High,No
+CMP101875,2024-12-16,Rajasthan,Medical College Hospital,Diagnostics,Rude staff,Medium,Yes
+CMP101876,2024-09-26,Uttar Pradesh,District Hospital,Outpatient,Lack of communication,Medium,No
+CMP101877,2024-02-17,Tamil Nadu,CHC,Outpatient,Long wait time,High,Yes
+CMP101878,2024-11-26,Maharashtra,Medical College Hospital,Surgery,Rude staff,High,Yes
+CMP101879,2024-12-09,Maharashtra,Medical College Hospital,Maternity,Unclean wards,Low,Yes
+CMP101880,2024-08-04,Rajasthan,PHC,Emergency,Test delays,Medium,No
+CMP101881,2024-09-17,Rajasthan,PHC,Surgery,Rude staff,Medium,Yes
+CMP101882,2024-07-04,Uttar Pradesh,CHC,Outpatient,Test delays,Medium,Yes
+CMP101883,2024-01-10,Tamil Nadu,District Hospital,Maternity,Rude staff,High,No
+CMP101884,2024-07-04,Rajasthan,District Hospital,Diagnostics,Unclean wards,High,Yes
+CMP101885,2024-06-07,Uttar Pradesh,PHC,Surgery,Lack of communication,Low,Yes
+CMP101886,2024-04-02,Rajasthan,Medical College Hospital,Emergency,Test delays,High,No
+CMP101887,2024-04-19,Rajasthan,PHC,Maternity,Lack of communication,Medium,Yes
+CMP101888,2024-06-23,Bihar,CHC,Pediatrics,Lack of communication,Medium,No
+CMP101889,2024-09-05,Bihar,PHC,Pediatrics,Billing issues,High,Yes
+CMP101890,2024-04-08,Rajasthan,District Hospital,Pharmacy,Rude staff,Low,No
+CMP101891,2024-04-25,West Bengal,CHC,Pharmacy,Long wait time,High,Yes
+CMP101892,2024-03-11,Karnataka,District Hospital,Diagnostics,Unavailability of medicine,Low,No
+CMP101893,2024-03-20,West Bengal,CHC,Emergency,Lack of communication,High,Yes
+CMP101894,2024-02-09,Maharashtra,Medical College Hospital,Surgery,Unclean wards,High,Yes
+CMP101895,2024-05-31,Rajasthan,PHC,Outpatient,Rude staff,High,Yes
+CMP101896,2024-02-21,West Bengal,District Hospital,Outpatient,Unclean wards,High,No
+CMP101897,2024-09-16,Karnataka,CHC,Emergency,Unclean wards,Low,Yes
+CMP101898,2024-10-03,West Bengal,PHC,Surgery,Long wait time,Low,No
+CMP101899,2024-09-26,Tamil Nadu,District Hospital,Emergency,Long wait time,Medium,No
+CMP101900,2024-01-20,Bihar,Medical College Hospital,Surgery,Rude staff,Low,No
+CMP101901,2024-12-04,Karnataka,CHC,Pharmacy,Rude staff,Medium,No
+CMP101902,2024-06-21,Bihar,District Hospital,Pediatrics,Test delays,High,Yes
+CMP101903,2024-11-12,Rajasthan,District Hospital,Pediatrics,Test delays,High,Yes
+CMP101904,2024-03-08,Bihar,Medical College Hospital,Surgery,Unclean wards,Medium,Yes
+CMP101905,2024-11-01,Rajasthan,CHC,Surgery,Unclean wards,Low,Yes
+CMP101906,2024-07-11,Bihar,PHC,Outpatient,Unclean wards,Medium,Yes
+CMP101907,2024-03-19,Rajasthan,District Hospital,Diagnostics,Long wait time,Low,No
+CMP101908,2024-03-24,Uttar Pradesh,CHC,Pediatrics,Lack of communication,Medium,Yes
+CMP101909,2024-04-02,Karnataka,CHC,Maternity,Unclean wards,High,No
+CMP101910,2024-12-20,Maharashtra,Medical College Hospital,Maternity,Billing issues,High,Yes
+CMP101911,2024-11-15,Karnataka,District Hospital,Outpatient,Rude staff,Low,No
+CMP101912,2024-03-25,Maharashtra,PHC,Pharmacy,Rude staff,Low,No
+CMP101913,2024-08-12,Karnataka,District Hospital,Emergency,Unavailability of medicine,Low,Yes
+CMP101914,2024-01-23,Karnataka,District Hospital,Outpatient,Billing issues,Low,No
+CMP101915,2024-07-29,Bihar,PHC,Emergency,Lack of communication,High,No
+CMP101916,2024-07-05,Maharashtra,CHC,Pediatrics,Lack of communication,High,Yes
+CMP101917,2024-12-12,West Bengal,District Hospital,Outpatient,Unclean wards,Low,Yes
+CMP101918,2024-05-01,Maharashtra,CHC,Maternity,Long wait time,Low,No
+CMP101919,2024-08-15,Maharashtra,Medical College Hospital,Pediatrics,Unavailability of medicine,Medium,Yes
+CMP101920,2024-11-08,Karnataka,CHC,Diagnostics,Long wait time,High,No
+CMP101921,2024-05-25,Maharashtra,PHC,Diagnostics,Long wait time,Low,No
+CMP101922,2024-08-17,Rajasthan,PHC,Outpatient,Test delays,Low,Yes
+CMP101923,2024-04-29,Karnataka,Medical College Hospital,Outpatient,Lack of communication,Medium,No
+CMP101924,2024-09-30,West Bengal,CHC,Maternity,Test delays,Medium,No
+CMP101925,2024-05-02,Rajasthan,District Hospital,Emergency,Unclean wards,Medium,Yes
+CMP101926,2024-06-07,Uttar Pradesh,Medical College Hospital,Emergency,Unclean wards,Low,Yes
+CMP101927,2024-08-28,Bihar,PHC,Maternity,Lack of communication,High,Yes
+CMP101928,2024-04-09,Rajasthan,CHC,Pharmacy,Unclean wards,Medium,Yes
+CMP101929,2024-07-07,Rajasthan,PHC,Pharmacy,Test delays,High,Yes
+CMP101930,2024-12-13,Tamil Nadu,District Hospital,Outpatient,Billing issues,Medium,Yes
+CMP101931,2024-10-19,Uttar Pradesh,Medical College Hospital,Diagnostics,Billing issues,High,No
+CMP101932,2024-08-13,Maharashtra,Medical College Hospital,Pharmacy,Test delays,Low,Yes
+CMP101933,2024-08-24,Rajasthan,PHC,Pharmacy,Billing issues,High,Yes
+CMP101934,2024-05-24,West Bengal,Medical College Hospital,Surgery,Unavailability of medicine,Low,Yes
+CMP101935,2024-07-14,Bihar,CHC,Pediatrics,Long wait time,High,Yes
+CMP101936,2024-09-14,West Bengal,CHC,Pediatrics,Unclean wards,High,Yes
+CMP101937,2024-09-27,Rajasthan,PHC,Diagnostics,Unclean wards,High,Yes
+CMP101938,2024-08-02,Bihar,PHC,Emergency,Unclean wards,Medium,Yes
+CMP101939,2024-03-23,Bihar,Medical College Hospital,Emergency,Billing issues,Low,No
+CMP101940,2024-04-12,Bihar,PHC,Maternity,Billing issues,High,Yes
+CMP101941,2024-11-05,West Bengal,CHC,Emergency,Test delays,Medium,No
+CMP101942,2024-03-11,Maharashtra,District Hospital,Surgery,Billing issues,Low,Yes
+CMP101943,2024-05-08,Rajasthan,CHC,Outpatient,Test delays,High,No
+CMP101944,2024-01-27,Bihar,Medical College Hospital,Outpatient,Lack of communication,High,No
+CMP101945,2024-11-24,Rajasthan,PHC,Pediatrics,Lack of communication,Low,Yes
+CMP101946,2024-09-03,Rajasthan,PHC,Emergency,Unclean wards,High,No
+CMP101947,2024-07-09,West Bengal,PHC,Diagnostics,Rude staff,Medium,Yes
+CMP101948,2024-10-10,Tamil Nadu,Medical College Hospital,Surgery,Test delays,Medium,No
+CMP101949,2024-02-22,Tamil Nadu,District Hospital,Emergency,Long wait time,High,No
+CMP101950,2024-12-30,Bihar,Medical College Hospital,Emergency,Billing issues,High,Yes
+CMP101951,2024-09-21,Karnataka,CHC,Outpatient,Long wait time,High,Yes
+CMP101952,2024-03-04,West Bengal,District Hospital,Maternity,Unclean wards,High,Yes
+CMP101953,2024-05-25,Maharashtra,PHC,Diagnostics,Billing issues,Medium,No
+CMP101954,2024-02-12,West Bengal,CHC,Surgery,Unavailability of medicine,High,Yes
+CMP101955,2024-03-23,Tamil Nadu,PHC,Surgery,Billing issues,High,No
+CMP101956,2024-05-19,Tamil Nadu,District Hospital,Pharmacy,Long wait time,High,No
+CMP101957,2024-08-18,Tamil Nadu,Medical College Hospital,Diagnostics,Unavailability of medicine,Medium,Yes
+CMP101958,2024-09-19,Uttar Pradesh,CHC,Outpatient,Test delays,Low,No
+CMP101959,2024-03-16,West Bengal,Medical College Hospital,Maternity,Unclean wards,Low,No
+CMP101960,2024-08-11,Rajasthan,CHC,Maternity,Unclean wards,Medium,No
+CMP101961,2024-02-16,Rajasthan,PHC,Pharmacy,Long wait time,Low,No
+CMP101962,2024-04-23,Uttar Pradesh,PHC,Outpatient,Unclean wards,Medium,Yes
+CMP101963,2024-08-18,Tamil Nadu,Medical College Hospital,Pediatrics,Billing issues,Low,No
+CMP101964,2024-06-27,Karnataka,PHC,Emergency,Test delays,Low,No
+CMP101965,2024-01-14,West Bengal,District Hospital,Pharmacy,Unavailability of medicine,Low,Yes
+CMP101966,2024-07-31,Maharashtra,District Hospital,Outpatient,Unclean wards,Medium,Yes
+CMP101967,2024-01-28,West Bengal,District Hospital,Emergency,Test delays,High,No
+CMP101968,2024-07-21,Maharashtra,District Hospital,Outpatient,Unclean wards,High,No
+CMP101969,2024-09-14,Tamil Nadu,CHC,Maternity,Long wait time,Low,No
+CMP101970,2024-07-10,Tamil Nadu,CHC,Diagnostics,Rude staff,High,No
+CMP101971,2024-04-30,Maharashtra,District Hospital,Pediatrics,Unavailability of medicine,Low,Yes
+CMP101972,2024-07-16,Karnataka,CHC,Outpatient,Test delays,High,Yes
+CMP101973,2024-02-11,Uttar Pradesh,District Hospital,Diagnostics,Rude staff,Medium,Yes
+CMP101974,2024-07-10,Rajasthan,Medical College Hospital,Outpatient,Unclean wards,Low,Yes
+CMP101975,2024-04-24,Rajasthan,CHC,Emergency,Unavailability of medicine,Medium,No
+CMP101976,2024-01-15,Rajasthan,District Hospital,Diagnostics,Unclean wards,Medium,Yes
+CMP101977,2024-06-12,West Bengal,District Hospital,Surgery,Rude staff,High,Yes
+CMP101978,2024-02-20,Uttar Pradesh,Medical College Hospital,Diagnostics,Billing issues,High,No
+CMP101979,2024-12-31,West Bengal,Medical College Hospital,Emergency,Rude staff,Low,Yes
+CMP101980,2024-11-28,Tamil Nadu,PHC,Diagnostics,Billing issues,Medium,Yes
+CMP101981,2024-06-20,West Bengal,District Hospital,Outpatient,Test delays,Low,Yes
+CMP101982,2024-03-15,West Bengal,PHC,Outpatient,Unavailability of medicine,High,No
+CMP101983,2024-03-11,West Bengal,CHC,Surgery,Billing issues,High,No
+CMP101984,2024-01-20,Maharashtra,District Hospital,Diagnostics,Lack of communication,Low,Yes
+CMP101985,2024-05-26,Rajasthan,District Hospital,Outpatient,Lack of communication,Medium,Yes
+CMP101986,2024-08-29,Uttar Pradesh,CHC,Diagnostics,Test delays,Medium,No
+CMP101987,2024-12-22,Rajasthan,Medical College Hospital,Pharmacy,Test delays,Medium,Yes
+CMP101988,2024-03-12,Karnataka,District Hospital,Outpatient,Unclean wards,Medium,No
+CMP101989,2024-12-27,Tamil Nadu,Medical College Hospital,Diagnostics,Rude staff,High,No
+CMP101990,2024-08-28,Bihar,District Hospital,Maternity,Unavailability of medicine,Low,No
+CMP101991,2024-08-17,Tamil Nadu,PHC,Outpatient,Test delays,High,No
+CMP101992,2024-11-11,Rajasthan,Medical College Hospital,Maternity,Test delays,High,Yes
+CMP101993,2024-01-03,Bihar,PHC,Pharmacy,Unclean wards,High,Yes
+CMP101994,2024-02-10,Tamil Nadu,District Hospital,Pharmacy,Unclean wards,High,No
+CMP101995,2024-01-10,Maharashtra,PHC,Outpatient,Lack of communication,Low,No
+CMP101996,2024-05-11,Maharashtra,District Hospital,Pharmacy,Test delays,Low,No
+CMP101997,2024-04-20,Rajasthan,District Hospital,Outpatient,Test delays,Medium,Yes
+CMP101998,2024-03-17,Maharashtra,PHC,Emergency,Test delays,Low,No
+CMP101999,2024-10-07,Maharashtra,District Hospital,Maternity,Unavailability of medicine,High,No
